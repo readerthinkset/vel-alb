@@ -279,7 +279,42 @@
       "transliteration": "Po më-so-ni, du-ro-ni.",
       "category": "Motivation",
       "generated_at": "2026-06-18T17:02:29.850625"
+    },
+    {
+      "english": "Excuse me, where is the nearest store?",
+      "albanian": "Më falni, ku është dyqani më i afërt?",
+      "transliteration": "Muh fah-lee-nee, koo esht doo-yah-nee muh ee ah-fuhrt?",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T21:32:10.111454"
+    },
+    {
+      "english": "How much is this, please?",
+      "albanian": "Sa kushton kjo, ju lutem?",
+      "transliteration": "Sah koo-shtohn kyoh, yoo loo-tem?",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T21:32:10.111464"
+    },
+    {
+      "english": "Can I try this on?",
+      "albanian": "Mund ta provoj këtë?",
+      "transliteration": "Moo-nd tah proh-voy kuh-tuh?",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T21:32:10.111466"
+    },
+    {
+      "english": "I am looking for a gift.",
+      "albanian": "Po kërkoj një dhuratë.",
+      "transliteration": "Poh kur-koh-yee nyoo dhoo-raht.",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T21:32:10.111468"
+    },
+    {
+      "english": "Do you have this in another size?",
+      "albanian": "E keni këtë, në madhësi tjetër?",
+      "transliteration": "Eh keh-nee kuh-tuh, nuh mah-duh-see tyuh-tur?",
+      "category": "Shopping",
+      "generated_at": "2026-06-18T21:32:10.111469"
     }
   ],
-  "last_updated": "2026-06-18T17:02:29.850627"
+  "last_updated": "2026-06-18T21:32:10.111471"
 }
