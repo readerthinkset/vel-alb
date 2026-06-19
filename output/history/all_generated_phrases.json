@@ -349,7 +349,42 @@
       "transliteration": "Kee moh-ment, n-dee-het ee pur-kree-er.",
       "category": "Joy",
       "generated_at": "2026-06-18T22:18:21.641408"
+    },
+    {
+      "english": "Right now, let's go.",
+      "albanian": "Tani, le të shkojmë.",
+      "transliteration": "Ta-nee, leh teh shko-ym.",
+      "category": "Time",
+      "generated_at": "2026-06-19T04:12:21.980323"
+    },
+    {
+      "english": "Later, maybe tomorrow.",
+      "albanian": "Më vonë, ndoshta nesër.",
+      "transliteration": "Muh-voh-neh, ndoh-sh-tah neh-ser.",
+      "category": "Time",
+      "generated_at": "2026-06-19T04:12:21.980332"
+    },
+    {
+      "english": "In the morning, we eat.",
+      "albanian": "Në mëngjes, ne hamë.",
+      "transliteration": "Nuh muhng-jez, neh hahm.",
+      "category": "Time",
+      "generated_at": "2026-06-19T04:12:21.980334"
+    },
+    {
+      "english": "In the evening, we rest.",
+      "albanian": "Në mbrëmje, ne pushojmë.",
+      "transliteration": "Nuh mbruhm-yeh, neh poo-shoym.",
+      "category": "Time",
+      "generated_at": "2026-06-19T04:12:21.980335"
+    },
+    {
+      "english": "Soon, it will be here.",
+      "albanian": "Shpejt, do të jetë këtu.",
+      "transliteration": "Shpeyht, doh tuh yeh-tuh kuh-too.",
+      "category": "Time",
+      "generated_at": "2026-06-19T04:12:21.980340"
     }
   ],
-  "last_updated": "2026-06-18T22:18:21.641410"
+  "last_updated": "2026-06-19T04:12:21.980342"
 }
