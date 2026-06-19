@@ -419,7 +419,42 @@
       "transliteration": "Duh-jyoh muh shoom, fohl muh pahk.",
       "category": "Self Improvement",
       "generated_at": "2026-06-19T14:57:27.400597"
+    },
+    {
+      "english": "A table for two, please.",
+      "albanian": "Një tavolinë, për dy, ju lutem.",
+      "transliteration": "Nyoo tavoline, per dy, yoo lootehm.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-19T16:32:46.981019"
+    },
+    {
+      "english": "What do you recommend?",
+      "albanian": "Çfarë rekomandoni, ju?",
+      "transliteration": "Chfar rekommandonii, yoo?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-19T16:32:46.981027"
+    },
+    {
+      "english": "Can I see the menu?",
+      "albanian": "A mund ta shoh, menynë?",
+      "transliteration": "Ah moond tah shoh, menyne?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-19T16:32:46.981029"
+    },
+    {
+      "english": "This looks delicious.",
+      "albanian": "Kjo duket, shumë mirë.",
+      "transliteration": "Ky duket, shooom meer.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-19T16:32:46.981030"
+    },
+    {
+      "english": "Waiter, some water please.",
+      "albanian": "Shërbëtor, ujë, ju lutem.",
+      "transliteration": "Sherbetor, oo-yeh, yoo lootehm.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-19T16:32:46.981031"
     }
   ],
-  "last_updated": "2026-06-19T14:57:27.400599"
+  "last_updated": "2026-06-19T16:32:46.981034"
 }
