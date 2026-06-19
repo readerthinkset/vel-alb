@@ -454,7 +454,42 @@
       "transliteration": "Sherbetor, oo-yeh, yoo lootehm.",
       "category": "Restaurant",
       "generated_at": "2026-06-19T16:32:46.981031"
+    },
+    {
+      "english": "My mother, she is kind.",
+      "albanian": "Nëna ime, ajo është e sjellshme.",
+      "transliteration": "Nuh-na ee-meh, ah-yoh uhsh-tuh eh syel-sh-meh.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T18:28:23.618367"
+    },
+    {
+      "english": "Your father, where is he?",
+      "albanian": "Babai yt, ku është ai?",
+      "transliteration": "Bah-bah-ee yt, koo uhsh-tuh ah-ee?",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T18:28:23.618378"
+    },
+    {
+      "english": "Our sister, she sings well.",
+      "albanian": "Motra jonë, ajo këndon mirë.",
+      "transliteration": "Moh-trah yohn, ah-yoh kuhn-dohn meer.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T18:28:23.618379"
+    },
+    {
+      "english": "His brother, he helps me.",
+      "albanian": "Vëllai i tij, ai më ndihmon.",
+      "transliteration": "Vuh-lah-ee ee tee-y, ah-ee muhn nee-d-mohn.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T18:28:23.618380"
+    },
+    {
+      "english": "Her grandmother, she is old.",
+      "albanian": "Gjyshja e saj, ajo është plakë.",
+      "transliteration": "Gyoosh-yah eh sahy, ah-yoh uhsh-tuh plahk.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T18:28:23.618381"
     }
   ],
-  "last_updated": "2026-06-19T16:32:46.981034"
+  "last_updated": "2026-06-19T18:28:23.618383"
 }
