@@ -629,7 +629,42 @@
       "transliteration": "Shpee-ree teem, yeh-ta ee-meh.",
       "category": "Love",
       "generated_at": "2026-06-20T15:46:35.073459"
+    },
+    {
+      "english": "Help me, please.",
+      "albanian": "Më ndihmo, lutem.",
+      "transliteration": "Muh ndee-moh, loo-tem.",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T18:05:45.320074"
+    },
+    {
+      "english": "I need a doctor.",
+      "albanian": "Kam nevojë, për doktor.",
+      "transliteration": "Kah-m ne-voy, per dok-tor.",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T18:05:45.320085"
+    },
+    {
+      "english": "Where is the hospital?",
+      "albanian": "Ku është, spitali?",
+      "transliteration": "Koo esht, spa-tee-li?",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T18:05:45.320087"
+    },
+    {
+      "english": "Call the police.",
+      "albanian": "Thirr, policinë.",
+      "transliteration": "Thirr, po-lee-tsee-nuh.",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T18:05:45.320088"
+    },
+    {
+      "english": "I am lost.",
+      "albanian": "Jam humbur.",
+      "transliteration": "Yah-m hoom-bur.",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T18:05:45.320089"
     }
   ],
-  "last_updated": "2026-06-20T15:46:35.073460"
+  "last_updated": "2026-06-20T18:05:45.320091"
 }
