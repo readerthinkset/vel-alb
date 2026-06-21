@@ -804,7 +804,42 @@
       "transliteration": "Veh-proh meh goo-kseem, jith-mon-eh.",
       "category": "Courage",
       "generated_at": "2026-06-21T15:53:07.929004"
+    },
+    {
+      "english": "Yes, please.",
+      "albanian": "Po, ju lutem.",
+      "transliteration": "Po, yoo lootem.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T18:15:32.231143"
+    },
+    {
+      "english": "No, thank you.",
+      "albanian": "Jo, faleminderit.",
+      "transliteration": "Yo, faleminderit.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T18:15:32.231149"
+    },
+    {
+      "english": "Excuse me, sorry.",
+      "albanian": "Më falni, më vjen keq.",
+      "transliteration": "Muh falnee, muh vyen kehsh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T18:15:32.231151"
+    },
+    {
+      "english": "Where is the toilet?",
+      "albanian": "Ku është tualeti?",
+      "transliteration": "Koo eshtoo tualeti?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T18:15:32.231152"
+    },
+    {
+      "english": "I don't understand.",
+      "albanian": "Nuk kuptoj.",
+      "transliteration": "Nook koo-ptoy.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-21T18:15:32.231153"
     }
   ],
-  "last_updated": "2026-06-21T15:53:07.929006"
+  "last_updated": "2026-06-21T18:15:32.231155"
 }
