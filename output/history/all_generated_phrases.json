@@ -734,7 +734,42 @@
       "transliteration": "Shken-dee-yah yoh-teh oo-nee-keh, leh-reh tuh shkel-qey.",
       "category": "Creativity",
       "generated_at": "2026-06-21T04:06:46.986935"
+    },
+    {
+      "english": "Hello, how are you?",
+      "albanian": "Përshëndetje, si je?",
+      "transliteration": "Pershendetje, si je?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T14:01:09.940311"
+    },
+    {
+      "english": "Thank you, very much.",
+      "albanian": "Faleminderit, shumë.",
+      "transliteration": "Faleminderit, shume.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T14:01:09.940321"
+    },
+    {
+      "english": "Yes, please. No, thanks.",
+      "albanian": "Po, faleminderit. Jo, falem.",
+      "transliteration": "Po, faleminderit. Jo, falem.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T14:01:09.940323"
+    },
+    {
+      "english": "Excuse me, where is it?",
+      "albanian": "Më fal, ku është?",
+      "transliteration": "Ma fal, ku eshte?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T14:01:09.940324"
+    },
+    {
+      "english": "I don't understand, sorry.",
+      "albanian": "Nuk kuptoj, më fal.",
+      "transliteration": "Nuk kuptoj, ma fal.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T14:01:09.940325"
     }
   ],
-  "last_updated": "2026-06-21T04:06:46.986940"
+  "last_updated": "2026-06-21T14:01:09.940327"
 }
