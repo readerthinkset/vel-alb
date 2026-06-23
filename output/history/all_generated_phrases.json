@@ -1049,7 +1049,42 @@
       "transliteration": "Flas, me guxim.",
       "category": "Confidence",
       "generated_at": "2026-06-22T22:04:11.012137"
+    },
+    {
+      "english": "Practice daily, progress daily.",
+      "albanian": "Ushtro çdo ditë, përparoj çdo ditë.",
+      "transliteration": "Ushtro çdo ditë, përparoj çdo ditë.",
+      "category": "Purpose",
+      "generated_at": "2026-06-23T03:28:55.601114"
+    },
+    {
+      "english": "Ask questions, find answers.",
+      "albanian": "Bëj pyetje, gjej përgjigje.",
+      "transliteration": "Bëj pyetje, gjej përgjigje.",
+      "category": "Purpose",
+      "generated_at": "2026-06-23T03:28:55.601124"
+    },
+    {
+      "english": "Connect with people, build bridges.",
+      "albanian": "Lidh me njerëzit, ndërto ura.",
+      "transliteration": "Lidh me njerëzit, ndërto ura.",
+      "category": "Purpose",
+      "generated_at": "2026-06-23T03:28:55.601126"
+    },
+    {
+      "english": "Explore new ideas, grow your mind.",
+      "albanian": "Eksploro ide të reja, rrit mendjen.",
+      "transliteration": "Eksploro ide te reja, rrit mendjen.",
+      "category": "Purpose",
+      "generated_at": "2026-06-23T03:28:55.601127"
+    },
+    {
+      "english": "Be patient, success arrives.",
+      "albanian": "Ji durimtar, suksesi vjen.",
+      "transliteration": "Ji durimtar, suksesi vjen.",
+      "category": "Purpose",
+      "generated_at": "2026-06-23T03:28:55.601128"
     }
   ],
-  "last_updated": "2026-06-22T22:04:11.012139"
+  "last_updated": "2026-06-23T03:28:55.601130"
 }
