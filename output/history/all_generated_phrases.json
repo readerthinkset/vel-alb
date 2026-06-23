@@ -1119,7 +1119,42 @@
       "transliteration": "Per-pyek-yet too-ah-yah, kahn shum ren-dee-see.",
       "category": "Success",
       "generated_at": "2026-06-23T14:40:58.571426"
+    },
+    {
+      "english": "When did that happen?",
+      "albanian": "Kur ndodhi kjo?",
+      "transliteration": "Koor ndoh-dhee ky-oh?",
+      "category": "Time",
+      "generated_at": "2026-06-23T19:03:00.575480"
+    },
+    {
+      "english": "For a long time, we waited.",
+      "albanian": "Gjatë, ne prisnim.",
+      "transliteration": "Jaht, neh prees-neem.",
+      "category": "Time",
+      "generated_at": "2026-06-23T19:03:00.575488"
+    },
+    {
+      "english": "Not yet, almost done.",
+      "albanian": "Jo akoma, pothuajse gati.",
+      "transliteration": "Yoh ah-koh-mah, poh-thoo-ay-seh ga-tee.",
+      "category": "Time",
+      "generated_at": "2026-06-23T19:03:00.575490"
+    },
+    {
+      "english": "Every day, try harder.",
+      "albanian": "Çdo ditë, provo më shumë.",
+      "transliteration": "Chdo deet, proh-voh muh shoom.",
+      "category": "Time",
+      "generated_at": "2026-06-23T19:03:00.575491"
+    },
+    {
+      "english": "At that moment, I saw.",
+      "albanian": "Në atë moment, pashë.",
+      "transliteration": "Nuh ah-tuh moh-ment, pahsh.",
+      "category": "Time",
+      "generated_at": "2026-06-23T19:03:00.575493"
     }
   ],
-  "last_updated": "2026-06-23T14:40:58.571428"
+  "last_updated": "2026-06-23T19:03:00.575494"
 }
