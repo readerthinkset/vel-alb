@@ -1294,7 +1294,42 @@
       "transliteration": "Dhee-eh-teh, geeshta, tuh kem-beh-veh.",
       "category": "Numbers",
       "generated_at": "2026-06-24T16:36:25.517569"
+    },
+    {
+      "english": "Hello, friend, nice to meet you.",
+      "albanian": "Përshëndetje, mik, mirë se të takoj.",
+      "transliteration": "Per-she-ndet-ye, meek, meer seh teh ta-koj.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T18:28:03.683591"
+    },
+    {
+      "english": "Good morning, how are you today?",
+      "albanian": "Mirëmëngjes, si je sot?",
+      "transliteration": "Meer-uh-men-jes, see yeh sot?",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T18:28:03.683600"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "albanian": "Të lutem, hyr brenda.",
+      "transliteration": "Tuh loo-tem, hyr bren-da.",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T18:28:03.683602"
+    },
+    {
+      "english": "Hello, is everything okay?",
+      "albanian": "Ç'kemi, a je mirë?",
+      "transliteration": "Ch-ke-mee, ah yeh meer?",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T18:28:03.683603"
+    },
+    {
+      "english": "Good evening, how was your day?",
+      "albanian": "Mirëmbrëma, si kaloi dita?",
+      "transliteration": "Meer-uhm-bruh-mah, see ka-loy dee-tah?",
+      "category": "Greetings",
+      "generated_at": "2026-06-24T18:28:03.683604"
     }
   ],
-  "last_updated": "2026-06-24T16:36:25.517571"
+  "last_updated": "2026-06-24T18:28:03.683605"
 }
