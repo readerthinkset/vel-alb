@@ -1189,7 +1189,42 @@
       "transliteration": "Kee doorim, merr koh.",
       "category": "Inspiration",
       "generated_at": "2026-06-23T21:44:12.664025"
+    },
+    {
+      "english": "Is this dish spicy?",
+      "albanian": "Është ky pjatë, pikante?",
+      "transliteration": "Esht ky pyah-teh, pikante?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T03:30:08.193103"
+    },
+    {
+      "english": "We are ready, to order.",
+      "albanian": "Jemi gati, për të porositur.",
+      "transliteration": "Yemi gahti, per teh porositur.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T03:30:08.193111"
+    },
+    {
+      "english": "Could I have the bill?",
+      "albanian": "A mund ta kem, faturën?",
+      "transliteration": "Ah moond tah kehm, faturoon?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T03:30:08.193112"
+    },
+    {
+      "english": "It was very good, thank you.",
+      "albanian": "Ishte shumë mirë, faleminderit.",
+      "transliteration": "Ishte shooom meer, faleminderit.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T03:30:08.193114"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "albanian": "Keni mundësi, vegjetariane?",
+      "transliteration": "Keni moondesi, vegetariane?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-24T03:30:08.193115"
     }
   ],
-  "last_updated": "2026-06-23T21:44:12.664027"
+  "last_updated": "2026-06-24T03:30:08.193117"
 }
