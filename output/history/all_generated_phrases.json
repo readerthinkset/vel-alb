@@ -1259,7 +1259,42 @@
       "transliteration": "Yah-m eh lum-toor, tuh kem see meek.",
       "category": "Friendship",
       "generated_at": "2026-06-24T14:23:07.341356"
+    },
+    {
+      "english": "Six, sides, to a dice.",
+      "albanian": "Gjashtë, faqe, të zarit.",
+      "transliteration": "Gyasht, fah-jeh, tuh za-reet.",
+      "category": "Numbers",
+      "generated_at": "2026-06-24T16:36:25.517556"
+    },
+    {
+      "english": "Seven, days, in week.",
+      "albanian": "Shtatë, ditë, në javë.",
+      "transliteration": "Shtat, deet, nuh yah-veh.",
+      "category": "Numbers",
+      "generated_at": "2026-06-24T16:36:25.517565"
+    },
+    {
+      "english": "Eight, legs, on spider.",
+      "albanian": "Tetë, këmbë, te merimanga.",
+      "transliteration": "Tete, kem-beh, teh meh-ree-mahng-gah.",
+      "category": "Numbers",
+      "generated_at": "2026-06-24T16:36:25.517567"
+    },
+    {
+      "english": "Nine, lives, for a cat.",
+      "albanian": "Nëntë, jetë, për mace.",
+      "transliteration": "Nen-teh, yeh-teh, pur mah-ceh.",
+      "category": "Numbers",
+      "generated_at": "2026-06-24T16:36:25.517568"
+    },
+    {
+      "english": "Ten, toes, on feet.",
+      "albanian": "Dhjetë, gishta, të këmbëve.",
+      "transliteration": "Dhee-eh-teh, geeshta, tuh kem-beh-veh.",
+      "category": "Numbers",
+      "generated_at": "2026-06-24T16:36:25.517569"
     }
   ],
-  "last_updated": "2026-06-24T14:23:07.341357"
+  "last_updated": "2026-06-24T16:36:25.517571"
 }
