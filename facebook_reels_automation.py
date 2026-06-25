@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Përshëndetje",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "sq-AL-IlirNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Albanian.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Albanian.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Albanian text should be CLEAN - use standard Albanian script
 7. Do NOT include multiple versions or slashes - just ONE clean Albanian translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Albanian text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Albanian teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Albanian teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Albanian text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Albanian text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "albanian": "[SK] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "albanian": "[SK] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "albanian": "[SK] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "albanian": "[SK] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "albanian": "[SK] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "albanian": "[SK] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "albanian": "[SK] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "albanian": "[SK] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "albanian": "[SK] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "albanian": "[SK] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "albanian": "P\u00ebrsh\u00ebndetje, k\u00ebnaq\u00ebsi t\u00eb njihemi.", "transliteration": "P\u00ebrsh\u00ebndetje, k\u00ebnaq\u00ebsi t\u00eb njihemi."},
+        {"english": "Thank you very much.", "albanian": "Faleminderit shum\u00eb.", "transliteration": "Faleminderit shum\u00eb."},
+        {"english": "Good morning, have a great day.", "albanian": "Mir\u00ebm\u00ebngjes, kalofsh nj\u00eb dit\u00eb t\u00eb mbar\u00eb.", "transliteration": "Mir\u00ebm\u00ebngjes, kalofsh nj\u00eb dit\u00eb t\u00eb mbar\u00eb."},
+        {"english": "I love learning new languages.", "albanian": "M\u00eb p\u00eblqen t\u00eb m\u00ebsoj gjuh\u00eb t\u00eb reja.", "transliteration": "M\u00eb p\u00eblqen t\u00eb m\u00ebsoj gjuh\u00eb t\u00eb reja."},
+        {"english": "Never give up on your dreams.", "albanian": "Mos u dor\u00ebzo kurr\u00eb nga \u00ebndrrat e tua.", "transliteration": "Mos u dor\u00ebzo kurr\u00eb nga \u00ebndrrat e tua."},
+        {"english": "Every day is a fresh start.", "albanian": "\u00c7do dit\u00eb \u00ebsht\u00eb nj\u00eb fillim i ri.", "transliteration": "\u00c7do dit\u00eb \u00ebsht\u00eb nj\u00eb fillim i ri."},
+        {"english": "Believe in yourself always.", "albanian": "Besoni gjithmon\u00eb n\u00eb vetvete.", "transliteration": "Besoni gjithmon\u00eb n\u00eb vetvete."},
+        {"english": "Small steps lead to big changes.", "albanian": "Hapat e vegj\u00ebl \u00e7ojn\u00eb n\u00eb ndryshime t\u00eb m\u00ebdha.", "transliteration": "Hapat e vegj\u00ebl \u00e7ojn\u00eb n\u00eb ndryshime t\u00eb m\u00ebdha."},
+        {"english": "You are stronger than you think.", "albanian": "Je m\u00eb i fort\u00eb nga sa mendon.", "transliteration": "Je m\u00eb i fort\u00eb nga sa mendon."},
+        {"english": "Happiness is a choice, choose it.", "albanian": "Lumturia \u00ebsht\u00eb nj\u00eb zgjedhje, zgjidhe at\u00eb.", "transliteration": "Lumturia \u00ebsht\u00eb nj\u00eb zgjedhje, zgjidhe at\u00eb."},
+        {"english": "What time is it please.", "albanian": "Sa \u00ebsht\u00eb ora, ju lutem.", "transliteration": "Sa \u00ebsht\u00eb ora, ju lutem."},
+        {"english": "Where is the train station.", "albanian": "Ku \u00ebsht\u00eb stacioni i trenit.", "transliteration": "Ku \u00ebsht\u00eb stacioni i trenit."},
+        {"english": "How much does this cost.", "albanian": "Sa kushton kjo.", "transliteration": "Sa kushton kjo."},
+        {"english": "Can you help me please.", "albanian": "Mund t\u00eb m\u00eb ndihmoni, ju lutem.", "transliteration": "Mund t\u00eb m\u00eb ndihmoni, ju lutem."},
+        {"english": "I would like a coffee please.", "albanian": "Do t\u00eb doja nj\u00eb kafe, ju lutem.", "transliteration": "Do t\u00eb doja nj\u00eb kafe, ju lutem."},
+        {"english": "The food is delicious today.", "albanian": "Ushqimi \u00ebsht\u00eb i shijsh\u00ebm sot.", "transliteration": "Ushqimi \u00ebsht\u00eb i shijsh\u00ebm sot."},
+        {"english": "Have a wonderful weekend.", "albanian": "Kaloni nj\u00eb fundjav\u00eb t\u00eb mrekullueshme.", "transliteration": "Kaloni nj\u00eb fundjav\u00eb t\u00eb mrekullueshme."},
+        {"english": "Take care of yourself.", "albanian": "Kujdesuni p\u00ebr veten tuaj.", "transliteration": "Kujdesuni p\u00ebr veten tuaj."},
+        {"english": "See you tomorrow my friend.", "albanian": "Shihemi nes\u00ebr mik.", "transliteration": "Shihemi nes\u00ebr mik."},
+        {"english": "The weather is beautiful outside.", "albanian": "Motit \u00ebsht\u00eb i bukur jasht\u00eb.", "transliteration": "Motit \u00ebsht\u00eb i bukur jasht\u00eb."},
+        {"english": "I am very happy today.", "albanian": "Jam shum\u00eb i lumtur sot.", "transliteration": "Jam shum\u00eb i lumtur sot."},
+        {"english": "Learning a language opens new doors.", "albanian": "T\u00eb m\u00ebsosh nj\u00eb gjuh\u00eb hap dyer t\u00eb reja.", "transliteration": "T\u00eb m\u00ebsosh nj\u00eb gjuh\u00eb hap dyer t\u00eb reja."},
+        {"english": "Keep practicing every single day.", "albanian": "Vazhdoni t\u00eb praktikoni \u00e7do dit\u00eb.", "transliteration": "Vazhdoni t\u00eb praktikoni \u00e7do dit\u00eb."},
+        {"english": "You can achieve anything you want.", "albanian": "Mund t\u00eb arrish gjith\u00e7ka q\u00eb d\u00ebshiron.", "transliteration": "Mund t\u00eb arrish gjith\u00e7ka q\u00eb d\u00ebshiron."},
+        {"english": "Rest when you are tired.", "albanian": "Pushoni kur jeni t\u00eb lodhur.", "transliteration": "Pushoni kur jeni t\u00eb lodhur."},
+        {"english": "Focus on the positive things.", "albanian": "Fokusohuni te gj\u00ebrat pozitive.", "transliteration": "Fokusohuni te gj\u00ebrat pozitive."},
+        {"english": "Learn from your mistakes.", "albanian": "M\u00ebsoni nga gabimet tuaja.", "transliteration": "M\u00ebsoni nga gabimet tuaja."},
+        {"english": "Trust the process completely.", "albanian": "Besoni procesin plot\u00ebsisht.", "transliteration": "Besoni procesin plot\u00ebsisht."},
+        {"english": "Breathe deeply and stay calm.", "albanian": "Merrni frym\u00eb thell\u00eb dhe q\u00ebndroni t\u00eb qet\u00eb.", "transliteration": "Merrni frym\u00eb thell\u00eb dhe q\u00ebndroni t\u00eb qet\u00eb."},
+        {"english": "Enjoy the little moments in life.", "albanian": "Shijoni momentet e vogla n\u00eb jet\u00eb.", "transliteration": "Shijoni momentet e vogla n\u00eb jet\u00eb."},
+        {"english": "Smile more, worry less.", "albanian": "Buz\u00ebqeshni m\u00eb shum\u00eb, shqet\u00ebsohuni m\u00eb pak.", "transliteration": "Buz\u00ebqeshni m\u00eb shum\u00eb, shqet\u00ebsohuni m\u00eb pak."},
+        {"english": "Be kind to everyone you meet.", "albanian": "Jini t\u00eb sjellsh\u00ebm me k\u00ebdo q\u00eb takoni.", "transliteration": "Jini t\u00eb sjellsh\u00ebm me k\u00ebdo q\u00eb takoni."},
+        {"english": "Help others without expecting anything back.", "albanian": "Ndihmoni t\u00eb tjer\u00ebt pa pritur asgj\u00eb n\u00eb k\u00ebmbim.", "transliteration": "Ndihmoni t\u00eb tjer\u00ebt pa pritur asgj\u00eb n\u00eb k\u00ebmbim."},
+        {"english": "Forgive yourself and move forward.", "albanian": "FALNI veten dhe ecni p\u00ebrpara.", "transliteration": "FALNI veten dhe ecni p\u00ebrpara."},
+        {"english": "Stay strong in difficult times.", "albanian": "Q\u00ebndroni t\u00eb fort\u00eb n\u00eb koh\u00eb t\u00eb v\u00ebshtira.", "transliteration": "Q\u00ebndroni t\u00eb fort\u00eb n\u00eb koh\u00eb t\u00eb v\u00ebshtira."},
+        {"english": "Every moment is a new beginning.", "albanian": "\u00c7do moment \u00ebsht\u00eb nj\u00eb fillim i ri.", "transliteration": "\u00c7do moment \u00ebsht\u00eb nj\u00eb fillim i ri."},
+        {"english": "Listen to your heart always.", "albanian": "D\u00ebgjoni gjithmon\u00eb zemr\u00ebn tuaj.", "transliteration": "D\u00ebgjoni gjithmon\u00eb zemr\u00ebn tuaj."},
+        {"english": "Do what makes you happy.", "albanian": "B\u00ebni at\u00eb q\u00eb ju b\u00ebn t\u00eb lumtur.", "transliteration": "B\u00ebni at\u00eb q\u00eb ju b\u00ebn t\u00eb lumtur."},
+        {"english": "Your potential is unlimited.", "albanian": "Potenciali juaj \u00ebsht\u00eb i pakufish\u00ebm.", "transliteration": "Potenciali juaj \u00ebsht\u00eb i pakufish\u00ebm."},
+        {"english": "Be brave and take risks.", "albanian": "Jini t\u00eb guximsh\u00ebm dhe merrni rreziqe.", "transliteration": "Jini t\u00eb guximsh\u00ebm dhe merrni rreziqe."},
+        {"english": "Celebrate your progress every day.", "albanian": "Festoni p\u00ebrparimin tuaj \u00e7do dit\u00eb.", "transliteration": "Festoni p\u00ebrparimin tuaj \u00e7do dit\u00eb."},
+        {"english": "Surround yourself with good people.", "albanian": "Rrethoni veten me njer\u00ebz t\u00eb mir\u00eb.", "transliteration": "Rrethoni veten me njer\u00ebz t\u00eb mir\u00eb."},
+        {"english": "Read books and grow your mind.", "albanian": "Lexoni libra dhe rritni mendjen tuaj.", "transliteration": "Lexoni libra dhe rritni mendjen tuaj."},
+        {"english": "Travel and discover new places.", "albanian": "Udh\u00ebtoni dhe zbuloni vende t\u00eb reja.", "transliteration": "Udh\u00ebtoni dhe zbuloni vende t\u00eb reja."},
+        {"english": "Appreciate what you already have.", "albanian": "Vler\u00ebsoni at\u00eb q\u00eb tashm\u00eb keni.", "transliteration": "Vler\u00ebsoni at\u00eb q\u00eb tashm\u00eb keni."},
+        {"english": "Dance like nobody is watching.", "albanian": "Vall\u00ebzoni sikur askush t\u00eb mos po ju shikoj\u00eb.", "transliteration": "Vall\u00ebzoni sikur askush t\u00eb mos po ju shikoj\u00eb."},
+        {"english": "Sing from your heart out loud.", "albanian": "K\u00ebndoni nga zemra me z\u00eb t\u00eb lart\u00eb.", "transliteration": "K\u00ebndoni nga zemra me z\u00eb t\u00eb lart\u00eb."},
+        {"english": "Plant seeds of kindness everywhere.", "albanian": "Mbillni fara mir\u00ebsjelljeje kudo.", "transliteration": "Mbillni fara mir\u00ebsjelljeje kudo."},
+        {"english": "Let go of what you cannot control.", "albanian": "L\u00ebshoni at\u00eb q\u00eb nuk mund ta kontrolloni.", "transliteration": "L\u00ebshoni at\u00eb q\u00eb nuk mund ta kontrolloni."},
+        {"english": "Be present in the here and now.", "albanian": "Jini t\u00eb pranish\u00ebm n\u00eb k\u00ebtu dhe tani.", "transliteration": "Jini t\u00eb pranish\u00ebm n\u00eb k\u00ebtu dhe tani."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "albanian"
-    for p in fresh:
-        p[lang_key] = p.pop("albanian")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
