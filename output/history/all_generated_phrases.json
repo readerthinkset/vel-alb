@@ -1399,7 +1399,42 @@
       "transliteration": "Meh-ree-nee shun-ee-meh, mban-ee mend meer.",
       "category": "Education",
       "generated_at": "2026-06-27T13:25:01.500084"
+    },
+    {
+      "english": "Sunrise paints the sky, a new day begins.",
+      "albanian": "Dielli lind, qielli pikturohet, nis dita.",
+      "transliteration": "Dee-el leend, chee-el-ee peek-too-ret, nees dee-ah.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-27T15:17:10.213547"
+    },
+    {
+      "english": "First coffee, strong and warm.",
+      "albanian": "Kafja e parë, e fortë, e ngrohtë.",
+      "transliteration": "Kah-fya eh pah-r, eh fort, eh nggroht.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-27T15:17:10.213555"
+    },
+    {
+      "english": "Morning stretch, wake the body.",
+      "albanian": "Shtrirje mëngjesi, zgjoje trupin.",
+      "transliteration": "Shtree-r-jeh muhn-jeh-see, zggwoh-yeh troo-peen.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-27T15:17:10.213557"
+    },
+    {
+      "english": "Quick shower, feel refreshed.",
+      "albanian": "Dush i shpejtë, ndihem i freskët.",
+      "transliteration": "Doosh ee shpait, n-dee-hem ee fres-ket.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-27T15:17:10.213558"
+    },
+    {
+      "english": "Breakfast is simple, but tasty.",
+      "albanian": "Mëngjesi i thjeshtë, por i shijshëm.",
+      "transliteration": "Muhn-jeh-see ee th-yesht, por ee shee-shum.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-27T15:17:10.213559"
     }
   ],
-  "last_updated": "2026-06-27T13:25:01.500085"
+  "last_updated": "2026-06-27T15:17:10.213561"
 }
