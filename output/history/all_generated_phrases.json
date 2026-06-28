@@ -1504,7 +1504,42 @@
       "transliteration": "Chehn-droo-esh-mee-ah loo-luh-zohn, neh vesh-teer-see-ee.",
       "category": "Strength",
       "generated_at": "2026-06-27T21:05:34.280123"
+    },
+    {
+      "english": "The cat purrs, softly.",
+      "albanian": "Macja përgjon, butësisht.",
+      "transliteration": "Mac-ya per-jon, bu-tisht.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T03:41:23.648728"
+    },
+    {
+      "english": "A dog barks, happily.",
+      "albanian": "Një qen leh, gëzuar.",
+      "transliteration": "N-ye chen leh, gu-zu-ar.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T03:41:23.648738"
+    },
+    {
+      "english": "Birds sing, in the trees.",
+      "albanian": "Zogjtë këndojnë, në pemë.",
+      "transliteration": "Zog-t ken-don-y, ne pe-me.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T03:41:23.648739"
+    },
+    {
+      "english": "Fish swim, in the river.",
+      "albanian": "Peshqit notojnë, në lumë.",
+      "transliteration": "Pesh-qit no-toy-n, ne lu-me.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T03:41:23.648740"
+    },
+    {
+      "english": "The bee buzzes, by the flower.",
+      "albanian": "Bleta gumëzhin, pranë lules.",
+      "transliteration": "Ble-ta gu-mu-zhin, pra-ne lu-les.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T03:41:23.648741"
     }
   ],
-  "last_updated": "2026-06-27T21:05:34.280125"
+  "last_updated": "2026-06-28T03:41:23.648743"
 }
