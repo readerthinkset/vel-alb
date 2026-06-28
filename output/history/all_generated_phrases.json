@@ -1574,7 +1574,42 @@
       "transliteration": "Kjo ngjyrë, është perfekte.",
       "category": "Shopping",
       "generated_at": "2026-06-28T13:28:54.722392"
+    },
+    {
+      "english": "Good day, friend.",
+      "albanian": "Ditë të mbarë, mik.",
+      "transliteration": "Dee-teh m-barreh, meek.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-28T15:19:08.851354"
+    },
+    {
+      "english": "How are things?",
+      "albanian": "Si po shkojnë punët?",
+      "transliteration": "See poh shko-yn poon-et?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-28T15:19:08.851363"
+    },
+    {
+      "english": "I am learning Albanian.",
+      "albanian": "Po mësoj shqip.",
+      "transliteration": "Poh meh-soy sh-cheep.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-28T15:19:08.851365"
+    },
+    {
+      "english": "This is delicious.",
+      "albanian": "Kjo është shumë e shijshme.",
+      "transliteration": "Ky-oh es-ht soom eh shee-sh-meh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-28T15:19:08.851366"
+    },
+    {
+      "english": "Can I help you?",
+      "albanian": "A mund t'ju ndihmoj?",
+      "transliteration": "Ah moond tyoo n-dee-m-oy?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-28T15:19:08.851367"
     }
   ],
-  "last_updated": "2026-06-28T13:28:54.722393"
+  "last_updated": "2026-06-28T15:19:08.851369"
 }
