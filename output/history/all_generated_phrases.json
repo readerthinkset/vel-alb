@@ -1644,7 +1644,42 @@
       "transliteration": "Qetësia ime, në stuhi.",
       "category": "Love",
       "generated_at": "2026-06-28T17:59:17.601688"
+    },
+    {
+      "english": "Hello, friend, where are you going?",
+      "albanian": "Përshëndetje, mik, ku po shkoni?",
+      "transliteration": "Pershendetje, mik, ku po shkoni?",
+      "category": "Travel",
+      "generated_at": "2026-06-28T21:03:07.461048"
+    },
+    {
+      "english": "This city, is beautiful, truly.",
+      "albanian": "Kjo qytet, është e bukur, vërtetë.",
+      "transliteration": "Kjo qytet, eshte e bukur, vertete.",
+      "category": "Travel",
+      "generated_at": "2026-06-28T21:03:07.461061"
+    },
+    {
+      "english": "Can you help me, please?",
+      "albanian": "A mund të më ndihmoni, ju lutem?",
+      "transliteration": "A mund te me ndihmoni, ju lutem?",
+      "category": "Travel",
+      "generated_at": "2026-06-28T21:03:07.461063"
+    },
+    {
+      "english": "What time is it, now?",
+      "albanian": "Sa është ora, tani?",
+      "transliteration": "Sa eshte ora, tani?",
+      "category": "Travel",
+      "generated_at": "2026-06-28T21:03:07.461064"
+    },
+    {
+      "english": "I need a taxi, urgently.",
+      "albanian": "Kam nevojë për taksi, urgjentisht.",
+      "transliteration": "Kam nevoje per taksi, urgjentisht.",
+      "category": "Travel",
+      "generated_at": "2026-06-28T21:03:07.461065"
     }
   ],
-  "last_updated": "2026-06-28T17:59:17.601689"
+  "last_updated": "2026-06-28T21:03:07.461067"
 }
