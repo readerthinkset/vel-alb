@@ -1539,7 +1539,42 @@
       "transliteration": "Ble-ta gu-mu-zhin, pra-ne lu-les.",
       "category": "Animals",
       "generated_at": "2026-06-28T03:41:23.648741"
+    },
+    {
+      "english": "This is lovely, thank you.",
+      "albanian": "Është e mrekullueshme, faleminderit.",
+      "transliteration": "Esht e mrekullueshme, faleminderit.",
+      "category": "Shopping",
+      "generated_at": "2026-06-28T13:28:54.722379"
+    },
+    {
+      "english": "Just looking, for now.",
+      "albanian": "Vetëm po shikoj, tani për tani.",
+      "transliteration": "Vetëm po shikoj, tani për tani.",
+      "category": "Shopping",
+      "generated_at": "2026-06-28T13:28:54.722390"
+    },
+    {
+      "english": "Do you have, a bag?",
+      "albanian": "Keni, një çantë?",
+      "transliteration": "Keni, një çantë?",
+      "category": "Shopping",
+      "generated_at": "2026-06-28T13:28:54.722391"
+    },
+    {
+      "english": "I need, some bread.",
+      "albanian": "Kam nevojë, për pak bukë.",
+      "transliteration": "Kam nevojë, për pak bukë.",
+      "category": "Shopping",
+      "generated_at": "2026-06-28T13:28:54.722391"
+    },
+    {
+      "english": "This color, is perfect.",
+      "albanian": "Kjo ngjyrë, është perfekte.",
+      "transliteration": "Kjo ngjyrë, është perfekte.",
+      "category": "Shopping",
+      "generated_at": "2026-06-28T13:28:54.722392"
     }
   ],
-  "last_updated": "2026-06-28T03:41:23.648743"
+  "last_updated": "2026-06-28T13:28:54.722393"
 }
