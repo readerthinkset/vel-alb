@@ -1784,7 +1784,42 @@
       "transliteration": "Fes-toh-nee meh teh dah-shoo-reet.",
       "category": "Holidays",
       "generated_at": "2026-06-29T16:53:59.144064"
+    },
+    {
+      "english": "Listen carefully, please.",
+      "albanian": "Dëgjoni me vëmendje, ju lutem.",
+      "transliteration": "Dzhuh-nyee me vuh-men-dye, yoo loo-tem.",
+      "category": "Directions",
+      "generated_at": "2026-06-29T18:59:37.049982"
+    },
+    {
+      "english": "Say it again, slowly.",
+      "albanian": "Thuajeni përsëri, ngadalë.",
+      "transliteration": "Thoo-yah-yen-ee puh-suh-ree, ngah-dahll.",
+      "category": "Directions",
+      "generated_at": "2026-06-29T18:59:37.049990"
+    },
+    {
+      "english": "Try to pronounce this.",
+      "albanian": "Provoni ta shqiptoni këtë.",
+      "transliteration": "Proh-voh-nee tah shkip-toh-nee kuht-tuh.",
+      "category": "Directions",
+      "generated_at": "2026-06-29T18:59:37.049992"
+    },
+    {
+      "english": "What does this mean?",
+      "albanian": "Çfarë do të thotë kjo?",
+      "transliteration": "Chfar-uh doh tuh thoh-tuh kyoh?",
+      "category": "Directions",
+      "generated_at": "2026-06-29T18:59:37.049993"
+    },
+    {
+      "english": "Can you repeat that?",
+      "albanian": "Mund ta përsërisni atë?",
+      "transliteration": "Moon tah puh-suh-rees-nee ah-tuh?",
+      "category": "Directions",
+      "generated_at": "2026-06-29T18:59:37.049994"
     }
   ],
-  "last_updated": "2026-06-29T16:53:59.144066"
+  "last_updated": "2026-06-29T18:59:37.049996"
 }
