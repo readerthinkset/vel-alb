@@ -2029,7 +2029,42 @@
       "transliteration": "Zgjero horizontet, mësoni shqip.",
       "category": "Purpose",
       "generated_at": "2026-06-30T21:29:36.243880"
+    },
+    {
+      "english": "The sun is bright, let's go out.",
+      "albanian": "Dielli është i ndritshëm, le të dalim.",
+      "transliteration": "Dee-eh-lee eh-sh't ee n'dreet-shum, leh teh dah-leem.",
+      "category": "Weather",
+      "generated_at": "2026-07-01T03:43:02.696135"
+    },
+    {
+      "english": "It's raining softly, a gentle sound.",
+      "albanian": "Po bie shi, butë, një tingull i butë.",
+      "transliteration": "Poh bee-eh shee, boo-tuh, nyee ting-gool ee boo-tuh.",
+      "category": "Weather",
+      "generated_at": "2026-07-01T03:43:02.696144"
+    },
+    {
+      "english": "Wind is blowing, leaves are dancing.",
+      "albanian": "Era fryn, gjethet kërcejnë.",
+      "transliteration": "Eh-rah fruhn, jyeh-teht kehr-tsehyn.",
+      "category": "Weather",
+      "generated_at": "2026-07-01T03:43:02.696145"
+    },
+    {
+      "english": "Clouds are gathering, a storm is near.",
+      "albanian": "Retë po mblidhen, stuhia është afër.",
+      "transliteration": "Reht poh mblee-dhen, stoo-hee-ah eh-sh't ah-fehr.",
+      "category": "Weather",
+      "generated_at": "2026-07-01T03:43:02.696147"
+    },
+    {
+      "english": "A bit chilly, wear a sweater.",
+      "albanian": "Pak ftohtë, vish një bluzë.",
+      "transliteration": "Pahk f'toht, veesh nyee bloo-zuh.",
+      "category": "Weather",
+      "generated_at": "2026-07-01T03:43:02.696148"
     }
   ],
-  "last_updated": "2026-06-30T21:29:36.243881"
+  "last_updated": "2026-07-01T03:43:02.696149"
 }
