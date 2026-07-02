@@ -2204,7 +2204,42 @@
       "transliteration": "Tee muh NGEE-teh moh-RAH-lin, LAHRT.",
       "category": "Friendship",
       "generated_at": "2026-07-01T21:39:52.909024"
+    },
+    {
+      "english": "Green trees, blue sky.",
+      "albanian": "Pemë të gjelbra, qiell të kaltër.",
+      "transliteration": "Peh-meh teh gjel-brah, kyell teh kal-ter.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T03:28:48.263923"
+    },
+    {
+      "english": "Mountain peaks, silent snow.",
+      "albanian": "Majat malore, borë e qetë.",
+      "transliteration": "Mah-yah-t mah-lo-reh, bohr eh ke-teh.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T03:28:48.263936"
+    },
+    {
+      "english": "Ocean waves, gentle breeze.",
+      "albanian": "Valë oqeani, fllad i butë.",
+      "transliteration": "Vah-leh oh-keh-ah-nee, fflah-d ee boo-t.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T03:28:48.263938"
+    },
+    {
+      "english": "Forest path, winding slow.",
+      "albanian": "Shteg pylli, kthehet ngadalë.",
+      "transliteration": "Shteg pyll-ee, kth-e-het ngah-dah-leh.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T03:28:48.263939"
+    },
+    {
+      "english": "Sunlight through leaves.",
+      "albanian": "Drita e diellit, mes gjetheve.",
+      "transliteration": "Dri-tah eh dee-el-lee, mes gjet-heh-veh.",
+      "category": "Nature",
+      "generated_at": "2026-07-02T03:28:48.263943"
     }
   ],
-  "last_updated": "2026-07-01T21:39:52.909026"
+  "last_updated": "2026-07-02T03:28:48.263945"
 }
