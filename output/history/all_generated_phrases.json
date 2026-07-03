@@ -2449,7 +2449,42 @@
       "transliteration": "Perpjekje te vogla, ndryshim i madh.",
       "category": "Growth",
       "generated_at": "2026-07-03T13:54:34.242752"
+    },
+    {
+      "english": "Let's grab a coffee, soon.",
+      "albanian": "Të pimë një kafe, së shpejti.",
+      "transliteration": "Te pim nye kafe, se shpejti.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T15:53:37.039509"
+    },
+    {
+      "english": "This tastes amazing, truly.",
+      "albanian": "Kjo shijon mrekullisht, vërtet.",
+      "transliteration": "Kyo shijon mrekullisht, vertet.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T15:53:37.039519"
+    },
+    {
+      "english": "I need to leave, now.",
+      "albanian": "Më duhet të iki, tani.",
+      "transliteration": "Me duhet te iki, tani.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T15:53:37.039521"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "albanian": "Mund ta përsërisësh, lutem?",
+      "transliteration": "Mund ta perserishesh, lutem?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T15:53:37.039522"
+    },
+    {
+      "english": "It's a bit chilly, outside.",
+      "albanian": "Është pak ftohtë, jashtë.",
+      "transliteration": "Esht pak ftohte, jashte.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-03T15:53:37.039524"
     }
   ],
-  "last_updated": "2026-07-03T13:54:34.242754"
+  "last_updated": "2026-07-03T15:53:37.039525"
 }
