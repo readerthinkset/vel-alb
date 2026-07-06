@@ -2904,7 +2904,42 @@
       "transliteration": "Sho-qeh-REE-a, nyee dhu-RAH-tuh eh CH-mu-ar.",
       "category": "Relationships",
       "generated_at": "2026-07-05T21:02:33.131287"
+    },
+    {
+      "english": "This soup, is delicious.",
+      "albanian": "Kjo supë, është e shijshme.",
+      "transliteration": "Ky-oh soo-pah, esh-tuh eh shee-shmeh.",
+      "category": "Food",
+      "generated_at": "2026-07-06T03:24:56.940206"
+    },
+    {
+      "english": "May I have, some bread?",
+      "albanian": "A mund të marr, pak bukë?",
+      "transliteration": "Ah moond tuh mahr, pahk book?",
+      "category": "Food",
+      "generated_at": "2026-07-06T03:24:56.940214"
+    },
+    {
+      "english": "I love, fresh fruit.",
+      "albanian": "Unë e dua, frutat e freskëta.",
+      "transliteration": "Oo-nuh eh doo-ah, froo-taht eh fres-keh-tah.",
+      "category": "Food",
+      "generated_at": "2026-07-06T03:24:56.940216"
+    },
+    {
+      "english": "Where is, the cheese?",
+      "albanian": "Ku është, djathi?",
+      "transliteration": "Koo esh-tuh, djhah-thee?",
+      "category": "Food",
+      "generated_at": "2026-07-06T03:24:56.940217"
+    },
+    {
+      "english": "This cake, is sweet.",
+      "albanian": "Ky tortë, është e ëmbël.",
+      "transliteration": "Ky tort, esh-tuh eh um-bul.",
+      "category": "Food",
+      "generated_at": "2026-07-06T03:24:56.940218"
     }
   ],
-  "last_updated": "2026-07-05T21:02:33.131289"
+  "last_updated": "2026-07-06T03:24:56.940220"
 }
