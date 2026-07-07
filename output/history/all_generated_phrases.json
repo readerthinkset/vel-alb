@@ -3114,7 +3114,42 @@
       "transliteration": "Lë-reh goo-ksee-meen, të të oo-dheh-hë.",
       "category": "Courage",
       "generated_at": "2026-07-07T02:57:59.319424"
+    },
+    {
+      "english": "Now, let's begin.",
+      "albanian": "Tani, le të fillojmë.",
+      "transliteration": "Tani, le te fillojmë.",
+      "category": "Time",
+      "generated_at": "2026-07-07T14:23:34.479263"
+    },
+    {
+      "english": "Before, it was different.",
+      "albanian": "Më parë, ishte ndryshe.",
+      "transliteration": "Më parë, ishte ndryshe.",
+      "category": "Time",
+      "generated_at": "2026-07-07T14:23:34.479270"
+    },
+    {
+      "english": "After this, we'll see.",
+      "albanian": "Pas kësaj, do të shohim.",
+      "transliteration": "Pas kësaj, do te shohim.",
+      "category": "Time",
+      "generated_at": "2026-07-07T14:23:34.479272"
+    },
+    {
+      "english": "During the day, sunshine.",
+      "albanian": "Gjatë ditës, diell.",
+      "transliteration": "Gjatë ditës, diell.",
+      "category": "Time",
+      "generated_at": "2026-07-07T14:23:34.479274"
+    },
+    {
+      "english": "In a moment, it's time.",
+      "albanian": "Brenda një çasti, është koha.",
+      "transliteration": "Brenda një çasti, është koha.",
+      "category": "Time",
+      "generated_at": "2026-07-07T14:23:34.479303"
     }
   ],
-  "last_updated": "2026-07-07T02:57:59.319426"
+  "last_updated": "2026-07-07T14:23:34.479307"
 }
