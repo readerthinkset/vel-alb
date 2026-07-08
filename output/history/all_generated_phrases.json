@@ -3184,7 +3184,42 @@
       "transliteration": "Zbuloni traditat, me gjuhë.",
       "category": "Motivation",
       "generated_at": "2026-07-07T21:26:19.810377"
+    },
+    {
+      "english": "The lion roars, majestically.",
+      "albanian": "Luani ulërin, madhërishëm.",
+      "transliteration": "Lu-ah-nee oo-leh-reen, mad-eh-reesh-em.",
+      "category": "Animals",
+      "generated_at": "2026-07-08T02:34:36.574121"
+    },
+    {
+      "english": "An owl hoots, at midnight.",
+      "albanian": "Bufi kukuvit, në mesnatë.",
+      "transliteration": "Boo-fee koo-koo-veet, neh mes-naht.",
+      "category": "Animals",
+      "generated_at": "2026-07-08T02:34:36.574129"
+    },
+    {
+      "english": "A rabbit hops, quickly.",
+      "albanian": "Lepuri kërcehet, shpejt.",
+      "transliteration": "Leh-poo-ree kër-cheh-het, shpayt.",
+      "category": "Animals",
+      "generated_at": "2026-07-08T02:34:36.574131"
+    },
+    {
+      "english": "The elephant trumpets, loudly.",
+      "albanian": "Elefanti biesh, fort.",
+      "transliteration": "Eh-leh-fahn-tee byesh, fort.",
+      "category": "Animals",
+      "generated_at": "2026-07-08T02:34:36.574133"
+    },
+    {
+      "english": "A snake hisses, silently.",
+      "albanian": "Gjarpri psherëtin, në heshtje.",
+      "transliteration": "Jar-pree psheh-reh-teen, neh hesht-yeh.",
+      "category": "Animals",
+      "generated_at": "2026-07-08T02:34:36.574134"
     }
   ],
-  "last_updated": "2026-07-07T21:26:19.810378"
+  "last_updated": "2026-07-08T02:34:36.574136"
 }
