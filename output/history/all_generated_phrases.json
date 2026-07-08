@@ -3289,7 +3289,42 @@
       "transliteration": "Myeh-goo-llah vah-ret lart, nyuh bah-tah-nee-yeh eh boo-tuh.",
       "category": "Weather",
       "generated_at": "2026-07-08T16:03:15.602540"
+    },
+    {
+      "english": "This wine, is superb.",
+      "albanian": "Ky verë, është e shkëlqyer.",
+      "transliteration": "Kee vehr, esht eh shkul-tchehr.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T18:13:32.699757"
+    },
+    {
+      "english": "Another drink, please.",
+      "albanian": "Një pije tjetër, ju lutem.",
+      "transliteration": "Nyah pee-yeh tche-tehr, yoo loo-tehm.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T18:13:32.699766"
+    },
+    {
+      "english": "The dessert, was amazing.",
+      "albanian": "Embelsira, ishte mahnitëse.",
+      "transliteration": "Ehm-bel-see-rah, eesh-teh mah-hnee-tseh.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T18:13:32.699768"
+    },
+    {
+      "english": "Could I have, more bread?",
+      "albanian": "A mund të kem, më shumë bukë?",
+      "transliteration": "Ah moond teh kehm, meh shoom book?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T18:13:32.699769"
+    },
+    {
+      "english": "This bread, is so fresh.",
+      "albanian": "Ky bukë, është kaq e freskët.",
+      "transliteration": "Kee book, esht kahk eh fres-ket.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T18:13:32.699770"
     }
   ],
-  "last_updated": "2026-07-08T16:03:15.602542"
+  "last_updated": "2026-07-08T18:13:32.699772"
 }
