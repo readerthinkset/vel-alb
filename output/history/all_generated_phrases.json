@@ -3499,7 +3499,42 @@
       "transliteration": "Pese, monedha ari, shkelqejne.",
       "category": "Numbers",
       "generated_at": "2026-07-09T18:46:09.158435"
+    },
+    {
+      "english": "My leg hurts, badly.",
+      "albanian": "Më dhem, këmbën, shumë.",
+      "transliteration": "Muh dhem, kem-ben, shoom.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:25:09.041546"
+    },
+    {
+      "english": "I can't breathe, at all.",
+      "albanian": "Nuk marr, dot frymë.",
+      "transliteration": "Nook mar, dot freem.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:25:09.041561"
+    },
+    {
+      "english": "Is anyone here, to help?",
+      "albanian": "Është dikush, këtu, për ndihmë?",
+      "transliteration": "Esht di-koosh, koo-too, per n-deem?",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:25:09.041563"
+    },
+    {
+      "english": "I feel dizzy, very.",
+      "albanian": "Më merr, marrja, fort.",
+      "transliteration": "Muh merr, mar-ree-ah, fort.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:25:09.041565"
+    },
+    {
+      "english": "This is an emergency, sir.",
+      "albanian": "Kjo është, urgjencë, zotëri.",
+      "transliteration": "Kee-o esht, oor-jen-tsuh, zoh-teh-ree.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T21:25:09.041566"
     }
   ],
-  "last_updated": "2026-07-09T18:46:09.158436"
+  "last_updated": "2026-07-09T21:25:09.041568"
 }
