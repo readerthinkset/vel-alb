@@ -3989,7 +3989,42 @@
       "transliteration": "Fat te mbar, me ate.",
       "category": "Common Expressions",
       "generated_at": "2026-07-12T14:57:49.311810"
+    },
+    {
+      "english": "My Albanian, is growing strong.",
+      "albanian": "Shqipja ime, po bëhet e fortë.",
+      "transliteration": "Shqipja ime, po bohet e fortë.",
+      "category": "Confidence",
+      "generated_at": "2026-07-12T17:51:23.840721"
+    },
+    {
+      "english": "New sounds, feel natural now.",
+      "albanian": "Tinguj të rinj, ndihen natyrshëm tani.",
+      "transliteration": "Tinguj të rinj, ndifen natyrshëm tani.",
+      "category": "Confidence",
+      "generated_at": "2026-07-12T17:51:23.840732"
+    },
+    {
+      "english": "I understand, more each hour.",
+      "albanian": "Kuptoj më shumë, çdo orë.",
+      "transliteration": "Kuptoj më shumë, çdo orë.",
+      "category": "Confidence",
+      "generated_at": "2026-07-12T17:51:23.840734"
+    },
+    {
+      "english": "This language, opens doors.",
+      "albanian": "Kjo gjuhë, hap dyer.",
+      "transliteration": "Kjo gjuhë, hap dyer.",
+      "category": "Confidence",
+      "generated_at": "2026-07-12T17:51:23.840735"
+    },
+    {
+      "english": "I bravely, speak my mind.",
+      "albanian": "Flesh me guxim, mendimin tim.",
+      "transliteration": "Flesh me guxim, mendimin tim.",
+      "category": "Confidence",
+      "generated_at": "2026-07-12T17:51:23.840737"
     }
   ],
-  "last_updated": "2026-07-12T14:57:49.311812"
+  "last_updated": "2026-07-12T17:51:23.840738"
 }
