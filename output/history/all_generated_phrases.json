@@ -4234,7 +4234,42 @@
       "transliteration": "Peh-shah luh-veez, tee puh-rshta-tehsh.",
       "category": "Balance",
       "generated_at": "2026-07-13T20:57:55.824494"
+    },
+    {
+      "english": "Greetings, traveler, may your journey be bright.",
+      "albanian": "Tungjatjeta, udhëtar, qoftë udha jote e ndritshme.",
+      "transliteration": "Tungjatjeta, udhetar, qofte udha jote e ndritshme.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T02:23:39.286917"
+    },
+    {
+      "english": "A warm welcome, stranger, to our lands.",
+      "albanian": "Një mikpritje e ngrohtë, i huaj, në tokat tona.",
+      "transliteration": "Nje mikpritje e ngrohte, i huaj, ne tokat tona.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T02:23:39.286928"
+    },
+    {
+      "english": "Hello there, hope your day unfolds beautifully.",
+      "albanian": "Përshëndetje, shpresoj dita jote të shpaloset bukur.",
+      "transliteration": "Pershendetje, shpresoj dita jote te shpaloset bukur.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T02:23:39.286930"
+    },
+    {
+      "english": "Good day, may inspiration find you.",
+      "albanian": "Ditë të mbarë, paç frymëzim.",
+      "transliteration": "Dite te bare, pac frymezim.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T02:23:39.286932"
+    },
+    {
+      "english": "Salutations, new friend, it's a pleasure.",
+      "albanian": "Përshëndetje, mik i ri, është një kënaqësi.",
+      "transliteration": "Pershendetje, mik i ri, eshte nje kenaqesi.",
+      "category": "Greetings",
+      "generated_at": "2026-07-14T02:23:39.286933"
     }
   ],
-  "last_updated": "2026-07-13T20:57:55.824496"
+  "last_updated": "2026-07-14T02:23:39.286934"
 }
