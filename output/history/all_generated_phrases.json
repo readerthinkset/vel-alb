@@ -4304,7 +4304,42 @@
       "transliteration": "Ti yeh, fllah-di im ee bu-tuh.",
       "category": "Love",
       "generated_at": "2026-07-14T13:25:38.134403"
+    },
+    {
+      "english": "A minute ago, the rain stopped.",
+      "albanian": "Një minutë më parë, ndaloi shiu.",
+      "transliteration": "N-yoo mee-noot mah pah-r, n-dah-loi sh-ee-oo.",
+      "category": "Time",
+      "generated_at": "2026-07-14T15:25:08.444893"
+    },
+    {
+      "english": "By this time, the flowers bloom.",
+      "albanian": "Në këtë kohë, lulëzojnë lulet.",
+      "transliteration": "Nuh kuh-tuh koh, loo-leh-zohn loo-leht.",
+      "category": "Time",
+      "generated_at": "2026-07-14T15:25:08.444903"
+    },
+    {
+      "english": "In an hour, we leave.",
+      "albanian": "Brenda një ore, ne largohemi.",
+      "transliteration": "Bren-dah n-yoo oh-reh, neh lah-r-go-heh-mee.",
+      "category": "Time",
+      "generated_at": "2026-07-14T15:25:08.444904"
+    },
+    {
+      "english": "Just then, a bird sang.",
+      "albanian": "Pikërisht atëherë, këndoi një zog.",
+      "transliteration": "Pee-kuh-reesht ah-tuh-heh-reh, kuhn-doh-ee n-yoo zog.",
+      "category": "Time",
+      "generated_at": "2026-07-14T15:25:08.444905"
+    },
+    {
+      "english": "Last week, we visited.",
+      "albanian": "Javën e kaluar, ne vizituam.",
+      "transliteration": "Yah-vun eh kah-loo-ar, neh vee-zee-too-ahm.",
+      "category": "Time",
+      "generated_at": "2026-07-14T15:25:08.444906"
     }
   ],
-  "last_updated": "2026-07-14T13:25:38.134404"
+  "last_updated": "2026-07-14T15:25:08.444907"
 }
