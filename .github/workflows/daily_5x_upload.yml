@@ -169,6 +169,7 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "Update phrase history  [skip ci]  - Run #${{ github.run_number }}"
             git pull --rebase || true
+            git pull --rebase
             git push
             echo "Phrase history committed - NO repeats across runs!"
           else
