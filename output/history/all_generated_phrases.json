@@ -4479,7 +4479,42 @@
       "transliteration": "Fohr-moh-soh tuh pah-fohr-muhn, yeh-pyah yeh-t.",
       "category": "Creativity",
       "generated_at": "2026-07-15T13:28:22.920485"
+    },
+    {
+      "english": "Look, the sky, it's turning grey.",
+      "albanian": "Shih, qielli, po bëhet gri.",
+      "transliteration": "Shih, qeelli, po buh-et gree.",
+      "category": "Weather",
+      "generated_at": "2026-07-15T15:27:28.647563"
+    },
+    {
+      "english": "A sudden downpour, quick, inside!",
+      "albanian": "Një shi i papritur, shpejt, brenda!",
+      "transliteration": "Ny-eh shee ee pa-prit-ur, shpeht, bren-dah!",
+      "category": "Weather",
+      "generated_at": "2026-07-15T15:27:28.647576"
+    },
+    {
+      "english": "Such beautiful, crisp autumn air.",
+      "albanian": "Një ajër kaq i bukur, freskët vjeshtor.",
+      "transliteration": "Ny-eh ah-yer kahk ee boo-koor, fres-ketvyesh-tor.",
+      "category": "Weather",
+      "generated_at": "2026-07-15T15:27:28.647578"
+    },
+    {
+      "english": "The thunder rumbled, far away.",
+      "albanian": "Bubullima u dëgjua, larg.",
+      "transliteration": "Boo-boo-lee-mah oo duh-joo-ah, lahrg.",
+      "category": "Weather",
+      "generated_at": "2026-07-15T15:27:28.647579"
+    },
+    {
+      "english": "Dewdrops sparkle, on the grass.",
+      "albanian": "Pikat e vesës shkëlqejnë, mbi bar.",
+      "transliteration": "Pee-kaht eh veh-suhs shkuhl-cheyn, mbee bar.",
+      "category": "Weather",
+      "generated_at": "2026-07-15T15:27:28.647580"
     }
   ],
-  "last_updated": "2026-07-15T13:28:22.920487"
+  "last_updated": "2026-07-15T15:27:28.647582"
 }
