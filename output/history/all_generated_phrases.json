@@ -4654,7 +4654,42 @@
       "transliteration": "Rr-yed-sh-meh-ree-ah yoh-teh, poh n-der-toh-het.",
       "category": "Success",
       "generated_at": "2026-07-16T13:41:51.889604"
+    },
+    {
+      "english": "My arm, it's broken.",
+      "albanian": "Krahu im, është thyer.",
+      "transliteration": "Krah-oo im, esht thyer.",
+      "category": "Emergency",
+      "generated_at": "2026-07-16T15:39:44.068780"
+    },
+    {
+      "english": "I need, some water.",
+      "albanian": "Kam nevojë, për ujë.",
+      "transliteration": "Kam nevoj, per oo-ay.",
+      "category": "Emergency",
+      "generated_at": "2026-07-16T15:39:44.068791"
+    },
+    {
+      "english": "Is there, a pharmacy nearby?",
+      "albanian": "A ka, farmaci afër?",
+      "transliteration": "A ka, far-ma-chee af-er?",
+      "category": "Emergency",
+      "generated_at": "2026-07-16T15:39:44.068792"
+    },
+    {
+      "english": "I've fallen, down here.",
+      "albanian": "Kam rënë, këtu poshtë.",
+      "transliteration": "Kam ren, ktoo posht.",
+      "category": "Emergency",
+      "generated_at": "2026-07-16T15:39:44.068794"
+    },
+    {
+      "english": "Please, slow down.",
+      "albanian": "Të lutem, ngadalë.",
+      "transliteration": "Tuh loot-em, nga-dal.",
+      "category": "Emergency",
+      "generated_at": "2026-07-16T15:39:44.068795"
     }
   ],
-  "last_updated": "2026-07-16T13:41:51.889606"
+  "last_updated": "2026-07-16T15:39:44.068797"
 }
