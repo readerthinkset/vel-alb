@@ -4759,7 +4759,42 @@
       "transliteration": "Provoni nje shprehje, te re sot.",
       "category": "Education",
       "generated_at": "2026-07-16T21:00:46.798764"
+    },
+    {
+      "english": "Look at the board, please.",
+      "albanian": "Shihni tabelën, lutem.",
+      "transliteration": "Shee-nee tah-beh-lahn, loo-tem.",
+      "category": "Directions",
+      "generated_at": "2026-07-17T02:31:42.169684"
+    },
+    {
+      "english": "Open your books, now.",
+      "albanian": "Hapni librat, tani.",
+      "transliteration": "Hahp-nee lee-braht, tah-nee.",
+      "category": "Directions",
+      "generated_at": "2026-07-17T02:31:42.169695"
+    },
+    {
+      "english": "Write this down, quickly.",
+      "albanian": "Shkruajeni këtë, shpejt.",
+      "transliteration": "Shkroo-yah-yeh-nee kuh-tuh, shpeyt.",
+      "category": "Directions",
+      "generated_at": "2026-07-17T02:31:42.169697"
+    },
+    {
+      "english": "Read this sentence, aloud.",
+      "albanian": "Lexoni këtë fjali, me zë.",
+      "transliteration": "Leh-dzoh-nee kuh-tuh fyah-lee, meh zuh.",
+      "category": "Directions",
+      "generated_at": "2026-07-17T02:31:42.169699"
+    },
+    {
+      "english": "Point to the picture, here.",
+      "albanian": "Tregoni figurën, këtu.",
+      "transliteration": "Trah-goh-nee fee-goo-rahn, kuh-too.",
+      "category": "Directions",
+      "generated_at": "2026-07-17T02:31:42.169700"
     }
   ],
-  "last_updated": "2026-07-16T21:00:46.798766"
+  "last_updated": "2026-07-17T02:31:42.169701"
 }
