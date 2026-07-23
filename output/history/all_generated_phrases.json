@@ -5809,7 +5809,42 @@
       "transliteration": "Pehs, sh-qi-sah, zgjoh-hen.",
       "category": "Numbers",
       "generated_at": "2026-07-23T02:36:22.800964"
+    },
+    {
+      "english": "This blouse, is a lovely shade.",
+      "albanian": "Kjo bluze, ka një nuancë të bukur.",
+      "transliteration": "K'yo bloo-zah, kah eend noo-ahn-tsuh teh boo-koor.",
+      "category": "Clothes",
+      "generated_at": "2026-07-23T13:48:10.858000"
+    },
+    {
+      "english": "My favorite jeans, always fit right.",
+      "albanian": "Xhinset e mia, gjithmonë më rrijnë mirë.",
+      "transliteration": "Jheen-seht eh mee-ah, gheet-moh-n mehr-een mee-r.",
+      "category": "Clothes",
+      "generated_at": "2026-07-23T13:48:10.858013"
+    },
+    {
+      "english": "Look at this coat, it's very warm.",
+      "albanian": "Shiko këtë pallto, është shumë e ngrohtë.",
+      "transliteration": "Shee-koh k'tuh pahl-toh, ehsht shoo-m eh nggroht.",
+      "category": "Clothes",
+      "generated_at": "2026-07-23T13:48:10.858016"
+    },
+    {
+      "english": "Her skirt, is quite playful.",
+      "albanian": "Fundi i saj, është mjaft gazmor.",
+      "transliteration": "Foon-dee sah-ee, ehsht myahft gahz-mor.",
+      "category": "Clothes",
+      "generated_at": "2026-07-23T13:48:10.858018"
+    },
+    {
+      "english": "These boots, are perfect for rain.",
+      "albanian": "Këto çizme, janë perfekte për shi.",
+      "transliteration": "K'toh cheez-meh, yahn pehr-fek-teh puhr shee.",
+      "category": "Clothes",
+      "generated_at": "2026-07-23T13:48:10.858019"
     }
   ],
-  "last_updated": "2026-07-23T02:36:22.800966"
+  "last_updated": "2026-07-23T13:48:10.858021"
 }
