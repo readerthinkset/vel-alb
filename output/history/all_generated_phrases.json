@@ -5774,7 +5774,42 @@
       "transliteration": "Mehrh freem nuh cheh-tuh-see, nuhx-ee-reh.",
       "category": "Balance",
       "generated_at": "2026-07-22T21:10:32.513842"
+    },
+    {
+      "english": "One, moment, please.",
+      "albanian": "Një, moment, lutem.",
+      "transliteration": "Nye, moment, lu-tem.",
+      "category": "Numbers",
+      "generated_at": "2026-07-23T02:36:22.800950"
+    },
+    {
+      "english": "Two, paths, diverge.",
+      "albanian": "Dy, rrugë, ndahen.",
+      "transliteration": "Dye, ru-gheh, n-dah-hen.",
+      "category": "Numbers",
+      "generated_at": "2026-07-23T02:36:22.800960"
+    },
+    {
+      "english": "Three, wishes, granted.",
+      "albanian": "Tre, dëshira, plotësuan.",
+      "transliteration": "Tre, deh-shi-ra, plo-teh-su-an.",
+      "category": "Numbers",
+      "generated_at": "2026-07-23T02:36:22.800962"
+    },
+    {
+      "english": "Four, winds, blow.",
+      "albanian": "Katër, erëra, fryejnë.",
+      "transliteration": "Kah-tehr, eh-rah, fru-yehn.",
+      "category": "Numbers",
+      "generated_at": "2026-07-23T02:36:22.800963"
+    },
+    {
+      "english": "Five, senses, awaken.",
+      "albanian": "Pesë, shqisa, zgjohen.",
+      "transliteration": "Pehs, sh-qi-sah, zgjoh-hen.",
+      "category": "Numbers",
+      "generated_at": "2026-07-23T02:36:22.800964"
     }
   ],
-  "last_updated": "2026-07-22T21:10:32.513843"
+  "last_updated": "2026-07-23T02:36:22.800966"
 }
