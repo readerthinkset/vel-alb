@@ -5844,7 +5844,42 @@
       "transliteration": "K'toh cheez-meh, yahn pehr-fek-teh puhr shee.",
       "category": "Clothes",
       "generated_at": "2026-07-23T13:48:10.858019"
+    },
+    {
+      "english": "This ancient stone, whispers tales.",
+      "albanian": "Ky gur i lashtë, pëshpërit histori.",
+      "transliteration": "Keeh goor ee laaashht, purshpurrrt hisstohree.",
+      "category": "Travel",
+      "generated_at": "2026-07-23T16:37:41.594215"
+    },
+    {
+      "english": "A winding path, calls adventure.",
+      "albanian": "Një shteg i lakueshëm, fton aventurën.",
+      "transliteration": "Uhn shtegh ee laakoo-shehm, fton ah-ven-too-ruhn.",
+      "category": "Travel",
+      "generated_at": "2026-07-23T16:37:41.594224"
+    },
+    {
+      "english": "The sea breeze, cools my spirit.",
+      "albanian": "E dela detit, ma freskon shpirtin.",
+      "transliteration": "Eh deh-la deh-teet, mah frehs-kohhn shpeer-teenn.",
+      "category": "Travel",
+      "generated_at": "2026-07-23T16:37:41.594225"
+    },
+    {
+      "english": "Cobblestone alleys, invite wandering.",
+      "albanian": "Rrugicat me kalldrëm, ftojnë endjen.",
+      "transliteration": "Rroo-gee-tsaht meh kaal-druhm, ftoyn en-dyahn.",
+      "category": "Travel",
+      "generated_at": "2026-07-23T16:37:41.594227"
+    },
+    {
+      "english": "A distant chime, signals evening.",
+      "albanian": "Një tingull larg, tregon mbrëmjen.",
+      "transliteration": "Uhn teeng-goolh laarg, teh-gohnh mbrehm-yen.",
+      "category": "Travel",
+      "generated_at": "2026-07-23T16:37:41.594228"
     }
   ],
-  "last_updated": "2026-07-23T13:48:10.858021"
+  "last_updated": "2026-07-23T16:37:41.594229"
 }
