@@ -5879,7 +5879,42 @@
       "transliteration": "Uhn teeng-goolh laarg, teh-gohnh mbrehm-yen.",
       "category": "Travel",
       "generated_at": "2026-07-23T16:37:41.594228"
+    },
+    {
+      "english": "This coffee, is piping hot.",
+      "albanian": "Ky kafe, është shumë i nxehtë.",
+      "transliteration": "Kee kah-feh, esht shoo-mee ee n-zheh-teh.",
+      "category": "Food",
+      "generated_at": "2026-07-23T18:08:09.809282"
+    },
+    {
+      "english": "A little salad, please.",
+      "albanian": "Pak sallatë, lutem.",
+      "transliteration": "Pahk sah-lah-tah, loo-tehm.",
+      "category": "Food",
+      "generated_at": "2026-07-23T18:08:09.809297"
+    },
+    {
+      "english": "That pasta, looks amazing.",
+      "albanian": "Ajo makarona, duket e mahnitshme.",
+      "transliteration": "Ah-yoh mah-kah-roh-nah, doo-keht eh mah-hneetsh-meh.",
+      "category": "Food",
+      "generated_at": "2026-07-23T18:08:09.809299"
+    },
+    {
+      "english": "Would you like, some water?",
+      "albanian": "Dëshironi, pak ujë?",
+      "transliteration": "Deh-shee-roh-nee, pahk oo-yeh?",
+      "category": "Food",
+      "generated_at": "2026-07-23T18:08:09.809300"
+    },
+    {
+      "english": "The rice, is perfectly cooked.",
+      "albanian": "Orizit, është i pjekur në mënyrë të përkryer.",
+      "transliteration": "Oh-ree-zeet, esht ee pyeh-koor n-meh-noo-reh teh pehr-kew-er.",
+      "category": "Food",
+      "generated_at": "2026-07-23T18:08:09.809302"
     }
   ],
-  "last_updated": "2026-07-23T16:37:41.594229"
+  "last_updated": "2026-07-23T18:08:09.809304"
 }
