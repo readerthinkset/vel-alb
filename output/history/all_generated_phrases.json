@@ -6614,7 +6614,42 @@
       "transliteration": "Paskam një surprizë të bukur.",
       "category": "Common Expressions",
       "generated_at": "2026-07-29T14:01:06.478985"
+    },
+    {
+      "english": "The sheep, bleats, in the meadow.",
+      "albanian": "Deleja, belbëzon, në livadh.",
+      "transliteration": "Deleja, belbezon, ne livadh.",
+      "category": "Animals",
+      "generated_at": "2026-07-29T15:49:58.239886"
+    },
+    {
+      "english": "A wolf, howls, at the moon.",
+      "albanian": "Ujku, ulërin, në hënë.",
+      "transliteration": "Ujku, ulerin, ne hene.",
+      "category": "Animals",
+      "generated_at": "2026-07-29T15:49:58.239896"
+    },
+    {
+      "english": "The horse, neighs, proudly.",
+      "albanian": "Kali, nxhirës, me krenari.",
+      "transliteration": "Kali, nxhirres, me krenari.",
+      "category": "Animals",
+      "generated_at": "2026-07-29T15:49:58.239898"
+    },
+    {
+      "english": "A pig, grunts, in the mud.",
+      "albanian": "Derri, rënkon, në baltë.",
+      "transliteration": "Derri, renkon, ne balte.",
+      "category": "Animals",
+      "generated_at": "2026-07-29T15:49:58.239899"
+    },
+    {
+      "english": "The cow, moos, chewing grass.",
+      "albanian": "Lopa, mushkë, duke përtypur bar.",
+      "transliteration": "Lopa, mushke, duke pertypur bar.",
+      "category": "Animals",
+      "generated_at": "2026-07-29T15:49:58.239900"
     }
   ],
-  "last_updated": "2026-07-29T14:01:06.478987"
+  "last_updated": "2026-07-29T15:49:58.239903"
 }
