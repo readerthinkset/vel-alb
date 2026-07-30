@@ -6789,7 +6789,42 @@
       "transliteration": "Shper-n-dai skah-dar-in, bahsh-koo-pon-ee.",
       "category": "Technology",
       "generated_at": "2026-07-30T18:09:39.948737"
+    },
+    {
+      "english": "Fire!, over there.",
+      "albanian": "Zjar r, atje.",
+      "transliteration": "Zjar, a-tyeh.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T21:11:35.829961"
+    },
+    {
+      "english": "I'm injured, badly.",
+      "albanian": "Jam plagosur, shumë.",
+      "transliteration": "Yahm plah-GOO-soor, shoom.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T21:11:35.829970"
+    },
+    {
+      "english": "My head hurts, a lot.",
+      "albanian": "Koka, më dhemb.",
+      "transliteration": "KO-kah, muh DHEMB.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T21:11:35.829971"
+    },
+    {
+      "english": "Someone is ill, here.",
+      "albanian": "Dikush, është sëmurë.",
+      "transliteration": "Dee-KOOSH, EH-stooh SU-moor.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T21:11:35.829973"
+    },
+    {
+      "english": "I need, immediate help.",
+      "albanian": "Kam nevojë, urgjente.",
+      "transliteration": "Kah-m neh-VOY, oor-JEN-teh.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T21:11:35.829977"
     }
   ],
-  "last_updated": "2026-07-30T18:09:39.948739"
+  "last_updated": "2026-07-30T21:11:35.829979"
 }
