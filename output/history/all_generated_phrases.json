@@ -6824,7 +6824,42 @@
       "transliteration": "Kah-m neh-VOY, oor-JEN-teh.",
       "category": "Emergency",
       "generated_at": "2026-07-30T21:11:35.829977"
+    },
+    {
+      "english": "It's a beautiful morning, isn't it?",
+      "albanian": "Është mëngjes i bukur, apo jo?",
+      "transliteration": "Esht men'jesh i bukur, apo yo?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-31T02:43:32.384571"
+    },
+    {
+      "english": "This coffee is very good.",
+      "albanian": "Kjo kafja, shumë e mirë.",
+      "transliteration": "Kyo kaf'ya, shum' e mir'.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-31T02:43:32.384580"
+    },
+    {
+      "english": "I need a little help.",
+      "albanian": "Kam nevojë, pak ndihmë.",
+      "transliteration": "Kam nev'oy, pak n'dihm'.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-31T02:43:32.384582"
+    },
+    {
+      "english": "Where can I buy this?",
+      "albanian": "Ku mund ta blej këtë?",
+      "transliteration": "Ku mund ta ble' k'et'?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-31T02:43:32.384583"
+    },
+    {
+      "english": "What time is it now?",
+      "albanian": "Sa është ora, tani?",
+      "transliteration": "Sa esht' ora, ta'ni?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-31T02:43:32.384584"
     }
   ],
-  "last_updated": "2026-07-30T21:11:35.829979"
+  "last_updated": "2026-07-31T02:43:32.384586"
 }
