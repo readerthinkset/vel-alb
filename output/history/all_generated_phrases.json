@@ -6859,7 +6859,42 @@
       "transliteration": "Sa esht' ora, ta'ni?",
       "category": "Basic Phrases",
       "generated_at": "2026-07-31T02:43:32.384584"
+    },
+    {
+      "english": "The day, slowly unfolds.",
+      "albanian": "Dita, ngadalë zhvillohet.",
+      "transliteration": "Dee-tah, ngah-dah-loh zhvee-loh-het.",
+      "category": "Time",
+      "generated_at": "2026-07-31T13:55:55.448566"
+    },
+    {
+      "english": "Time slips, like sand.",
+      "albanian": "Koha rrëshqet, si rëra.",
+      "transliteration": "Koh-hah ruh-shqet, see ruh-rah.",
+      "category": "Time",
+      "generated_at": "2026-07-31T13:55:55.448577"
+    },
+    {
+      "english": "A brief pause, then action.",
+      "albanian": "Një pauzë e shkurtër, pastaj veprim.",
+      "transliteration": "Nyah pah-ooz eh shkoort-er, pah-stai veh-preem.",
+      "category": "Time",
+      "generated_at": "2026-07-31T13:55:55.448579"
+    },
+    {
+      "english": "We'll meet, when ready.",
+      "albanian": "Do takohemi, kur të jemi gati.",
+      "transliteration": "Doh tah-koh-heh-mee, koor tuh yeh-mee gah-tee.",
+      "category": "Time",
+      "generated_at": "2026-07-31T13:55:55.448580"
+    },
+    {
+      "english": "The moment arrived, finally.",
+      "albanian": "Momenti mbërriti, më në fund.",
+      "transliteration": "Moh-men-tee muh-bree-tee, muh nah foon.",
+      "category": "Time",
+      "generated_at": "2026-07-31T13:55:55.448581"
     }
   ],
-  "last_updated": "2026-07-31T02:43:32.384586"
+  "last_updated": "2026-07-31T13:55:55.448583"
 }
