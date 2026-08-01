@@ -6999,7 +6999,42 @@
       "transliteration": "Yun zem-er e leh-t, vahll-zo-n lee-r.",
       "category": "Happiness",
       "generated_at": "2026-08-01T02:39:41.758922"
+    },
+    {
+      "english": "Let's practice, right now.",
+      "albanian": "Le ta ushtrojmë, tani.",
+      "transliteration": "Le ta ush-tro-ym, ta-ni.",
+      "category": "Directions",
+      "generated_at": "2026-08-01T13:09:55.884503"
+    },
+    {
+      "english": "Pay attention, to this sound.",
+      "albanian": "Vini re, këtij tingulli.",
+      "transliteration": "Vi-ni re, kti-y ting-u-li.",
+      "category": "Directions",
+      "generated_at": "2026-08-01T13:09:55.884511"
+    },
+    {
+      "english": "Speak clearly, if you can.",
+      "albanian": "Fshihni qartë, nëse mundeni.",
+      "transliteration": "Fshi-hni qart, ne-se mun-de-ni.",
+      "category": "Directions",
+      "generated_at": "2026-08-01T13:09:55.884513"
+    },
+    {
+      "english": "Follow me, word by word.",
+      "albanian": "Më ndiqni, fjalë pas fjale.",
+      "transliteration": "Më n'diq-ni, fjal pas fja-le.",
+      "category": "Directions",
+      "generated_at": "2026-08-01T13:09:55.884514"
+    },
+    {
+      "english": "Imagine the meaning, please.",
+      "albanian": "Paramendoni kuptimin, ju lutem.",
+      "transliteration": "Pa-ra-men-do-ni kup-ti-min, ju lu-tem.",
+      "category": "Directions",
+      "generated_at": "2026-08-01T13:09:55.884515"
     }
   ],
-  "last_updated": "2026-08-01T02:39:41.758924"
+  "last_updated": "2026-08-01T13:09:55.884517"
 }
