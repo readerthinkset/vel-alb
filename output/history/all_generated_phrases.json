@@ -7069,7 +7069,42 @@
       "transliteration": "Pesë, zogj che kendojne, fluturojne.",
       "category": "Numbers",
       "generated_at": "2026-08-01T15:01:32.197069"
+    },
+    {
+      "english": "This sweater, feels soft, doesn't it?",
+      "albanian": "Ky pulovër, ndjehet i butë, apo jo?",
+      "transliteration": "Kee poo-lo-ver, n'dyeh-thet ee boo-t', ah-poh yoh?",
+      "category": "Clothes",
+      "generated_at": "2026-08-01T17:52:31.125213"
+    },
+    {
+      "english": "Check out, this unique t-shirt.",
+      "albanian": "Shiko, këtë bluze unike.",
+      "transliteration": "Shee-koh, k'tuh bloo-zuh oo-nee-keh.",
+      "category": "Clothes",
+      "generated_at": "2026-08-01T17:52:31.125224"
+    },
+    {
+      "english": "My new scarf, is very vibrant.",
+      "albanian": "Sciarfi im i ri, është shumë gjallërues.",
+      "transliteration": "Shah-rfee im ee ree, esh-tuh shoom jahl-loo-ehs.",
+      "category": "Clothes",
+      "generated_at": "2026-08-01T17:52:31.125226"
+    },
+    {
+      "english": "These trousers, have a great cut.",
+      "albanian": "Këto pantallona, kanë prerje të shkëlqyer.",
+      "transliteration": "K'toh pahn-tah-loh-nah, kahn preh-ryeh t' shk'l-qoo-er.",
+      "category": "Clothes",
+      "generated_at": "2026-08-01T17:52:31.125228"
+    },
+    {
+      "english": "Her hat, completes the look.",
+      "albanian": "Kapelja e saj, kompleton pamjen.",
+      "transliteration": "Kah-peh-lyah eh sah-ee, kohm-pleh-ton pahm-yen.",
+      "category": "Clothes",
+      "generated_at": "2026-08-01T17:52:31.125229"
     }
   ],
-  "last_updated": "2026-08-01T15:01:32.197071"
+  "last_updated": "2026-08-01T17:52:31.125231"
 }
