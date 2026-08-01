@@ -7104,7 +7104,42 @@
       "transliteration": "Kah-peh-lyah eh sah-ee, kohm-pleh-ton pahm-yen.",
       "category": "Clothes",
       "generated_at": "2026-08-01T17:52:31.125229"
+    },
+    {
+      "english": "I like, this style.",
+      "albanian": "Më pëlqen, ky stil.",
+      "transliteration": "Muh pul-ken, kee stil.",
+      "category": "Shopping",
+      "generated_at": "2026-08-01T20:54:23.934982"
+    },
+    {
+      "english": "Something, for my friend.",
+      "albanian": "Diçka, për mikun tim.",
+      "transliteration": "Deetch-ka, per mee-koon teem.",
+      "category": "Shopping",
+      "generated_at": "2026-08-01T20:54:23.934993"
+    },
+    {
+      "english": "Does it come, in blue?",
+      "albanian": "Vjen, në ngjyrë blu?",
+      "transliteration": "Vyen, nuh ngyur bluh?",
+      "category": "Shopping",
+      "generated_at": "2026-08-01T20:54:23.934995"
+    },
+    {
+      "english": "This fabric, is nice.",
+      "albanian": "Kjo pëlhurë, është e bukur.",
+      "transliteration": "Kyo pul-huur, esht eh bu-koor.",
+      "category": "Shopping",
+      "generated_at": "2026-08-01T20:54:23.934997"
+    },
+    {
+      "english": "I need, a shopping basket.",
+      "albanian": "Më duhet, një shportë blerjeje.",
+      "transliteration": "Muh du-het, nye shpor-tuh bler-je-yeh.",
+      "category": "Shopping",
+      "generated_at": "2026-08-01T20:54:23.934998"
     }
   ],
-  "last_updated": "2026-08-01T17:52:31.125231"
+  "last_updated": "2026-08-01T20:54:23.935000"
 }
