@@ -7209,7 +7209,42 @@
       "transliteration": "N-yeh poo-pluh eh vet-meh, bee-eh nga lahrt.",
       "category": "Nature",
       "generated_at": "2026-08-02T15:02:54.985325"
+    },
+    {
+      "english": "Sky, bright blue, no clouds.",
+      "albanian": "Qielli, kaltër i ndritshëm, pa re.",
+      "transliteration": "Chiel-li, kal-tër ee nin-dree-shum, pa reh.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T17:53:36.159293"
+    },
+    {
+      "english": "Gentle shower, plants are happy.",
+      "albanian": "Dush i butë, bimët gëzohen.",
+      "transliteration": "Doosh ee boot, bim-et guh-zo-hen.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T17:53:36.159300"
+    },
+    {
+      "english": "Strong gust, hold on tight.",
+      "albanian": "Përkësh i fortë, mbaj fort.",
+      "transliteration": "Pur-kush ee fort, m-bai fort.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T17:53:36.159302"
+    },
+    {
+      "english": "Dark skies, perhaps thunder.",
+      "albanian": "Qiej të errët, ndoshta rrufe.",
+      "transliteration": "Chiey tuh err-et, n-do-sh-ta roo-feh.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T17:53:36.159303"
+    },
+    {
+      "english": "Cool air, very refreshing.",
+      "albanian": "Ajër i freskët, shumë i këndshëm.",
+      "transliteration": "A-yur ee fres-ket, shoom-m ee kun-dshum.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T17:53:36.159304"
     }
   ],
-  "last_updated": "2026-08-02T15:02:54.985327"
+  "last_updated": "2026-08-02T17:53:36.159306"
 }
