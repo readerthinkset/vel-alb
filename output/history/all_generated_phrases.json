@@ -7629,7 +7629,42 @@
       "transliteration": "Gish-tat too-aj, ah-tah treh-goyn.",
       "category": "Body Parts",
       "generated_at": "2026-08-04T21:13:49.982289"
+    },
+    {
+      "english": "A tiny ladybug, crawls, on a leaf.",
+      "albanian": "Një kokërrzë e vogël, zvarritet, mbi gjethe.",
+      "transliteration": "N'yoh koh-kurz-uh eh vo-guhl, zvah-reet-teh, mbee gyeth-eh.",
+      "category": "Animals",
+      "generated_at": "2026-08-05T02:24:40.882570"
+    },
+    {
+      "english": "The busy beaver, builds, a dam.",
+      "albanian": "Kastori i zënë, ndërton, digën.",
+      "transliteration": "Kahs-toh-ree ee zun-eh, n'dur-tohn, dee-gun.",
+      "category": "Animals",
+      "generated_at": "2026-08-05T02:24:40.882581"
+    },
+    {
+      "english": "A proud rooster, crows, at dawn.",
+      "albanian": "Gjelit krenar, këndon, në agim.",
+      "transliteration": "Gyeh-leet khrun-ahr, k'un-do'hn, n'uh ah-geem.",
+      "category": "Animals",
+      "generated_at": "2026-08-05T02:24:40.882583"
+    },
+    {
+      "english": "The fluffy sheepdog, guards, the flock.",
+      "albanian": "Qeni dele, i leshtë, ruan, kopën.",
+      "transliteration": "Ch'en-ee deh-leh, ee lyesh-teh, roo-ahn, koh-pun.",
+      "category": "Animals",
+      "generated_at": "2026-08-05T02:24:40.882585"
+    },
+    {
+      "english": "A playful kitten, chases, a string.",
+      "albanian": "Maceku qejfli, ndjek, një litar.",
+      "transliteration": "Mah-tseh-koo ch'eyj-flee, n'dyek, n'yoh lee-tahr.",
+      "category": "Animals",
+      "generated_at": "2026-08-05T02:24:40.882586"
     }
   ],
-  "last_updated": "2026-08-04T21:13:49.982291"
+  "last_updated": "2026-08-05T02:24:40.882588"
 }
