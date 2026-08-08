@@ -8189,7 +8189,42 @@
       "transliteration": "Pehs, fah-rah tuh vohg-lah, mbyell.",
       "category": "Numbers",
       "generated_at": "2026-08-08T12:38:51.102177"
+    },
+    {
+      "english": "Deep woods, secret paths.",
+      "albanian": "Pyje të thella, shtigje sekrete.",
+      "transliteration": "Py-yeh te thel-lah, shtig-yeh se-kre-te.",
+      "category": "Nature",
+      "generated_at": "2026-08-08T14:32:33.205788"
+    },
+    {
+      "english": "Whispering grass, dances lightly.",
+      "albanian": "Barërat murmuriten, kërcejnë lehtë.",
+      "transliteration": "Bah-rah-rat moor-moo-ree-ten, ker-tsey-yen leh-te.",
+      "category": "Nature",
+      "generated_at": "2026-08-08T14:32:33.205798"
+    },
+    {
+      "english": "Sun-drenched fields, golden hues.",
+      "albanian": "Fusha të ndriçuara, ngjyra të arta.",
+      "transliteration": "Foo-shah te n-dree-choo-ah-rah, n-gyoo-rah te ar-tah.",
+      "category": "Nature",
+      "generated_at": "2026-08-08T14:32:33.205800"
+    },
+    {
+      "english": "Crashing waves, salty spray.",
+      "albanian": "Valë të forta, spërkatje me kripë.",
+      "transliteration": "Vah-leh te for-tah, sper-ka-tye me krip.",
+      "category": "Nature",
+      "generated_at": "2026-08-08T14:32:33.205801"
+    },
+    {
+      "english": "Quiet lake, mirror smooth.",
+      "albanian": "Liqen i qetë, sipërfaqe si pasqyrë.",
+      "transliteration": "Lee-chen ee keh-te, see-per-fah-cheh see pahs-kyoor.",
+      "category": "Nature",
+      "generated_at": "2026-08-08T14:32:33.205803"
     }
   ],
-  "last_updated": "2026-08-08T12:38:51.102179"
+  "last_updated": "2026-08-08T14:32:33.205804"
 }
