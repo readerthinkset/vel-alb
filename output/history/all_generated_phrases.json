@@ -8154,7 +8154,42 @@
       "transliteration": "Kembengulja fiton, gjithmone.",
       "category": "Strength",
       "generated_at": "2026-08-08T01:25:21.218886"
+    },
+    {
+      "english": "One, happy sigh, released.",
+      "albanian": "Një, psherëtimë e lumtur, lëshuar.",
+      "transliteration": "N-y, pshe-reh-teem-eh lum-toor, luh-shoo-ar.",
+      "category": "Numbers",
+      "generated_at": "2026-08-08T12:38:51.102165"
+    },
+    {
+      "english": "Two, quick smiles, exchanged.",
+      "albanian": "Dy, buzëqeshje të shpejta, shkëmbyer.",
+      "transliteration": "D-y, buz-uh-kesh-yeh tuh shpey-tah, shkehm-byoo-er.",
+      "category": "Numbers",
+      "generated_at": "2026-08-08T12:38:51.102173"
+    },
+    {
+      "english": "Three, silent nods, understood.",
+      "albanian": "Tre, koka të pathëna, kuptuar.",
+      "transliteration": "Tre, koh-kah tuh pah-theh-nah, koop-too-ar.",
+      "category": "Numbers",
+      "generated_at": "2026-08-08T12:38:51.102175"
+    },
+    {
+      "english": "Four, gentle breezes, whispered.",
+      "albanian": "Katër, fllade të buta, pëshpëritur.",
+      "transliteration": "Kah-tehr, fluh-dah tuh boo-tah, purh-shpuh-ree-toor.",
+      "category": "Numbers",
+      "generated_at": "2026-08-08T12:38:51.102176"
+    },
+    {
+      "english": "Five, tiny seeds, planted.",
+      "albanian": "Pesë, fara të vogla, mbjellë.",
+      "transliteration": "Pehs, fah-rah tuh vohg-lah, mbyell.",
+      "category": "Numbers",
+      "generated_at": "2026-08-08T12:38:51.102177"
     }
   ],
-  "last_updated": "2026-08-08T01:25:21.218888"
+  "last_updated": "2026-08-08T12:38:51.102179"
 }
