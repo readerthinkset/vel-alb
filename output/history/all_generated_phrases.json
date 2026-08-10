@@ -8504,7 +8504,42 @@
       "transliteration": "N'yeh men-deem ee shkoort-tur, pahs-tay zhdoo-ket.",
       "category": "Time",
       "generated_at": "2026-08-10T01:40:52.359792"
+    },
+    {
+      "english": "Hello, how are you doing?",
+      "albanian": "Përshëndetje, si je?",
+      "transliteration": "Pershendetje, see yeh?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-10T12:58:30.501109"
+    },
+    {
+      "english": "A pleasure to meet you.",
+      "albanian": "Ishte kënaqësi t'ju takoj.",
+      "transliteration": "Ishte kenake-see te-yoo takoy.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-10T12:58:30.501123"
+    },
+    {
+      "english": "That's a wonderful idea.",
+      "albanian": "Është një ide e mrekullueshme.",
+      "transliteration": "Esht une ide eh mrekullueshme.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-10T12:58:30.501124"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "albanian": "Mund ta përsërisësh, lutem?",
+      "transliteration": "Mund ta perserish, lootem?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-10T12:58:30.501125"
+    },
+    {
+      "english": "I'm looking for the nearest bank.",
+      "albanian": "Kërkoj bankën më të afërt.",
+      "transliteration": "Kerkoj banken meh teh afet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-10T12:58:30.501126"
     }
   ],
-  "last_updated": "2026-08-10T01:40:52.359794"
+  "last_updated": "2026-08-10T12:58:30.501128"
 }
