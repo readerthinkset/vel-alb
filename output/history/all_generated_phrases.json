@@ -8924,7 +8924,42 @@
       "transliteration": "In-ves-toh heh-ret, korr fruh-tet.",
       "category": "Finance",
       "generated_at": "2026-08-12T17:51:17.226969"
+    },
+    {
+      "english": "Touchscreen, your command.",
+      "albanian": "Ekrani prek, urdhri yt.",
+      "transliteration": "Eh-krah-nee prehk, oor-dree yt.",
+      "category": "Technology",
+      "generated_at": "2026-08-12T20:45:33.983459"
+    },
+    {
+      "english": "Click, open new.",
+      "albanian": "Klikoni, hapni diçka të re.",
+      "transliteration": "Klee-koh-nee, hahp-nee dee-chkah tuh reh.",
+      "category": "Technology",
+      "generated_at": "2026-08-12T20:45:33.983471"
+    },
+    {
+      "english": "Swipe, see tomorrow.",
+      "albanian": "Rrëshqitni, shikoni të nesërmen.",
+      "transliteration": "Rrh-shqeet-nee, shee-koh-nee tuh nehs-er-men.",
+      "category": "Technology",
+      "generated_at": "2026-08-12T20:45:33.983473"
+    },
+    {
+      "english": "Type, send thought.",
+      "albanian": "Shtypni, dërgoni mendimin.",
+      "transliteration": "Shtyp-nee, duh-goh-nee mehn-dee-meen.",
+      "category": "Technology",
+      "generated_at": "2026-08-12T20:45:33.983474"
+    },
+    {
+      "english": "Install, begin adventure.",
+      "albanian": "Instaloni, filloni aventurën.",
+      "transliteration": "Eens-tah-loh-nee, feel-loh-nee ah-vehn-too-run.",
+      "category": "Technology",
+      "generated_at": "2026-08-12T20:45:33.983476"
     }
   ],
-  "last_updated": "2026-08-12T17:51:17.226971"
+  "last_updated": "2026-08-12T20:45:33.983478"
 }
