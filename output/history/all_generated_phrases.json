@@ -9414,7 +9414,42 @@
       "transliteration": "Kultivo paqe te brendshme, gjithmone.",
       "category": "Health",
       "generated_at": "2026-08-15T17:12:45.206021"
+    },
+    {
+      "english": "Someone, needs aid, now.",
+      "albanian": "Diken, i duhet ndihme, menjehere.",
+      "transliteration": "Diken, i duhet ndihme, menjehere.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T20:23:30.535667"
+    },
+    {
+      "english": "I feel, quite unwell.",
+      "albanian": "Ndihem, pak keq.",
+      "transliteration": "Ndihem, pak keq.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T20:23:30.535679"
+    },
+    {
+      "english": "There's, a problem, here.",
+      "albanian": "Ka, nje problem, ketu.",
+      "transliteration": "Ka, nje problem, ketu.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T20:23:30.535681"
+    },
+    {
+      "english": "Can you, assist me?",
+      "albanian": "Mund te, me ndihmoni?",
+      "transliteration": "Mund te, me ndihmoni?",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T20:23:30.535682"
+    },
+    {
+      "english": "I require, attention, please.",
+      "albanian": "Kerkoj, vemendje, lutem.",
+      "transliteration": "Kerkoj, vemendje, lutem.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T20:23:30.535683"
     }
   ],
-  "last_updated": "2026-08-15T17:12:45.206023"
+  "last_updated": "2026-08-15T20:23:30.535685"
 }
