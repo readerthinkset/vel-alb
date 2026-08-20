@@ -10219,7 +10219,42 @@
       "transliteration": "Era psheretit, sekrete te pa treguara.",
       "category": "Nature",
       "generated_at": "2026-08-20T12:38:57.560800"
+    },
+    {
+      "english": "My grandpa, a storyteller, always.",
+      "albanian": "Gjyshi im, tregon histori, gjithmonë.",
+      "transliteration": "Jy-shi im, tre-gon his-to-ri, gjith-monë.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-20T14:36:45.183742"
+    },
+    {
+      "english": "Your grandma, a warm hug, always.",
+      "albanian": "Gjyshja jote, përqafim i ngrohtë, gjithmonë.",
+      "transliteration": "Jy-shja jo-te, për-qa-fim i ngròht, gjith-monë.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-20T14:36:45.183752"
+    },
+    {
+      "english": "Our son, bright eyes, full of wonder.",
+      "albanian": "Djali ynë, sy të ndritshëm, plot mrekulli.",
+      "transliteration": "Dja-li ynë, sy të n-drish-ëm, plot mrek-u-lli.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-20T14:36:45.183754"
+    },
+    {
+      "english": "His daughter, a little dancer, graceful.",
+      "albanian": "E bija e tij, valltare e vogël, me elegancë.",
+      "transliteration": "E bi-ja e ti-j, val-ta-re e vo-gël, me e-le-gancë.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-20T14:36:45.183756"
+    },
+    {
+      "english": "Her brother, strong hands, helps build.",
+      "albanian": "Vëllai i saj, duar të forta, ndihmon të ndërtojë.",
+      "transliteration": "Vë-llai i saj, du-ar të for-ta, n-di-hmon të n-dër-to-jë.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-20T14:36:45.183757"
     }
   ],
-  "last_updated": "2026-08-20T12:38:57.560801"
+  "last_updated": "2026-08-20T14:36:45.183759"
 }
