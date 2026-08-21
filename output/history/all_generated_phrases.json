@@ -10429,7 +10429,42 @@
       "transliteration": "Be-so-ni te fu-qi-a ju-aj, gjith-monë.",
       "category": "Strength",
       "generated_at": "2026-08-21T14:35:51.801435"
+    },
+    {
+      "english": "Listen to the melody, closely.",
+      "albanian": "Dëgjoni melodinë, me vëmendje.",
+      "transliteration": "Den-yo-nee me-lo-dee-un, meh vem-en-dye.",
+      "category": "Directions",
+      "generated_at": "2026-08-21T17:19:56.443395"
+    },
+    {
+      "english": "Try to echo this sound.",
+      "albanian": "Provoni, të jepni këtë tingull.",
+      "transliteration": "Pro-vo-nee, teh yep-nee keht ting-ool.",
+      "category": "Directions",
+      "generated_at": "2026-08-21T17:19:56.443405"
+    },
+    {
+      "english": "What is this feeling, inside?",
+      "albanian": "Çfarë është kjo ndjenjë, brenda?",
+      "transliteration": "Chfar ehsht keh-yo nyen-y, brehn-dah?",
+      "category": "Directions",
+      "generated_at": "2026-08-21T17:19:56.443406"
+    },
+    {
+      "english": "Let's share this moment, now.",
+      "albanian": "Le ta ndajmë, këtë moment, tani.",
+      "transliteration": "Leh tah n-daym, keht mo-ment, tah-nee.",
+      "category": "Directions",
+      "generated_at": "2026-08-21T17:19:56.443408"
+    },
+    {
+      "english": "Think of the image, please.",
+      "albanian": "Mendoni për imazhin, ju lutem.",
+      "transliteration": "Men-do-nee per ee-mah-jin, yoo loo-tem.",
+      "category": "Directions",
+      "generated_at": "2026-08-21T17:19:56.443409"
     }
   ],
-  "last_updated": "2026-08-21T14:35:51.801437"
+  "last_updated": "2026-08-21T17:19:56.443411"
 }
