@@ -10359,7 +10359,42 @@
       "transliteration": "Zbuloni bukurinë, në çdo fjalë.",
       "category": "Motivation",
       "generated_at": "2026-08-21T01:11:56.494765"
+    },
+    {
+      "english": "Soon, the party starts.",
+      "albanian": "Së shpejti, fillon festa.",
+      "transliteration": "Suh-shpay-tee, fee-lohn feh-sta.",
+      "category": "Time",
+      "generated_at": "2026-08-21T12:37:59.462990"
+    },
+    {
+      "english": "Yesterday, we ate well.",
+      "albanian": "Dje, lamë mirë.",
+      "transliteration": "Dyeh, lahm mee-ruh.",
+      "category": "Time",
+      "generated_at": "2026-08-21T12:37:59.463001"
+    },
+    {
+      "english": "Always, remember this.",
+      "albanian": "Gjithmonë, mbaj mend këtë.",
+      "transliteration": "Ghee-th-mohn, mbah-ee mend kuh-tuh.",
+      "category": "Time",
+      "generated_at": "2026-08-21T12:37:59.463003"
+    },
+    {
+      "english": "Later, we will talk.",
+      "albanian": "Më vonë, do flasim.",
+      "transliteration": "Muh vohn, doh flah-seem.",
+      "category": "Time",
+      "generated_at": "2026-08-21T12:37:59.463004"
+    },
+    {
+      "english": "Each second, counts.",
+      "albanian": "Çdo sekondë, ka rëndësi.",
+      "transliteration": "Ch-doh seh-kohnd, kah ruhn-deh-see.",
+      "category": "Time",
+      "generated_at": "2026-08-21T12:37:59.463005"
     }
   ],
-  "last_updated": "2026-08-21T01:11:56.494767"
+  "last_updated": "2026-08-21T12:37:59.463007"
 }
