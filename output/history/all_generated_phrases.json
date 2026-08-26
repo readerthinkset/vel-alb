@@ -11199,7 +11199,42 @@
       "transliteration": "Pesë, rreze, të ngrohta, prekin.",
       "category": "Numbers",
       "generated_at": "2026-08-26T01:12:15.133518"
+    },
+    {
+      "english": "Sky blue, vast and open.",
+      "albanian": "Blu qielli, e gjerë, e hapur.",
+      "transliteration": "Bloo chee-elli, eh gjair-eh, eh hah-poor.",
+      "category": "Colors",
+      "generated_at": "2026-08-26T12:43:29.555759"
+    },
+    {
+      "english": "Sun orange, a cheerful glow.",
+      "albanian": "Portokalli dielli, një shkëlqim gazmor.",
+      "transliteration": "Poh-toh-kah-lee dee-elli, nyuh shkul-cheem gahz-mohr.",
+      "category": "Colors",
+      "generated_at": "2026-08-26T12:43:29.555773"
+    },
+    {
+      "english": "Ocean blue, deep and calm.",
+      "albanian": "Blu oqeani, e thellë, e qetë.",
+      "transliteration": "Bloo oh-cheh-ah-nee, eh thehll, eh chet-eh.",
+      "category": "Colors",
+      "generated_at": "2026-08-26T12:43:29.555774"
+    },
+    {
+      "english": "Snow white, a silent blanket.",
+      "albanian": "E bardhë bora, një batanije e heshtur.",
+      "transliteration": "Eh bahrdh boh-rah, nyuh bah-tah-nee-yeh eh hesh-toor.",
+      "category": "Colors",
+      "generated_at": "2026-08-26T12:43:29.555775"
+    },
+    {
+      "english": "Night black, a starry canvas.",
+      "albanian": "E zezë nata, një kanavacë me yje.",
+      "transliteration": "Eh zehz nah-tah, nyuh kah-nah-vahts meh yoo-yeh.",
+      "category": "Colors",
+      "generated_at": "2026-08-26T12:43:29.555776"
     }
   ],
-  "last_updated": "2026-08-26T01:12:15.133520"
+  "last_updated": "2026-08-26T12:43:29.555778"
 }
