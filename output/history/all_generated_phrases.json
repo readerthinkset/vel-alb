@@ -11549,7 +11549,42 @@
       "transliteration": "Endni fije, beni nje gobelin.",
       "category": "Creativity",
       "generated_at": "2026-08-28T09:38:43.476094"
+    },
+    {
+      "english": "This dish, smells wonderful.",
+      "albanian": "Ky pjatë, mban erë të mrekullueshme.",
+      "transliteration": "Kee pyah-t, mahn eh-rah teh meh-rreh-koo-LOO-esh-meh.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-28T21:42:13.717928"
+    },
+    {
+      "english": "Could I have, a moment longer?",
+      "albanian": "A mund të kem, edhe një moment?",
+      "transliteration": "Ah moond teh kem, eh-deh nyee moh-ment?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-28T21:42:13.717941"
+    },
+    {
+      "english": "Is this, a house specialty?",
+      "albanian": "Është ky, një specialitet i shtëpisë?",
+      "transliteration": "Esht koo, nyee speh-chee-ah-LEE-teh ee shtuh-PEE-sehs?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-28T21:42:13.717942"
+    },
+    {
+      "english": "We'd like, something light.",
+      "albanian": "Dëshirojmë, diçka të lehtë.",
+      "transliteration": "Deh-shee-ROYM, deech-KAH teh LEHT.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-28T21:42:13.717943"
+    },
+    {
+      "english": "What's good, today?",
+      "albanian": "Çfarë është mirë, sot?",
+      "transliteration": "Chfarr esht MEEr, sot?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-28T21:42:13.717944"
     }
   ],
-  "last_updated": "2026-08-28T09:38:43.476096"
+  "last_updated": "2026-08-28T21:42:13.717945"
 }
