@@ -11479,7 +11479,42 @@
       "transliteration": "Pel-met toh-na, a-toh ha-pen gjer-eh.",
       "category": "Body Parts",
       "generated_at": "2026-08-28T01:13:27.710257"
+    },
+    {
+      "english": "Sky, painted with sunset hues.",
+      "albanian": "Qielli, i pikturuar me ngjyra perëndimi.",
+      "transliteration": "Chee-elli, ee pik-tu-ra-t me n-geen-dja peh-run-di.",
+      "category": "Weather",
+      "generated_at": "2026-08-28T04:05:25.392402"
+    },
+    {
+      "english": "A light mist, on the fields.",
+      "albanian": "Një mjegull e lehtë, në fusha.",
+      "transliteration": "N-ya mye-gull eh leh-ht, neh foo-sha.",
+      "category": "Weather",
+      "generated_at": "2026-08-28T04:05:25.392411"
+    },
+    {
+      "english": "Snowflakes, falling so gently.",
+      "albanian": "Ftoshta bore, bien kaq butë.",
+      "transliteration": "Fto-sh-ta bo-reh, bee-en kah boot-eh.",
+      "category": "Weather",
+      "generated_at": "2026-08-28T04:05:25.392413"
+    },
+    {
+      "english": "Sunbeams, through the trees.",
+      "albanian": "Rrezet e diellit, mes pemëve.",
+      "transliteration": "Reh-zeh eh dee-el-lit, mes peh-muh-veh.",
+      "category": "Weather",
+      "generated_at": "2026-08-28T04:05:25.392414"
+    },
+    {
+      "english": "The air, smells like rain.",
+      "albanian": "Ajri, mban erë shiu.",
+      "transliteration": "Ah-yri, mban eh-reh shoo-oo.",
+      "category": "Weather",
+      "generated_at": "2026-08-28T04:05:25.392415"
     }
   ],
-  "last_updated": "2026-08-28T01:13:27.710259"
+  "last_updated": "2026-08-28T04:05:25.392416"
 }
