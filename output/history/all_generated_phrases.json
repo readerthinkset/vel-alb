@@ -11899,7 +11899,42 @@
       "transliteration": "Shpreh-soh kyuh deet, tuh syehl geh-zeem.",
       "category": "Greetings",
       "generated_at": "2026-08-30T15:57:13.186226"
+    },
+    {
+      "english": "A buzzing bee, collects nectar.",
+      "albanian": "Një bletë, që gumëzhin, mbledh nektar.",
+      "transliteration": "N' bletë, ch gûm-zhin, mbledh nektar.",
+      "category": "Animals",
+      "generated_at": "2026-08-30T17:58:16.535959"
+    },
+    {
+      "english": "The chirping cricket, sings at dusk.",
+      "albanian": "Njerri, që cicëron, këndon në mbrëmje.",
+      "transliteration": "Njerri, ch ci-ce-ron, kên-don n' mbrëm-je.",
+      "category": "Animals",
+      "generated_at": "2026-08-30T17:58:16.535969"
+    },
+    {
+      "english": "A fluttering butterfly, lands gently.",
+      "albanian": "Një flutur, që fluturon, ulet lehtë.",
+      "transliteration": "N' flutur, ch flu-tu-ron, û-let lêhtë.",
+      "category": "Animals",
+      "generated_at": "2026-08-30T17:58:16.535971"
+    },
+    {
+      "english": "The squawking parrot, repeats words.",
+      "albanian": "Një papagall, që klukë, përsërit fjalë.",
+      "transliteration": "N' pap-a-gall, ch klu-kë, për-së-rit fjal'.",
+      "category": "Animals",
+      "generated_at": "2026-08-30T17:58:16.535972"
+    },
+    {
+      "english": "A hooting owl, observes the night.",
+      "albanian": "Një bubë, që kukuvit, vëzhgon natën.",
+      "transliteration": "N' bû-bë, ch ku-ku-vit, vêzh-gon nâ-t'n.",
+      "category": "Animals",
+      "generated_at": "2026-08-30T17:58:16.535973"
     }
   ],
-  "last_updated": "2026-08-30T15:57:13.186228"
+  "last_updated": "2026-08-30T17:58:16.535975"
 }
