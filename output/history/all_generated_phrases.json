@@ -12214,7 +12214,42 @@
       "transliteration": "Ngadalësojmë, shijojmë këtë.",
       "category": "Health",
       "generated_at": "2026-09-01T03:40:06.993109"
+    },
+    {
+      "english": "This pastry, is flaky, and light.",
+      "albanian": "Kjo ëmbëlsirë, është petash, dhe e lehtë.",
+      "transliteration": "Kyo uhm-buhl-seer-uh, uhsht peh-tash, deh eh lehht.",
+      "category": "Food",
+      "generated_at": "2026-09-01T16:00:07.864989"
+    },
+    {
+      "english": "A perfect, roasted chicken, for dinner.",
+      "albanian": "Një pulë, e pjekur, për darkë.",
+      "transliteration": "N-yuh pool-uh, eh pyek-oor, puhr dar-kuh.",
+      "category": "Food",
+      "generated_at": "2026-09-01T16:00:07.865001"
+    },
+    {
+      "english": "This grilled fish, melts, in your mouth.",
+      "albanian": "Ky peshk, i zgarë, shkrihet, në gojë.",
+      "transliteration": "Kee pehshk, ee zguh-rah, shkree-heht, nuh goh-yuh.",
+      "category": "Food",
+      "generated_at": "2026-09-01T16:00:07.865002"
+    },
+    {
+      "english": "A side of, steamed vegetables, please.",
+      "albanian": "Një anë, me perime, të ziera, lutem.",
+      "transliteration": "N-yuh ahn, meh peh-ree-meh, tuh zee-rah, loo-tehm.",
+      "category": "Food",
+      "generated_at": "2026-09-01T16:00:07.865004"
+    },
+    {
+      "english": "These meatballs, are seasoned, perfectly.",
+      "albanian": "Këto qofte, janë erëzuar, në mënyrë të përkryer.",
+      "transliteration": "Kuh-toh qohf-teh, yahn eh-roo-zuh-ar, nuh muh-nyoor tuh puhr-kruy-uhr.",
+      "category": "Food",
+      "generated_at": "2026-09-01T16:00:07.865005"
     }
   ],
-  "last_updated": "2026-09-01T03:40:06.993111"
+  "last_updated": "2026-09-01T16:00:07.865007"
 }
