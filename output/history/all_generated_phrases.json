@@ -13194,7 +13194,42 @@
       "transliteration": "Leh-shoh dhim-byen, per-qah-fo-yeh dree-tun.",
       "category": "Forgiveness",
       "generated_at": "2026-09-06T21:59:29.603706"
+    },
+    {
+      "english": "Forest floor, soft with leaves.",
+      "albanian": "Sipërfaqja pyllit, e butë me gjethe.",
+      "transliteration": "Seep-er-FAH-qah PILL-it, eh BOO-tah meh JEH-tseh.",
+      "category": "Nature",
+      "generated_at": "2026-09-07T02:59:15.551638"
+    },
+    {
+      "english": "Mountain peak, touches the clouds.",
+      "albanian": "Majë mali, prek retë.",
+      "transliteration": "Mah-yeh MAH-lee, PREHK reh-TCH.",
+      "category": "Nature",
+      "generated_at": "2026-09-07T02:59:15.551647"
+    },
+    {
+      "english": "Ocean tide, pulls the sand.",
+      "albanian": "Bregdeti detit, tërheq rërën.",
+      "transliteration": "BREHG-deh-tee DEH-tit, TAH-rreh-G TAH-rreh-N.",
+      "category": "Nature",
+      "generated_at": "2026-09-07T02:59:15.551649"
+    },
+    {
+      "english": "Cave mouth, dark and cool.",
+      "albanian": "Goja shpellës, errët dhe e freskët.",
+      "transliteration": "GO-yah SHPELL-ahs, EHR-rreht DEH eh FREHS-keht.",
+      "category": "Nature",
+      "generated_at": "2026-09-07T02:59:15.551650"
+    },
+    {
+      "english": "Desert wind, shapes the dunes.",
+      "albanian": "Era shkretëtirës, formon dunat.",
+      "transliteration": "EH-rah SHKREH-teh-TEER-is, FOR-mon DOO-naht.",
+      "category": "Nature",
+      "generated_at": "2026-09-07T02:59:15.551651"
     }
   ],
-  "last_updated": "2026-09-06T21:59:29.603708"
+  "last_updated": "2026-09-07T02:59:15.551653"
 }
