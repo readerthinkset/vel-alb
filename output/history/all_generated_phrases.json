@@ -13229,7 +13229,42 @@
       "transliteration": "EH-rah SHKREH-teh-TEER-is, FOR-mon DOO-naht.",
       "category": "Nature",
       "generated_at": "2026-09-07T02:59:15.551651"
+    },
+    {
+      "english": "Listen closely, to the whisper.",
+      "albanian": "Dëgjoni me vëmendje, pëshpërimën.",
+      "transliteration": "Degh-yoh-nee meh vem-en-dye, per-shpi-ri-men.",
+      "category": "Directions",
+      "generated_at": "2026-09-07T17:10:40.723045"
+    },
+    {
+      "english": "Repeat this, softly now.",
+      "albanian": "Përsëriteni këtë, me butësi.",
+      "transliteration": "Per-suh-ree-teh-nee keh-tuh, meh boo-tuh-see.",
+      "category": "Directions",
+      "generated_at": "2026-09-07T17:10:40.723054"
+    },
+    {
+      "english": "Feel the flow, of the words.",
+      "albanian": "Ndjejeni rrjedhën, e fjalëve.",
+      "transliteration": "N-dye-yeh-nee rry-yehd-hen, eh fya-lveh.",
+      "category": "Directions",
+      "generated_at": "2026-09-07T17:10:40.723056"
+    },
+    {
+      "english": "Say it again, a little slower.",
+      "albanian": "Thuajeni sërish, pak më ngadalë.",
+      "transliteration": "Thoo-yah-yeh-nee suh-rish, pak muh nga-dal.",
+      "category": "Directions",
+      "generated_at": "2026-09-07T17:10:40.723057"
+    },
+    {
+      "english": "Catch the rhythm, inside you.",
+      "albanian": "Kapeni ritmin, brenda jush.",
+      "transliteration": "Kah-peh-nee reet-meen, brehn-dah yoosh.",
+      "category": "Directions",
+      "generated_at": "2026-09-07T17:10:40.723058"
     }
   ],
-  "last_updated": "2026-09-07T02:59:15.551653"
+  "last_updated": "2026-09-07T17:10:40.723060"
 }
