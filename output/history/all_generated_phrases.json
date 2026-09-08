@@ -13369,7 +13369,42 @@
       "transliteration": "E-ner-JEE-a YO-te, ËSH-të NJIT-se, në më-NEE-rë të MEER.",
       "category": "Friendship",
       "generated_at": "2026-09-07T22:34:51.540305"
+    },
+    {
+      "english": "The present, a gift.",
+      "albanian": "E tashmja, një dhuratë.",
+      "transliteration": "E tash-mya, un' dhu-ra-të.",
+      "category": "Time",
+      "generated_at": "2026-09-08T15:54:57.087250"
+    },
+    {
+      "english": "This moment, remember it.",
+      "albanian": "Ky moment, mbaje mend.",
+      "transliteration": "Ki mo-ment, mba-je mend.",
+      "category": "Time",
+      "generated_at": "2026-09-08T15:54:57.087265"
+    },
+    {
+      "english": "Tomorrow, a new chance.",
+      "albanian": "Nesër, një shans i ri.",
+      "transliteration": "Ne-sër, un' shans i ri.",
+      "category": "Time",
+      "generated_at": "2026-09-08T15:54:57.087267"
+    },
+    {
+      "english": "The past, lessons learned.",
+      "albanian": "E kaluara, mësime të nxëna.",
+      "transliteration": "E ka-lu-a-ra, më-si-me të n-zë-na.",
+      "category": "Time",
+      "generated_at": "2026-09-08T15:54:57.087269"
+    },
+    {
+      "english": "Soon, very soon.",
+      "albanian": "Së shpejti, shumë shpejt.",
+      "transliteration": "Së shpej-ti, shumë shpejt.",
+      "category": "Time",
+      "generated_at": "2026-09-08T15:54:57.087270"
     }
   ],
-  "last_updated": "2026-09-07T22:34:51.540306"
+  "last_updated": "2026-09-08T15:54:57.087272"
 }
