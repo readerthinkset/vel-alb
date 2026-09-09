@@ -13579,7 +13579,42 @@
       "transliteration": "Prano sfidat, gjej fuqinë tënde.",
       "category": "Strength",
       "generated_at": "2026-09-09T19:34:18.216755"
+    },
+    {
+      "english": "This soup, warms me up.",
+      "albanian": "Kjo supë, më ngroh.",
+      "transliteration": "Kyo soop, muh n-grah.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-09T22:23:18.855974"
+    },
+    {
+      "english": "A small side salad, please.",
+      "albanian": "Një sallatë e vogël, anash, ju lutem.",
+      "transliteration": "N-yeh sa-lah-tuh eh voh-guhl, ah-nash, yoo loo-tem.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-09T22:23:18.855984"
+    },
+    {
+      "english": "Is the fish, fresh today?",
+      "albanian": "Peshku, është i freskët sot?",
+      "transliteration": "Pesh-koo, esh-tuh ee fresh-kuhht soht?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-09T22:23:18.855986"
+    },
+    {
+      "english": "We'll have, two starters.",
+      "albanian": "Do marrim, dy antipasta.",
+      "transliteration": "Doh mah-rrim, doo ahn-tee-pah-stah.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-09T22:23:18.855987"
+    },
+    {
+      "english": "Something, with chicken, perhaps?",
+      "albanian": "Diçka, me pulë, ndoshta?",
+      "transliteration": "Deesh-kah, meh pool, n-doshtah?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-09T22:23:18.855989"
     }
   ],
-  "last_updated": "2026-09-09T19:34:18.216757"
+  "last_updated": "2026-09-09T22:23:18.855990"
 }
