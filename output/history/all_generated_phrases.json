@@ -14699,7 +14699,42 @@
       "transliteration": "Veh-tem eh-deh, n-yeh kof-shaht.",
       "category": "Food",
       "generated_at": "2026-09-16T03:25:19.846504"
+    },
+    {
+      "english": "Something's wrong, badly.",
+      "albanian": "Diçka nuk është, mirë.",
+      "transliteration": "Di-ch-ka nuk esht, meer.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T16:02:05.146461"
+    },
+    {
+      "english": "I need, to sit down.",
+      "albanian": "Dua, të ulem.",
+      "transliteration": "Doo-ah, t'oo-lem.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T16:02:05.146471"
+    },
+    {
+      "english": "My stomach, aches.",
+      "albanian": "Barku, më dhemb.",
+      "transliteration": "Bar-koo, m'eh dem.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T16:02:05.146473"
+    },
+    {
+      "english": "I am, very weak.",
+      "albanian": "Jam, shumë i/e dobët.",
+      "transliteration": "Yam, shoo-m ee/eh dob-et.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T16:02:05.146475"
+    },
+    {
+      "english": "Call, for an ambulance.",
+      "albanian": "Thirr, për ambulancë.",
+      "transliteration": "Thirr, p'er am-boo-lants.",
+      "category": "Emergency",
+      "generated_at": "2026-09-16T16:02:05.146476"
     }
   ],
-  "last_updated": "2026-09-16T03:25:19.846506"
+  "last_updated": "2026-09-16T16:02:05.146478"
 }
