@@ -14909,7 +14909,42 @@
       "transliteration": "Një frymë, pastaj vazhdo.",
       "category": "Time",
       "generated_at": "2026-09-17T16:08:19.851389"
+    },
+    {
+      "english": "This sweater, is a vibrant red.",
+      "albanian": "Ky pulovër, është e kuqe e gjallë.",
+      "transliteration": "Kee poo-lo-ver, esh-teh eh koo-cheh eh jyah-lah.",
+      "category": "Clothes",
+      "generated_at": "2026-09-17T17:58:21.769027"
+    },
+    {
+      "english": "Her scarf, has intricate patterns.",
+      "albanian": "Çarçafja e saj, ka motive të ndërlikuara.",
+      "transliteration": "Char-cha-f-yah eh sa-yee, kah mo-tee-veh teh n-der-lee-koo-ah-rah.",
+      "category": "Clothes",
+      "generated_at": "2026-09-17T17:58:21.769037"
+    },
+    {
+      "english": "These trousers, feel surprisingly light.",
+      "albanian": "Këto pantallona, ndihen çuditërisht të lehta.",
+      "transliteration": "Keh-toh pan-ta-loh-nah, n-dee-hen choo-deet-er-eesht teh leh-tah.",
+      "category": "Clothes",
+      "generated_at": "2026-09-17T17:58:21.769039"
+    },
+    {
+      "english": "His tie, is a muted blue.",
+      "albanian": "Kravata e tij, është një blu e zbehtë.",
+      "transliteration": "Kra-vah-tah eh tee-yee, esh-teh nyoo bloo eh z-beh-hteh.",
+      "category": "Clothes",
+      "generated_at": "2026-09-17T17:58:21.769040"
+    },
+    {
+      "english": "My hat, is perfect for sunny days.",
+      "albanian": "Kapela ime, është perfekte për ditë me diell.",
+      "transliteration": "Ka-peh-lah ee-meh, esh-teh per-fek-teh per deet meh dee-ell.",
+      "category": "Clothes",
+      "generated_at": "2026-09-17T17:58:21.769042"
     }
   ],
-  "last_updated": "2026-09-17T16:08:19.851391"
+  "last_updated": "2026-09-17T17:58:21.769043"
 }
