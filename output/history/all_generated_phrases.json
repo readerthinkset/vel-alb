@@ -15679,7 +15679,42 @@
       "transliteration": "Eh vehrd-eh eh ah-rth, nyuh noo-ahn-tsuh dee-el-oh-reh.",
       "category": "Colors",
       "generated_at": "2026-09-22T03:24:20.100622"
+    },
+    {
+      "english": "Focus here, a moment.",
+      "albanian": "Të shohim, këtu.",
+      "transliteration": "Tuh shoh-im, kuh-too.",
+      "category": "Directions",
+      "generated_at": "2026-09-22T16:10:49.089114"
+    },
+    {
+      "english": "Listen again, carefully.",
+      "albanian": "Dëgjoni, përsëri, vëmendshëm.",
+      "transliteration": "Duh-joh-nee, puh r-suh-ree, vuh-men-shum.",
+      "category": "Directions",
+      "generated_at": "2026-09-22T16:10:49.089122"
+    },
+    {
+      "english": "Repeat this, softly.",
+      "albanian": "Përsëriteni, me butësi.",
+      "transliteration": "Puh r-suh-ree-teh-nee, meh boo-tuh-see.",
+      "category": "Directions",
+      "generated_at": "2026-09-22T16:10:49.089124"
+    },
+    {
+      "english": "Try to pronounce, this.",
+      "albanian": "Provoni, të shqiptoni, këtë.",
+      "transliteration": "Proh-voh-nee, tuh shk-eep-toh-nee, kuh-tuh.",
+      "category": "Directions",
+      "generated_at": "2026-09-22T16:10:49.089126"
+    },
+    {
+      "english": "What's the meaning, here?",
+      "albanian": "Cili është kuptimi, këtu?",
+      "transliteration": "See-lee uh-sht, koo-ptee-mee, kuh-too?",
+      "category": "Directions",
+      "generated_at": "2026-09-22T16:10:49.089127"
     }
   ],
-  "last_updated": "2026-09-22T03:24:20.100624"
+  "last_updated": "2026-09-22T16:10:49.089128"
 }
