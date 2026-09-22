@@ -15644,7 +15644,42 @@
       "transliteration": "Yuh-et shfah-hen, nyuh ngah nyuh.",
       "category": "Nature",
       "generated_at": "2026-09-21T23:03:20.401487"
+    },
+    {
+      "english": "Crimson blush, shyly appearing.",
+      "albanian": "Skuqje ngjyrë vere, dalin turpshëm.",
+      "transliteration": "Skuq-yeh n-g-yur-eh veh-reh, dah-leen toor-psh-uhm.",
+      "category": "Colors",
+      "generated_at": "2026-09-22T03:24:20.100608"
+    },
+    {
+      "english": "Deepest violet, regal and grand.",
+      "albanian": "Vjollcë e thellë, mbretërore dhe madhështore.",
+      "transliteration": "Vee-ol-tsuh eh teh-hel, m-breh-toh-reh deh mah-dh-esht-oh-reh.",
+      "category": "Colors",
+      "generated_at": "2026-09-22T03:24:20.100618"
+    },
+    {
+      "english": "Verdant meadow, alive with green.",
+      "albanian": "Kullotë e gjelbër, plot jetë e gjelbër.",
+      "transliteration": "Kool-loht-eh eh jyel-behr, plot yet-ah eh jyel-behr.",
+      "category": "Colors",
+      "generated_at": "2026-09-22T03:24:20.100620"
+    },
+    {
+      "english": "Azure sky, a clear expanse.",
+      "albanian": "Qiell lazur, një hapësirë e pastër.",
+      "transliteration": "Chee-ell lah-zoor, nyuh hahp-si-ruh eh pahs-tehr.",
+      "category": "Colors",
+      "generated_at": "2026-09-22T03:24:20.100621"
+    },
+    {
+      "english": "Goldenrod bright, a sunny hue.",
+      "albanian": "E verdhë e artë, një nuancë diellore.",
+      "transliteration": "Eh vehrd-eh eh ah-rth, nyuh noo-ahn-tsuh dee-el-oh-reh.",
+      "category": "Colors",
+      "generated_at": "2026-09-22T03:24:20.100622"
     }
   ],
-  "last_updated": "2026-09-21T23:03:20.401489"
+  "last_updated": "2026-09-22T03:24:20.100624"
 }
