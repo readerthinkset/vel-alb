@@ -15854,7 +15854,42 @@
       "transliteration": "Chdo dit, n-ja hap per-pa-ra.",
       "category": "Success",
       "generated_at": "2026-09-23T03:25:27.255611"
+    },
+    {
+      "english": "Danger, ahead, move back.",
+      "albanian": "Rrezik, përpara, kthehuni.",
+      "transliteration": "Rrezik, perpara, kthehuni.",
+      "category": "Emergency",
+      "generated_at": "2026-09-23T16:00:29.095109"
+    },
+    {
+      "english": "I am choking, help!",
+      "albanian": "Po mbytem, ndihmë!",
+      "transliteration": "Po mbytem, ndihme!",
+      "category": "Emergency",
+      "generated_at": "2026-09-23T16:00:29.095119"
+    },
+    {
+      "english": "My vision, is blurred.",
+      "albanian": "Pamja, ime, është e turbullt.",
+      "transliteration": "Pamja, ime, eshte e turbullt.",
+      "category": "Emergency",
+      "generated_at": "2026-09-23T16:00:29.095121"
+    },
+    {
+      "english": "I can't move, this limb.",
+      "albanian": "Nuk lëviz, ky gjymtyrë.",
+      "transliteration": "Nuk leviz, ky gjymtyre.",
+      "category": "Emergency",
+      "generated_at": "2026-09-23T16:00:29.095122"
+    },
+    {
+      "english": "Is someone, bleeding, badly?",
+      "albanian": "A gjakoset, dikush, rëndë?",
+      "transliteration": "A gjakoset, dikush, rende?",
+      "category": "Emergency",
+      "generated_at": "2026-09-23T16:00:29.095123"
     }
   ],
-  "last_updated": "2026-09-23T03:25:27.255612"
+  "last_updated": "2026-09-23T16:00:29.095125"
 }
