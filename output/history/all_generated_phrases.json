@@ -15994,7 +15994,42 @@
       "transliteration": "Pess, err-uh-rah tuh for-tah, fruy-n.",
       "category": "Numbers",
       "generated_at": "2026-09-23T22:46:09.715573"
+    },
+    {
+      "english": "My father, a man of few words, wise.",
+      "albanian": "Im atë, burrë pakfjalë, i mençur.",
+      "transliteration": "Im ah-tuh, boor met-fahl-eh, ee men-choor.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-24T03:14:55.600578"
+    },
+    {
+      "english": "Your mother, her laughter echoes, joy.",
+      "albanian": "Nëna jote, qeshja e saj, jehon.",
+      "transliteration": "Nuh-nah yo-teh, qesh-jah eh sah-ee, yeh-hon.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-24T03:14:55.600587"
+    },
+    {
+      "english": "Our son, his dreams take flight, high.",
+      "albanian": "Djali ynë, ëndrrat e tij, fluturojnë.",
+      "transliteration": "Djah-lee uh-nuh, uhnd-raht eh tee, floo-too-royn.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-24T03:14:55.600589"
+    },
+    {
+      "english": "His sister, a gentle soul, caring.",
+      "albanian": "Molla e tij, shpirt i butë, e kujdesshme.",
+      "transliteration": "Moh-llah eh tee, shpeer-t ee boo-tuh, eh koo-yeh-desh-meh.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-24T03:14:55.600591"
+    },
+    {
+      "english": "Her brother, a steady presence, strong.",
+      "albanian": "Vëllai i saj, prani e qëndrueshme, i fortë.",
+      "transliteration": "Vuh-llai ee sah-ee, prah-nee eh chuuhn-droo-esh-meh, ee fort.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-24T03:14:55.600592"
     }
   ],
-  "last_updated": "2026-09-23T22:46:09.715574"
+  "last_updated": "2026-09-24T03:14:55.600594"
 }
