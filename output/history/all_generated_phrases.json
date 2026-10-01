@@ -17184,7 +17184,42 @@
       "transliteration": "N'y shkëlqim perle, dritë iridiscence.",
       "category": "Colors",
       "generated_at": "2026-10-01T19:20:54.498374"
+    },
+    {
+      "english": "Sunlight, warm on my face.",
+      "albanian": "Dielli, ngrohtë në fytyrën time.",
+      "transliteration": "Dee-el-ee, n'groht n'fy-tee-run tee-meh.",
+      "category": "Weather",
+      "generated_at": "2026-10-01T21:31:00.538672"
+    },
+    {
+      "english": "Raindrops, tapping on the roof.",
+      "albanian": "Pikat e shiut, trokasin në çati.",
+      "transliteration": "Pee-kat eh shee-oot, troh-kah-seen n'chah-tee.",
+      "category": "Weather",
+      "generated_at": "2026-10-01T21:31:00.538685"
+    },
+    {
+      "english": "Wind whispers, through the pines.",
+      "albanian": "Era psherëtin, nëpër pisha.",
+      "transliteration": "Eh-rah pshehr-tee-n, nuh-pur pee-shah.",
+      "category": "Weather",
+      "generated_at": "2026-10-01T21:31:00.538687"
+    },
+    {
+      "english": "Clouds drift, lazily by.",
+      "albanian": "Retë enden, ngadalë tutje.",
+      "transliteration": "Reht ehn-den, n'gah-dah-l too-tyeh.",
+      "category": "Weather",
+      "generated_at": "2026-10-01T21:31:00.538688"
+    },
+    {
+      "english": "A chill, in the evening air.",
+      "albanian": "Një ftohtësi, në ajrin e mbrëmjes.",
+      "transliteration": "N'yuh ftoht-see, n'ah-yeer eh m'brehm-yes.",
+      "category": "Weather",
+      "generated_at": "2026-10-01T21:31:00.538689"
     }
   ],
-  "last_updated": "2026-10-01T19:20:54.498376"
+  "last_updated": "2026-10-01T21:31:00.538691"
 }
