@@ -17814,7 +17814,42 @@
       "transliteration": "Ah-roh-mah eh pees-hes, mboosh pyll-in.",
       "category": "Travel",
       "generated_at": "2026-10-05T21:24:02.655370"
+    },
+    {
+      "english": "Help, I'm lost, completely.",
+      "albanian": "Ndihmë, jam humbur, plotësisht.",
+      "transliteration": "Ndi-him, yam hoom-bur, ploh-tisht.",
+      "category": "Emergency",
+      "generated_at": "2026-10-05T23:00:20.475425"
+    },
+    {
+      "english": "My car, it broke down.",
+      "albanian": "Makina ime, u prish.",
+      "transliteration": "Mah-kee-nah ee-meh, oo preesh.",
+      "category": "Emergency",
+      "generated_at": "2026-10-05T23:00:20.475435"
+    },
+    {
+      "english": "Someone's trapped, inside.",
+      "albanian": "Dikush është bllokuar, brenda.",
+      "transliteration": "Dee-koosh esht blo-koo-ar, bren-dah.",
+      "category": "Emergency",
+      "generated_at": "2026-10-05T23:00:20.475437"
+    },
+    {
+      "english": "I have, a severe fever.",
+      "albanian": "Kam, ethe të forta.",
+      "transliteration": "Kam, eh-theh teh for-tah.",
+      "category": "Emergency",
+      "generated_at": "2026-10-05T23:00:20.475438"
+    },
+    {
+      "english": "Can you, call for help?",
+      "albanian": "Mund të, telefononi për ndihmë?",
+      "transliteration": "Mund teh, teh-leh-foh-noh-nee p-er ndi-him?",
+      "category": "Emergency",
+      "generated_at": "2026-10-05T23:00:20.475440"
     }
   ],
-  "last_updated": "2026-10-05T21:24:02.655371"
+  "last_updated": "2026-10-05T23:00:20.475441"
 }
