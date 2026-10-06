@@ -17849,7 +17849,42 @@
       "transliteration": "Mund teh, teh-leh-foh-noh-nee p-er ndi-him?",
       "category": "Emergency",
       "generated_at": "2026-10-05T23:00:20.475440"
+    },
+    {
+      "english": "Sunrise paints, the eastern sky.",
+      "albanian": "Agimi ngjyros, qiellin lindor.",
+      "transliteration": "Agimi ngyros, kyellin lindor.",
+      "category": "Time",
+      "generated_at": "2026-10-06T01:10:46.734142"
+    },
+    {
+      "english": "Wait a beat, then respond.",
+      "albanian": "Prit një çast, pastaj përgjigju.",
+      "transliteration": "Prit n'chast, pastaj per gjigju.",
+      "category": "Time",
+      "generated_at": "2026-10-06T01:10:46.734151"
+    },
+    {
+      "english": "Clock ticks on, relentlessly.",
+      "albanian": "Ora vëzhgon, pa pushim.",
+      "transliteration": "Ora vezhgon, pa pushim.",
+      "category": "Time",
+      "generated_at": "2026-10-06T01:10:46.734153"
+    },
+    {
+      "english": "Before long, we'll be there.",
+      "albanian": "Brenda pak kohe, do të jemi atje.",
+      "transliteration": "Brenda pak kohe, do te jemi atje.",
+      "category": "Time",
+      "generated_at": "2026-10-06T01:10:46.734154"
+    },
+    {
+      "english": "A quiet interlude, now.",
+      "albanian": "Një ndërprerje e qetë, tani.",
+      "transliteration": "N'nderprerje e qete, tani.",
+      "category": "Time",
+      "generated_at": "2026-10-06T01:10:46.734155"
     }
   ],
-  "last_updated": "2026-10-05T23:00:20.475441"
+  "last_updated": "2026-10-06T01:10:46.734157"
 }
