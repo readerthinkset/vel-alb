@@ -18654,7 +18654,42 @@
       "transliteration": "D'eh-joh-nee r'yeh-dhen, eh bee-seh-d'es.",
       "category": "Success",
       "generated_at": "2026-10-10T16:52:58.517190"
+    },
+    {
+      "english": "Chat with locals, learn their charm.",
+      "albanian": "Bisedo me vendasit, mëso stilin e tyre.",
+      "transliteration": "Bisedo me vendasit, mëso stilin e tyre.",
+      "category": "Purpose",
+      "generated_at": "2026-10-10T18:15:19.235022"
+    },
+    {
+      "english": "Explore mountains, speak the names.",
+      "albanian": "Eksploro malet, thuaj emrat.",
+      "transliteration": "Eksploro malet, thuaj emrat.",
+      "category": "Purpose",
+      "generated_at": "2026-10-10T18:15:19.235031"
+    },
+    {
+      "english": "Taste the baklava, say 'faleminderit'.",
+      "albanian": "Shijoje bakllavanë, thuaj 'faleminderit'.",
+      "transliteration": "Shijoje bakllavanë, thuaj 'faleminderit'.",
+      "category": "Purpose",
+      "generated_at": "2026-10-10T18:15:19.235033"
+    },
+    {
+      "english": "Understand traditions, with a smile.",
+      "albanian": "Kuptoj traditat, me buzëqeshje.",
+      "transliteration": "Kuptoj traditat, me buzëqeshje.",
+      "category": "Purpose",
+      "generated_at": "2026-10-10T18:15:19.235034"
+    },
+    {
+      "english": "Navigate cities, ask for directions.",
+      "albanian": "Qarkullo në qytete, pyet rrugën.",
+      "transliteration": "Qarkullo në qytete, pyet rrugën.",
+      "category": "Purpose",
+      "generated_at": "2026-10-10T18:15:19.235035"
     }
   ],
-  "last_updated": "2026-10-10T16:52:58.517191"
+  "last_updated": "2026-10-10T18:15:19.235036"
 }
