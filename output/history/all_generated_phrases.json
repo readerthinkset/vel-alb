@@ -19004,7 +19004,42 @@
       "transliteration": "Peh-ren-dee-met, kuh-too yan tuh ahr-tah.",
       "category": "Travel",
       "generated_at": "2026-10-12T22:00:15.403897"
+    },
+    {
+      "english": "Brief pause, catch your breath.",
+      "albanian": "Pauzë e shkurtër, merr frymë.",
+      "transliteration": "Pauzë e shkurtër, merr frimë.",
+      "category": "Time",
+      "generated_at": "2026-10-12T23:21:21.212216"
+    },
+    {
+      "english": "Time slips by, unnoticed.",
+      "albanian": "Koha rrëshqet, pa u vënë re.",
+      "transliteration": "Koha rrëshqet, pa u vënë re.",
+      "category": "Time",
+      "generated_at": "2026-10-12T23:21:21.212226"
+    },
+    {
+      "english": "Wait a moment, listen.",
+      "albanian": "Prit një çast, dëgjo.",
+      "transliteration": "Prit një çast, dëgjo.",
+      "category": "Time",
+      "generated_at": "2026-10-12T23:21:21.212227"
+    },
+    {
+      "english": "The clock is ticking, now.",
+      "albanian": "Ora po tik-takon, tani.",
+      "transliteration": "Ora po tik-takon, tani.",
+      "category": "Time",
+      "generated_at": "2026-10-12T23:21:21.212228"
+    },
+    {
+      "english": "A new dawn, begins.",
+      "albanian": "Një agim i ri, fillon.",
+      "transliteration": "Një agim i ri, fillon.",
+      "category": "Time",
+      "generated_at": "2026-10-12T23:21:21.212229"
     }
   ],
-  "last_updated": "2026-10-12T22:00:15.403899"
+  "last_updated": "2026-10-12T23:21:21.212230"
 }
