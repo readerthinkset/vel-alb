@@ -19039,7 +19039,42 @@
       "transliteration": "Një agim i ri, fillon.",
       "category": "Time",
       "generated_at": "2026-10-12T23:21:21.212229"
+    },
+    {
+      "english": "Sun burns hot, pavement shimmers.",
+      "albanian": "Dielli nxehtë, shtegu shkëlqen.",
+      "transliteration": "Dee-eh-lee ncheh-hte, shteh-goo shkell-tshen.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T01:52:29.296054"
+    },
+    {
+      "english": "Wind howls loud, trees bend low.",
+      "albanian": "Era ulërin fort, pemët përkulen.",
+      "transliteration": "Eh-rah oo-leh-reen fort, peh-met per-koo-lehn.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T01:52:29.296064"
+    },
+    {
+      "english": "First frost, grass turns white.",
+      "albanian": "Ngrica e parë, bari bëhet bardhë.",
+      "transliteration": "Ngee-tsa eh pah-rah, bah-ree beh-het bahr-dh.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T01:52:29.296066"
+    },
+    {
+      "english": "Fog rolls in, hides the road.",
+      "albanian": "Mjegulla vjen, fsheh rrugën.",
+      "transliteration": "Myeh-goo-lah vyen, fsheh roo-gun.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T01:52:29.296067"
+    },
+    {
+      "english": "Heat beats down, time for shade.",
+      "albanian": "Nxehtësia godet, koha për hije.",
+      "transliteration": "Nxeh-teh-see-ah goh-deht, koh-ah per hee-yeh.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T01:52:29.296068"
     }
   ],
-  "last_updated": "2026-10-12T23:21:21.212230"
+  "last_updated": "2026-10-13T01:52:29.296069"
 }
