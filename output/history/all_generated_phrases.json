@@ -19634,7 +19634,42 @@
       "transliteration": "Ah-yoh boo-reh-koo, doo-keht, ee shee-shum.",
       "category": "Food",
       "generated_at": "2026-10-16T03:13:23.594725"
+    },
+    {
+      "english": "This dress, catches the light.",
+      "albanian": "Kjo fustan, kap dritën.",
+      "transliteration": "Ky-o foo-stahn, kahp dri-tahn.",
+      "category": "Clothes",
+      "generated_at": "2026-10-16T15:59:52.574023"
+    },
+    {
+      "english": "Your jacket, looks so cool.",
+      "albanian": "Xhaketa jote, duket ftohtë.",
+      "transliteration": "Jah-keh-tah yo-teh, doo-keht ft-oht.",
+      "category": "Clothes",
+      "generated_at": "2026-10-16T15:59:52.574033"
+    },
+    {
+      "english": "My socks, have funny patterns.",
+      "albanian": "Çorapet e mia, kanë motive qesharake.",
+      "transliteration": "Chor-ah-peht eh mee-ah, kahn mo-tee-veh keh-sha-rah-keh.",
+      "category": "Clothes",
+      "generated_at": "2026-10-16T15:59:52.574034"
+    },
+    {
+      "english": "These gloves, keep hands warm.",
+      "albanian": "Dorezat këto, mbajnë duart ngrohtë.",
+      "transliteration": "Doh-reh-zah-t k'tuh, mbahn doo-ahrt n-groht.",
+      "category": "Clothes",
+      "generated_at": "2026-10-16T15:59:52.574035"
+    },
+    {
+      "english": "Her outfit, is very smart.",
+      "albanian": "Veshja e saj, është shumë elegante.",
+      "transliteration": "Veh-shyah eh sah-y, esht shoom eh-leh-gahn-teh.",
+      "category": "Clothes",
+      "generated_at": "2026-10-16T15:59:52.574036"
     }
   ],
-  "last_updated": "2026-10-16T03:13:23.594727"
+  "last_updated": "2026-10-16T15:59:52.574038"
 }
