@@ -19599,7 +19599,42 @@
       "transliteration": "Esht KYOH, SHOOM eh PAH-soor?",
       "category": "Restaurant",
       "generated_at": "2026-10-15T22:56:15.776329"
+    },
+    {
+      "english": "This cheese, is wonderfully sharp.",
+      "albanian": "Ky djathë, ka shije të fortë.",
+      "transliteration": "Kee dyah, kah shyeh teh fort.",
+      "category": "Food",
+      "generated_at": "2026-10-16T03:13:23.594710"
+    },
+    {
+      "english": "A glass, of cold water, please.",
+      "albanian": "Një gotë, ujë të ftohtë, lutem.",
+      "transliteration": "Nyeh got, oo-yeh teh ftohht, loo-tem.",
+      "category": "Food",
+      "generated_at": "2026-10-16T03:13:23.594720"
+    },
+    {
+      "english": "These berries, are so sweet.",
+      "albanian": "Këto manaferra, janë shumë të ëmbla.",
+      "transliteration": "Keh-toh mah-nah-feh-rah, yahn shoom teh em-blah.",
+      "category": "Food",
+      "generated_at": "2026-10-16T03:13:23.594722"
+    },
+    {
+      "english": "My coffee, needs, a little sugar.",
+      "albanian": "Kafja ime, ka nevojë, për pak sheqer.",
+      "transliteration": "Kahf-yah ee-meh, kah neh-voy, pehr pahk sheh-chehr.",
+      "category": "Food",
+      "generated_at": "2026-10-16T03:13:23.594724"
+    },
+    {
+      "english": "That pie, looks, delicious.",
+      "albanian": "Ajo byreku, duket, i shijshëm.",
+      "transliteration": "Ah-yoh boo-reh-koo, doo-keht, ee shee-shum.",
+      "category": "Food",
+      "generated_at": "2026-10-16T03:13:23.594725"
     }
   ],
-  "last_updated": "2026-10-15T22:56:15.776330"
+  "last_updated": "2026-10-16T03:13:23.594727"
 }
