@@ -20124,7 +20124,42 @@
       "transliteration": "Qyteti, kurr nuk fle.",
       "category": "Common Expressions",
       "generated_at": "2026-10-19T03:20:58.440360"
+    },
+    {
+      "english": "The wolf, howls, at the moon.",
+      "albanian": "Ujku, uluron, në hënë.",
+      "transliteration": "U-koo, oo-loo-ron, nuh hnnuh.",
+      "category": "Animals",
+      "generated_at": "2026-10-19T19:45:16.154320"
+    },
+    {
+      "english": "A tiny mouse, nibbles, cheese.",
+      "albanian": "Një mi i vogël, kërcet, djathë.",
+      "transliteration": "N-yuh mee ee vo-guhl, krr-tsut, d-yah-th.",
+      "category": "Animals",
+      "generated_at": "2026-10-19T19:45:16.154331"
+    },
+    {
+      "english": "The proud peacock, fans, its tail.",
+      "albanian": "Pallua krenar, hap, bishtin.",
+      "transliteration": "Pah-llu-uh krre-nahr, hahp, bish-teen.",
+      "category": "Animals",
+      "generated_at": "2026-10-19T19:45:16.154333"
+    },
+    {
+      "english": "A strong ox, pulls, the cart.",
+      "albanian": "Një dem i fortë, tërheq, karrocën.",
+      "transliteration": "N-yuh dem ee for-tuh, tuh-rre-hyuk, kah-ro-tsuh-n.",
+      "category": "Animals",
+      "generated_at": "2026-10-19T19:45:16.154333"
+    },
+    {
+      "english": "The clever fox, sneaks, by.",
+      "albanian": "Dhelpra zgjuar, fshihet, pranë.",
+      "transliteration": "Dhel-prah zgj-oo-ahr, fshee-huht, prah-nuh.",
+      "category": "Animals",
+      "generated_at": "2026-10-19T19:45:16.154334"
     }
   ],
-  "last_updated": "2026-10-19T03:20:58.440361"
+  "last_updated": "2026-10-19T19:45:16.154336"
 }
