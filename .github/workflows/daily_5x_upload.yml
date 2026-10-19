@@ -2,11 +2,11 @@ name: VELOCITY ALBANIAN - Daily 5x Upload
 
 on:
   schedule:
-    - cron: '0 12 * * *'
-    - cron: '0 14 * * *'
-    - cron: '0 17 * * *'
-    - cron: '0 20 * * *'
-    - cron: '0 0 * * *'
+    - cron: '4 12 * * *'
+    - cron: '4 14 * * *'
+    - cron: '4 17 * * *'
+    - cron: '4 20 * * *'
+    - cron: '4 0 * * *'
 
   workflow_dispatch:
 
