@@ -20264,7 +20264,42 @@
       "transliteration": "Puh-shuh-peert zah-no-reht, boo-tuh-sheesht.",
       "category": "Directions",
       "generated_at": "2026-10-20T04:22:46.877955"
+    },
+    {
+      "english": "Misty morning, softest grey.",
+      "albanian": "Mjegull mëngjesi, grija më e butë.",
+      "transliteration": "m-yeg-ool m-ng-je-see, gree-ya m-eh bo-tuh",
+      "category": "Colors",
+      "generated_at": "2026-10-20T16:40:47.815915"
+    },
+    {
+      "english": "Lemon zest, bright and sharp.",
+      "albanian": "Lëkurë limoni, e ndritshme dhe e mprehtë.",
+      "transliteration": "l-eh-koor lee-mo-nee, eh n-dreet-shmeh deh eh m-preh-teh",
+      "category": "Colors",
+      "generated_at": "2026-10-20T16:40:47.815925"
+    },
+    {
+      "english": "Clay pot, earthy brown.",
+      "albanian": "Tenxhere balte, kafe tokësore.",
+      "transliteration": "ten-je-reh bal-teh, ka-feh to-ke-so-reh",
+      "category": "Colors",
+      "generated_at": "2026-10-20T16:40:47.815926"
+    },
+    {
+      "english": "Faded denim, comfortable blue.",
+      "albanian": "Xhinse të zbehur, blu e rehatshme.",
+      "transliteration": "j-heen-seh teh z-beh-hur, bloo eh reh-hat-shmeh",
+      "category": "Colors",
+      "generated_at": "2026-10-20T16:40:47.815927"
+    },
+    {
+      "english": "Ripe plum, deepest purple.",
+      "albanian": "Shtrydhje pjekur, vjollcë më e thellë.",
+      "transliteration": "sht-ry-j-yeh pyeh-koor, vyol-tsuh m-eh th-eh-ll",
+      "category": "Colors",
+      "generated_at": "2026-10-20T16:40:47.815928"
     }
   ],
-  "last_updated": "2026-10-20T04:22:46.877957"
+  "last_updated": "2026-10-20T16:40:47.815930"
 }
