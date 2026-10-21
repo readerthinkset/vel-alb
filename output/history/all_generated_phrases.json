@@ -20439,7 +20439,42 @@
       "transliteration": "Male të gjëlbra, qëndrojn lart.",
       "category": "Basic Phrases",
       "generated_at": "2026-10-21T04:11:58.954712"
+    },
+    {
+      "english": "My finger, it points, the way.",
+      "albanian": "Gishtin tim, ai tregon, rrugën.",
+      "transliteration": "Gish-tin teem, a-ee teg-ron, roo-ghen.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-21T16:58:57.583118"
+    },
+    {
+      "english": "Her toe, it wiggles, playfully.",
+      "albanian": "Gishtin e saj, ai luhatet, lozonisht.",
+      "transliteration": "Gish-tin eh sa-ee, a-ee loo-ha-tet, lo-zo-nish.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-21T16:58:57.583131"
+    },
+    {
+      "english": "His knee, it bends, for prayer.",
+      "albanian": "Gjurin e tij, ai përkulet, për lutje.",
+      "transliteration": "Gjoo-rin eh tee, a-ee per-koo-let, per loo-t-yeh.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-21T16:58:57.583132"
+    },
+    {
+      "english": "Our back, it supports, us all.",
+      "albanian": "Shpinën tonë, ajo mbështet, ne të gjithë.",
+      "transliteration": "Shpee-nahn toh-neh, a-yo mbehsh-tet, neh teh gee-thee.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-21T16:58:57.583133"
+    },
+    {
+      "english": "Your arm, it reaches, for help.",
+      "albanian": "Krahun tënd, ai shtrihet, për ndihmë.",
+      "transliteration": "Krah-oon tehnd, a-ee shtree-het, per n-deeh-meh.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-21T16:58:57.583134"
     }
   ],
-  "last_updated": "2026-10-21T04:11:58.954714"
+  "last_updated": "2026-10-21T16:58:57.583135"
 }
