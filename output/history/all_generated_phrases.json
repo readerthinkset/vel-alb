@@ -20544,7 +20544,42 @@
       "transliteration": "KYOH OO-yoo, EHSH-teh freh-SKOO-eh-seh.",
       "category": "Restaurant",
       "generated_at": "2026-10-21T20:34:03.090032"
+    },
+    {
+      "english": "My leg, it throbs intensely.",
+      "albanian": "Këmba ime, rreh fort.",
+      "transliteration": "Kemba imi, rreh fort.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T23:13:25.522638"
+    },
+    {
+      "english": "I feel dizzy, very much.",
+      "albanian": "Më merret, marramendje.",
+      "transliteration": "Me merret, marramendje.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T23:13:25.522646"
+    },
+    {
+      "english": "There's bleeding, a lot here.",
+      "albanian": "Ka gjakderdhje, shumë këtu.",
+      "transliteration": "Ka gjakderdhje, shume ktu.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T23:13:25.522648"
+    },
+    {
+      "english": "I can't breathe, properly.",
+      "albanian": "Nuk marr dot, frymë.",
+      "transliteration": "Nuk marr dot, freme.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T23:13:25.522650"
+    },
+    {
+      "english": "My chest, feels tight.",
+      "albanian": "Gjoksi im, ndihet ngushtë.",
+      "transliteration": "Gjoksi im, ndihet ngushte.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T23:13:25.522651"
     }
   ],
-  "last_updated": "2026-10-21T20:34:03.090034"
+  "last_updated": "2026-10-21T23:13:25.522653"
 }
