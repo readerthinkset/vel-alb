@@ -20754,7 +20754,42 @@
       "transliteration": "Lumi rrjedh, duke bartur dhimbjen.",
       "category": "Forgiveness",
       "generated_at": "2026-10-22T23:16:36.932338"
+    },
+    {
+      "english": "Just a second, please.",
+      "albanian": "Vetëm një sekondë, lutem.",
+      "transliteration": "Vetem un sekondë, lutem.",
+      "category": "Time",
+      "generated_at": "2026-10-23T04:16:12.659640"
+    },
+    {
+      "english": "When does it start?",
+      "albanian": "Kur fillon ajo?",
+      "transliteration": "Kur fillon aajo?",
+      "category": "Time",
+      "generated_at": "2026-10-23T04:16:12.659651"
+    },
+    {
+      "english": "We'll see, in time.",
+      "albanian": "Do të shohim, me kohë.",
+      "transliteration": "Do te shohim, me kohë.",
+      "category": "Time",
+      "generated_at": "2026-10-23T04:16:12.659653"
+    },
+    {
+      "english": "It's been a while.",
+      "albanian": "Ka qenë një kohë.",
+      "transliteration": "Ka qenë un kohë.",
+      "category": "Time",
+      "generated_at": "2026-10-23T04:16:12.659655"
+    },
+    {
+      "english": "Is it time yet?",
+      "albanian": "Është koha tash?",
+      "transliteration": "Është koha tash?",
+      "category": "Time",
+      "generated_at": "2026-10-23T04:16:12.659656"
     }
   ],
-  "last_updated": "2026-10-22T23:16:36.932340"
+  "last_updated": "2026-10-23T04:16:12.659658"
 }
