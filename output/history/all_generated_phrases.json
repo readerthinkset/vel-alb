@@ -21174,7 +21174,42 @@
       "transliteration": "Leh tah proh-voym, nyuh muh-noor teh-yet-er.",
       "category": "Work",
       "generated_at": "2026-10-25T17:20:59.016807"
+    },
+    {
+      "english": "The zebra, stripes, across the plain.",
+      "albanian": "Zebra, me vija, në fushë.",
+      "transliteration": "Zeh-brah, meh vee-yah, neh foosh.",
+      "category": "Animals",
+      "generated_at": "2026-10-25T17:31:54.678275"
+    },
+    {
+      "english": "A tiny ant, carries, a crumb.",
+      "albanian": "Milje, e vogël, mban, një kokërr.",
+      "transliteration": "Meel-yeh, eh voh-gel, mban, nyeh koh-kerr.",
+      "category": "Animals",
+      "generated_at": "2026-10-25T17:31:54.678287"
+    },
+    {
+      "english": "The proud peacock, displays, his feathers.",
+      "albanian": "Palloi, krenar, tregon, puplat.",
+      "transliteration": "Pal-loy, kreh-nar, treh-gon, poo-plat.",
+      "category": "Animals",
+      "generated_at": "2026-10-25T17:31:54.678289"
+    },
+    {
+      "english": "A busy bee, flies, to the hive.",
+      "albanian": "Bleta, e zënë, fluturon, në zgjoj.",
+      "transliteration": "Bleh-tah, eh zah-neh, floo-too-ron, neh zg-joy.",
+      "category": "Animals",
+      "generated_at": "2026-10-25T17:31:54.678290"
+    },
+    {
+      "english": "The slow turtle, walks, to the sea.",
+      "albanian": "Breshka, e ngadaltë, ecën, drejt detit.",
+      "transliteration": "Brehsh-kah, eh nah-gahd-lht, eh-tshen, dreht deh-teet.",
+      "category": "Animals",
+      "generated_at": "2026-10-25T17:31:54.678291"
     }
   ],
-  "last_updated": "2026-10-25T17:20:59.016809"
+  "last_updated": "2026-10-25T17:31:54.678293"
 }
