@@ -21489,7 +21489,42 @@
       "transliteration": "Gri lumi, rrjedh lehtë.",
       "category": "Colors",
       "generated_at": "2026-10-27T17:50:36.661632"
+    },
+    {
+      "english": "Six, quiet moments, linger.",
+      "albanian": "Gjashtë, çaste të qeta, zgjaten.",
+      "transliteration": "Gyash-te, chah-ste teh kyeh-tah, zgjah-ten.",
+      "category": "Numbers",
+      "generated_at": "2026-10-27T19:18:42.649913"
+    },
+    {
+      "english": "Seven, vibrant colors, bloom.",
+      "albanian": "Shtatë, ngjyra të gjalla, lulëzojnë.",
+      "transliteration": "Shtah-te, ngyoo-rah teh jyah-lah, loo-leh-zohyn.",
+      "category": "Numbers",
+      "generated_at": "2026-10-27T19:18:42.649923"
+    },
+    {
+      "english": "Eight, steady rhythms, guide.",
+      "albanian": "Tetë, ritme të qëndrueshme, udhëheqin.",
+      "transliteration": "Teh-te, reet-meh teh chuhn-droo-esh-meh, oo-duh-heh-chin.",
+      "category": "Numbers",
+      "generated_at": "2026-10-27T19:18:42.649925"
+    },
+    {
+      "english": "Nine, distant mountains, call.",
+      "albanian": "Nëntë, male të largëta, thërrasin.",
+      "transliteration": "Nuhn-te, mah-leh teh lar-geh-tah, thuh-rah-sin.",
+      "category": "Numbers",
+      "generated_at": "2026-10-27T19:18:42.649926"
+    },
+    {
+      "english": "Ten, guiding lights, appear.",
+      "albanian": "Dhjetë, drita udhëzuese, shfaqen.",
+      "transliteration": "Dhyet-te, dree-tah oo-duh-zhoo-eh-seh, shfah-chen.",
+      "category": "Numbers",
+      "generated_at": "2026-10-27T19:18:42.649927"
     }
   ],
-  "last_updated": "2026-10-27T17:50:36.661634"
+  "last_updated": "2026-10-27T19:18:42.649929"
 }
