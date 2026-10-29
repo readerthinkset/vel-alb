@@ -21804,7 +21804,42 @@
       "transliteration": "Zem-er plot, bren-ga pak.",
       "category": "Health",
       "generated_at": "2026-10-29T05:17:48.148752"
+    },
+    {
+      "english": "Hear this nuance, please.",
+      "albanian": "Dëgjoni këtë hollësi, ju lutem.",
+      "transliteration": "Deh-gjo-nee kuht-tuh hol-luh-see, yoo loo-tehm.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T18:19:34.093134"
+    },
+    {
+      "english": "Mimic this tone, exactly.",
+      "albanian": "Imitoje këtë ton, saktësisht.",
+      "transliteration": "Ee-mee-toh-yeh kuht-tuh tohn, sahk-tuh-sheesht.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T18:19:34.093146"
+    },
+    {
+      "english": "Sense the emotion, within.",
+      "albanian": "Ndjeje emocionin, brenda.",
+      "transliteration": "Ndjey-eh eh-moh-tsee-oh-neen, brehn-dah.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T18:19:34.093148"
+    },
+    {
+      "english": "Let the story unfold, now.",
+      "albanian": "Lëre t'i shpaloset historia, tani.",
+      "transliteration": "Leh-reh tee shpa-loh-seht hee-stoh-ree-ah, tah-nee.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T18:19:34.093150"
+    },
+    {
+      "english": "Visualize the scene, vividly.",
+      "albanian": "Vizualizoje skenën, gjallërisht.",
+      "transliteration": "Vee-zoo-ah-lee-zoh-yeh ske-nehn, jahl-luh-reesht.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T18:19:34.093151"
     }
   ],
-  "last_updated": "2026-10-29T05:17:48.148754"
+  "last_updated": "2026-10-29T18:19:34.093153"
 }
