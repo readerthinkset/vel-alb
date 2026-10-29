@@ -21909,7 +21909,42 @@
       "transliteration": "Pee-jah-met eh mee-ah, yahn per reh-ah-tee.",
       "category": "Clothes",
       "generated_at": "2026-10-29T21:51:02.690177"
+    },
+    {
+      "english": "This meal, truly delightful.",
+      "albanian": "Ky ushqim, me të vërtetë i mrekullueshëm.",
+      "transliteration": "Kee oo-sheem, meh teh vuh-reh-teet ee m-reh-koo-loo-eh-shuhm.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-29T23:55:17.518247"
+    },
+    {
+      "english": "Could we get, some bread?",
+      "albanian": "A mund të marrim, pak bukë?",
+      "transliteration": "Ah mund teh mah-reem, pahk book?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-29T23:55:17.518260"
+    },
+    {
+      "english": "How is, the lamb prepared?",
+      "albanian": "Si është, qengji i përgatitur?",
+      "transliteration": "See ehshth, chehng-jee ee puh-gah-tee-toor?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-29T23:55:17.518262"
+    },
+    {
+      "english": "I'm craving, something sweet.",
+      "albanian": "Kam dëshirë, për diçka të ëmbël.",
+      "transliteration": "Kah-m deh-sheer, puhr dihch-kah teh uhm-buhl.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-29T23:55:17.518263"
+    },
+    {
+      "english": "This wine, pairs well.",
+      "albanian": "Ky verë, shkon mirë.",
+      "transliteration": "Kee veh-rah, shkoh-n meer.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-29T23:55:17.518265"
     }
   ],
-  "last_updated": "2026-10-29T21:51:02.690179"
+  "last_updated": "2026-10-29T23:55:17.518267"
 }
