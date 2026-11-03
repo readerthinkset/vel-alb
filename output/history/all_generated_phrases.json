@@ -22609,7 +22609,42 @@
       "transliteration": "Kupton më shumë, me çdo bisedë.",
       "category": "Success",
       "generated_at": "2026-11-03T06:08:00.362161"
+    },
+    {
+      "english": "Good morning, what time is it now?",
+      "albanian": "Mirëmëngjes, sa është ora tani?",
+      "transliteration": "Mirëmengjes, sa eshte ora tani?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-03T19:20:48.027337"
+    },
+    {
+      "english": "Please, I’m looking for the nearest pharmacy.",
+      "albanian": "Ju lutem, po kërkoj farmacine më të afërt.",
+      "transliteration": "Ju lutem, po kerkoj farmacine me te afert.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-03T19:20:48.027345"
+    },
+    {
+      "english": "Where can I buy a train ticket?",
+      "albanian": "Ku mund të blej një biletë treni?",
+      "transliteration": "Ku mund te blej nje bilete treni?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-03T19:20:48.027347"
+    },
+    {
+      "english": "I’m a little lost, could you help me?",
+      "albanian": "Jam pak i/e humbur, mund të më ndihmoni?",
+      "transliteration": "Jam pak i/e humbur, mund te me ndihmoni?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-03T19:20:48.027348"
+    },
+    {
+      "english": "How much does this cost, please?",
+      "albanian": "Sa kushton kjo, ju lutem?",
+      "transliteration": "Sa kushton kjo, ju lutem?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-03T19:20:48.027349"
     }
   ],
-  "last_updated": "2026-11-03T06:08:00.362163"
+  "last_updated": "2026-11-03T19:20:48.027351"
 }
