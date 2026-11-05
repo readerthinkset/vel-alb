@@ -22924,7 +22924,42 @@
       "transliteration": "Bëhuni kureshtarë, pyetjet mprehin mendjen.",
       "category": "Self Improvement",
       "generated_at": "2026-11-05T00:52:54.879491"
+    },
+    {
+      "english": "Where is the bus stop, please?",
+      "albanian": "Ku është stacioni i autobusit, ju lutem?",
+      "transliteration": "Ku eshte stacioni i autobusit, ju lutem?",
+      "category": "Travel",
+      "generated_at": "2026-11-05T06:10:03.126101"
+    },
+    {
+      "english": "How much is this ticket, in total?",
+      "albanian": "Sa kushton kjo biletë, gjithsej?",
+      "transliteration": "Sa kushton kjo bilete, gjithsej?",
+      "category": "Travel",
+      "generated_at": "2026-11-05T06:10:03.126109"
+    },
+    {
+      "english": "I would like water, without ice.",
+      "albanian": "Do ujë, pa akull.",
+      "transliteration": "Do uje, pa akull.",
+      "category": "Travel",
+      "generated_at": "2026-11-05T06:10:03.126111"
+    },
+    {
+      "english": "Is there a pharmacy nearby, please?",
+      "albanian": "Ka farmaci afër, ju lutem?",
+      "transliteration": "Ka farmaci afer, ju lutem?",
+      "category": "Travel",
+      "generated_at": "2026-11-05T06:10:03.126112"
+    },
+    {
+      "english": "Could you write it down, please?",
+      "albanian": "Mund ta shkruani, ju lutem?",
+      "transliteration": "Mund ta shkruani, ju lutem?",
+      "category": "Travel",
+      "generated_at": "2026-11-05T06:10:03.126113"
     }
   ],
-  "last_updated": "2026-11-05T00:52:54.879492"
+  "last_updated": "2026-11-05T06:10:03.126115"
 }
