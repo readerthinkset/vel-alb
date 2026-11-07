@@ -23239,7 +23239,42 @@
       "transliteration": "E leshoj presionin, dhe clodhem.",
       "category": "Inner Peace",
       "generated_at": "2026-11-07T05:31:04.717098"
+    },
+    {
+      "english": "Welcome, I need a table for two, please.",
+      "albanian": "Mirë se vini, dua një tavolinë për dy, ju lutem.",
+      "transliteration": "Mire se vini, dua nje tavoline per dy, ju lutem.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-07T17:40:19.342425"
+    },
+    {
+      "english": "Do you have vegetarian options, tonight?",
+      "albanian": "Keni opsione vegjetariane, sonte?",
+      "transliteration": "Keni opsione vegjetariane, sonte?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-07T17:40:19.342440"
+    },
+    {
+      "english": "What comes with this dish, exactly?",
+      "albanian": "Çfarë ka me këtë pjatë, saktësisht?",
+      "transliteration": "Çfare ka me kete pjate, saktesisht?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-07T17:40:19.342441"
+    },
+    {
+      "english": "Can I taste a small sampler, first?",
+      "albanian": "A mund të provoj një provë të vogël, fillimisht?",
+      "transliteration": "A mund te provoj nje prove te vogel, fillimisht?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-07T17:40:19.342443"
+    },
+    {
+      "english": "I’d like it mild, not too spicy.",
+      "albanian": "E dua të butë, jo shumë pikante.",
+      "transliteration": "E dua te bute, jo shume pikante.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-07T17:40:19.342444"
     }
   ],
-  "last_updated": "2026-11-07T05:31:04.717099"
+  "last_updated": "2026-11-07T17:40:19.342446"
 }
