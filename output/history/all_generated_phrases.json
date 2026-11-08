@@ -23519,7 +23519,42 @@
       "transliteration": "Kete stine, shqetesimet te zbehen.",
       "category": "Holidays",
       "generated_at": "2026-11-08T21:05:41.226476"
+    },
+    {
+      "english": "I ask bravely, then correct calmly, and move on.",
+      "albanian": "Unë pyes me guxim, pastaj korrigjoj qetë, dhe vazhdoj.",
+      "transliteration": "Une pyes me guxim, pastaj korrigjoj qetë, dhe vazhdoj.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T23:39:53.471497"
+    },
+    {
+      "english": "I make mistakes, and my confidence follows.",
+      "albanian": "Bëj gabime, dhe besimi më ndjek.",
+      "transliteration": "Bej gabime, dhe besimi me ndjek.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T23:39:53.471509"
+    },
+    {
+      "english": "I speak slowly, and people understand me more.",
+      "albanian": "Flas ngadalë, dhe njerëzit më kuptojnë më mirë.",
+      "transliteration": "Flas ngadalë, dhe njerezit me kuptojne me mire.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T23:39:53.471511"
+    },
+    {
+      "english": "Every day, I try again, with steadier words.",
+      "albanian": "Çdo ditë, provoj sërish, me fjalë më të sigurta.",
+      "transliteration": "Çdo dite, provoj serish, me fjalë me të sigurta.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T23:39:53.471512"
+    },
+    {
+      "english": "I keep my pace, and Albanian sounds clearer.",
+      "albanian": "Mbaj ritmin tim, dhe shqipja tingëllon më qartë.",
+      "transliteration": "Mbaj ritmin tim, dhe shqipja tingëllon me qarte.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T23:39:53.471513"
     }
   ],
-  "last_updated": "2026-11-08T21:05:41.226477"
+  "last_updated": "2026-11-08T23:39:53.471515"
 }
