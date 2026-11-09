@@ -23624,7 +23624,42 @@
       "transliteration": "Ndrysho, ndalo, pastaj zbut shpatullat",
       "category": "Balance",
       "generated_at": "2026-11-09T22:10:44.737920"
+    },
+    {
+      "english": "Please, could I have hot bread today?",
+      "albanian": "Ju lutem, a mund të marr bukë të ngrohtë sot?",
+      "transliteration": "Ju lutem, a mund te marr buke te ngrohte sot?",
+      "category": "Food",
+      "generated_at": "2026-11-09T23:20:26.803780"
+    },
+    {
+      "english": "Can I taste this sauce, before ordering?",
+      "albanian": "A mund ta provoj këtë salcë, para se të porosis?",
+      "transliteration": "A mund ta provoj kete salce, para se te porosis?",
+      "category": "Food",
+      "generated_at": "2026-11-09T23:20:26.803794"
+    },
+    {
+      "english": "I’d like a vegetarian plate, please.",
+      "albanian": "Do një pjatë vegjetariane, ju lutem.",
+      "transliteration": "Do nje plate vegjetariane, ju lutem.",
+      "category": "Food",
+      "generated_at": "2026-11-09T23:20:26.803796"
+    },
+    {
+      "english": "Is this stew spicy, or mild?",
+      "albanian": "A është kjo zierje pikante, apo e butë?",
+      "transliteration": "A eshte kjo zierje pikante, apo e bute?",
+      "category": "Food",
+      "generated_at": "2026-11-09T23:20:26.803797"
+    },
+    {
+      "english": "No onions, please, I’m allergic.",
+      "albanian": "Pa qepë, ju lutem, kam alergji.",
+      "transliteration": "Pa qepë, ju lutem, kam alergji.",
+      "category": "Food",
+      "generated_at": "2026-11-09T23:20:26.803798"
     }
   ],
-  "last_updated": "2026-11-09T22:10:44.737922"
+  "last_updated": "2026-11-09T23:20:26.803800"
 }
