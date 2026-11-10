@@ -23799,7 +23799,42 @@
       "transliteration": "Me qe-të-son shqetë-si-met, shp ejt",
       "category": "Relationships",
       "generated_at": "2026-11-10T08:30:41.278397"
+    },
+    {
+      "english": "I feel joy, right now.",
+      "albanian": "Ndjej gëzim, tani.",
+      "transliteration": "Ndjej gezim, tani.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T19:37:39.202698"
+    },
+    {
+      "english": "My smile arrives, all by itself.",
+      "albanian": "Më vjen një buzëqeshje, vetë.",
+      "transliteration": "Me vjen nje buzeqeshje, vete.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T19:37:39.202713"
+    },
+    {
+      "english": "Today feels lighter, somehow.",
+      "albanian": "Sot ndihem më lehtë, disi.",
+      "transliteration": "Sot ndihem me lehte, disi.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T19:37:39.202716"
+    },
+    {
+      "english": "A good song lifts my mood.",
+      "albanian": "Një këngë e mirë, më ngre humorin.",
+      "transliteration": "Një këngë e mirë, më ngre humorin.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T19:37:39.202717"
+    },
+    {
+      "english": "I’m glad I’m here, breathing.",
+      "albanian": "Jam i",
+      "transliteration": "Jam i lumtur qe jam ketu, duke mare fryme.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T19:37:39.202719"
     }
   ],
-  "last_updated": "2026-11-10T08:30:41.278399"
+  "last_updated": "2026-11-10T19:37:39.202721"
 }
