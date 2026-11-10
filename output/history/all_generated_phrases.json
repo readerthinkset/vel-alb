@@ -23869,7 +23869,42 @@
       "transliteration": "Kë-qa-qem me mo-men-te të qe-ta me m-iqtë.",
       "category": "Happiness",
       "generated_at": "2026-11-10T20:41:56.950386"
+    },
+    {
+      "english": "Hello, how are you today?",
+      "albanian": "Përshëndetje, si jeni sot?",
+      "transliteration": "Per-shen-de-te, si ye-ni sot",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T22:10:15.957409"
+    },
+    {
+      "english": "Thank you very much, I appreciate it.",
+      "albanian": "Faleminderit shumë, vërtet e vlerësoj.",
+      "transliteration": "Fa-lem-in-de-ret shum, vert e vlereso-j",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T22:10:15.957425"
+    },
+    {
+      "english": "Sorry, I didn’t understand you.",
+      "albanian": "Më falni, nuk të kuptova.",
+      "transliteration": "Me fal-ni, nuk te kupto-va",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T22:10:15.957427"
+    },
+    {
+      "english": "Do you speak English, please?",
+      "albanian": "Flisni anglisht, ju lutem?",
+      "transliteration": "Flis-ni anglisht, ju lu-tem",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T22:10:15.957429"
+    },
+    {
+      "english": "Where is the nearest café?",
+      "albanian": "Ku është kafeneja më e afërt?",
+      "transliteration": "Ku eshte ka-fe-ne-ja me e a-fert",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T22:10:15.957430"
     }
   ],
-  "last_updated": "2026-11-10T20:41:56.950388"
+  "last_updated": "2026-11-10T22:10:15.957432"
 }
