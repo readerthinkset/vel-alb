@@ -23939,7 +23939,42 @@
       "transliteration": "Edhe pese minuta, mos u shqeteso.",
       "category": "Numbers",
       "generated_at": "2026-11-11T00:23:01.010418"
+    },
+    {
+      "english": "You’re doing great, keep going.",
+      "albanian": "Po ia del, vazhdo kështu.",
+      "transliteration": "Po ia del, vazhdo kështu.",
+      "category": "Success",
+      "generated_at": "2026-11-11T05:24:27.684070"
+    },
+    {
+      "english": "Small progress, big confidence.",
+      "albanian": "Pak nga pak, rritet besimi.",
+      "transliteration": "Pak nga pak, rritet besimi.",
+      "category": "Success",
+      "generated_at": "2026-11-11T05:24:27.684080"
+    },
+    {
+      "english": "That was a solid answer.",
+      "albanian": "Kjo ishte përgjigje shumë e mirë.",
+      "transliteration": "Kjo ishte përgjigje shumë e mirë.",
+      "category": "Success",
+      "generated_at": "2026-11-11T05:24:27.684082"
+    },
+    {
+      "english": "Good job, you said it right.",
+      "albanian": "Bravo, e the saktë.",
+      "transliteration": "Bravo, e the saktë.",
+      "category": "Success",
+      "generated_at": "2026-11-11T05:24:27.684084"
+    },
+    {
+      "english": "You’re learning fast, truly.",
+      "albanian": "Po mëson shpejt, me të vërtetë.",
+      "transliteration": "Po mëson shpejt, me të vërtetë.",
+      "category": "Success",
+      "generated_at": "2026-11-11T05:24:27.684085"
     }
   ],
-  "last_updated": "2026-11-11T00:23:01.010420"
+  "last_updated": "2026-11-11T05:24:27.684087"
 }
