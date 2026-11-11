@@ -23974,7 +23974,42 @@
       "transliteration": "Po mëson shpejt, me të vërtetë.",
       "category": "Success",
       "generated_at": "2026-11-11T05:24:27.684085"
+    },
+    {
+      "english": "It’s cloudy, with a chance of rain.",
+      "albanian": "Është me re, ka mundësi për shi.",
+      "transliteration": "Eshtë me re, ka mundësi për shi.",
+      "category": "Weather",
+      "generated_at": "2026-11-11T19:31:04.790926"
+    },
+    {
+      "english": "Thunder rumbles far away tonight.",
+      "albanian": "Tundet bubullima larg, sonte.",
+      "transliteration": "Tundet bubullima larg, sonte.",
+      "category": "Weather",
+      "generated_at": "2026-11-11T19:31:04.790938"
+    },
+    {
+      "english": "The rain stops, and the streets dry.",
+      "albanian": "Po ndalon shiu, rrugët thahen.",
+      "transliteration": "Po ndalon shiu, rrugët thahen.",
+      "category": "Weather",
+      "generated_at": "2026-11-11T19:31:04.790940"
+    },
+    {
+      "english": "Light rain starts, don’t forget your jacket.",
+      "albanian": "Nis shi i lehtë, mos e harro xhaketën.",
+      "transliteration": "Nis shi i lehtë, mos e harro xhaketën.",
+      "category": "Weather",
+      "generated_at": "2026-11-11T19:31:04.790942"
+    },
+    {
+      "english": "The wind is calm right now.",
+      "albanian": "Era është e qetë tani.",
+      "transliteration": "Era është e qetë tani.",
+      "category": "Weather",
+      "generated_at": "2026-11-11T19:31:04.790943"
     }
   ],
-  "last_updated": "2026-11-11T05:24:27.684087"
+  "last_updated": "2026-11-11T19:31:04.790945"
 }
