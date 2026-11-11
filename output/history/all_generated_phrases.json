@@ -23904,7 +23904,42 @@
       "transliteration": "Ku eshte ka-fe-ne-ja me e a-fert",
       "category": "Basic Phrases",
       "generated_at": "2026-11-10T22:10:15.957430"
+    },
+    {
+      "english": "One more time, please, continue.",
+      "albanian": "Edhe një herë, të lutem, vazhdo.",
+      "transliteration": "Edhe nje here, te lutem, vazhdo.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T00:23:01.010400"
+    },
+    {
+      "english": "Two cups of coffee, for us.",
+      "albanian": "Dy filxhanë kafe, për ne.",
+      "transliteration": "Dy filxhanë kafe, për ne.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T00:23:01.010414"
+    },
+    {
+      "english": "Three friends arrive, at seven sharp.",
+      "albanian": "Tre shokë vijnë, në shtatë të sakta.",
+      "transliteration": "Tre shoke vijne, ne shtate te sakta.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T00:23:01.010416"
+    },
+    {
+      "english": "Four keys, and the door opens.",
+      "albanian": "Katër çelësa, dhe dera hapet.",
+      "transliteration": "Kater çelēsa, dhe dera hapet.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T00:23:01.010417"
+    },
+    {
+      "english": "Five minutes left, don’t worry.",
+      "albanian": "Edhe pesë minuta, mos u shqetëso.",
+      "transliteration": "Edhe pese minuta, mos u shqeteso.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T00:23:01.010418"
     }
   ],
-  "last_updated": "2026-11-10T22:10:15.957432"
+  "last_updated": "2026-11-11T00:23:01.010420"
 }
