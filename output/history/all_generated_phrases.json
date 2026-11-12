@@ -24149,7 +24149,42 @@
       "transliteration": "E kuptoj, mos u shqeteso.",
       "category": "Common Expressions",
       "generated_at": "2026-11-12T06:29:29.476017"
+    },
+    {
+      "english": "I feel calm, like everything settles.",
+      "albanian": "Ndjehem i qetë, sikur gjithçka rregullohet.",
+      "transliteration": "N-djehem i qetë, si-kur gjithçka rre-gullo-het.",
+      "category": "Feelings",
+      "generated_at": "2026-11-12T19:48:26.804409"
+    },
+    {
+      "english": "I'm nervous, but I can do it.",
+      "albanian": "Jam pak nervoz, por e bëj.",
+      "transliteration": "Jam pak ne-rvo-z, por e bë-j.",
+      "category": "Feelings",
+      "generated_at": "2026-11-12T19:48:26.804421"
+    },
+    {
+      "english": "I feel safe, in this moment.",
+      "albanian": "Ndjehem i sigurt, në këtë çast.",
+      "transliteration": "N-djehem i sigurt, në ketë çast.",
+      "category": "Feelings",
+      "generated_at": "2026-11-12T19:48:26.804423"
+    },
+    {
+      "english": "I'm a little embarrassed, that happened.",
+      "albanian": "Jam pak i",
+      "transliteration": "Jam pak i/e turpë-ru-ar, ndo-dhi ashtu.",
+      "category": "Feelings",
+      "generated_at": "2026-11-12T19:48:26.804424"
+    },
+    {
+      "english": "I feel hopeful, even if it's hard.",
+      "albanian": "Ndjehem shpresëdhënës, edhe nëse është e vështirë.",
+      "transliteration": "N-djehem shpre-së-dhë-nës, e-edhe nëse ësht-e e vështi-rë.",
+      "category": "Feelings",
+      "generated_at": "2026-11-12T19:48:26.804425"
     }
   ],
-  "last_updated": "2026-11-12T06:29:29.476019"
+  "last_updated": "2026-11-12T19:48:26.804427"
 }
