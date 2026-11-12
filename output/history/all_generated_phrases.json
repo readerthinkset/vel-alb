@@ -24219,7 +24219,42 @@
       "transliteration": "Të besoj plotësisht, miku im.",
       "category": "Friendship",
       "generated_at": "2026-11-12T21:17:11.499682"
+    },
+    {
+      "english": "Where is the train station, please?",
+      "albanian": "Ku është stacioni i trenit, ju lutem?",
+      "transliteration": "Ku eshte stacioni i trenit, ju lutem?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T22:37:23.537418"
+    },
+    {
+      "english": "Is there a bus to the beach?",
+      "albanian": "A ka autobus për në plazh?",
+      "transliteration": "A ka autobus per ne plazh?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T22:37:23.537429"
+    },
+    {
+      "english": "How long does it take, by car?",
+      "albanian": "Sa zgjat, me makinë?",
+      "transliteration": "Sa zgjat, me makine?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T22:37:23.537431"
+    },
+    {
+      "english": "Can you show me on the map?",
+      "albanian": "A mund të ma tregoni në hartë?",
+      "transliteration": "A mund te ma tregoni ne harte?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T22:37:23.537433"
+    },
+    {
+      "english": "I’d like a room for one night.",
+      "albanian": "Dua një dhomë për një natë.",
+      "transliteration": "Dua nje dhome per nje nate.",
+      "category": "Travel",
+      "generated_at": "2026-11-12T22:37:23.537434"
     }
   ],
-  "last_updated": "2026-11-12T21:17:11.499684"
+  "last_updated": "2026-11-12T22:37:23.537436"
 }
