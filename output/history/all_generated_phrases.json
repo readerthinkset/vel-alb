@@ -24359,7 +24359,42 @@
       "transliteration": "Rrënjë të forta, zgjedhje të forta sot.",
       "category": "Strength",
       "generated_at": "2026-11-13T19:32:06.912979"
+    },
+    {
+      "english": "The cat rubs against my leg.",
+      "albanian": "Macja fërkohet pas këmbës sime.",
+      "transliteration": "Matsja ferkohet pas kembes sime",
+      "category": "Animals",
+      "generated_at": "2026-11-13T20:44:45.605035"
+    },
+    {
+      "english": "A rooster crows early every morning.",
+      "albanian": "Gjeli këndon herët çdo mëngjes.",
+      "transliteration": "Xheli kendon heret çdo mengjes",
+      "category": "Animals",
+      "generated_at": "2026-11-13T20:44:45.605048"
+    },
+    {
+      "english": "The hen pecks around the yard.",
+      "albanian": "Pula picër rreth e qark oborrit.",
+      "transliteration": "Pula picher rreth e qark oborrit",
+      "category": "Animals",
+      "generated_at": "2026-11-13T20:44:45.605049"
+    },
+    {
+      "english": "The horse trots, calm and steady.",
+      "albanian": "Kalit i shkon hapi, i qetë.",
+      "transliteration": "Kalit i shkon hapi, i qete",
+      "category": "Animals",
+      "generated_at": "2026-11-13T20:44:45.605050"
+    },
+    {
+      "english": "A cow chews slowly, without hurry.",
+      "albanian": "Lopa përtyp ngadalë, pa nxitim.",
+      "transliteration": "Lopa pertyp ngadalë, pa nxitim",
+      "category": "Animals",
+      "generated_at": "2026-11-13T20:44:45.605051"
     }
   ],
-  "last_updated": "2026-11-13T19:32:06.912981"
+  "last_updated": "2026-11-13T20:44:45.605053"
 }
