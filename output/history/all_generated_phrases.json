@@ -24429,7 +24429,42 @@
       "transliteration": "Sulmo heret, para se te organizohen.",
       "category": "Sports",
       "generated_at": "2026-11-13T22:24:57.068847"
+    },
+    {
+      "english": "I need Wi-Fi, can you help?",
+      "albanian": "Më duhet Wi‑Fi, a më ndihmon?",
+      "transliteration": "Me duhet Wi-Fi, a me ndihmon?",
+      "category": "Technology",
+      "generated_at": "2026-11-14T00:36:57.845182"
+    },
+    {
+      "english": "Please restart the app, it froze.",
+      "albanian": "Të lutem, rinise aplikacionin, u bllokua.",
+      "transliteration": "Te lutem, rinise aplikacionin, u bllokua.",
+      "category": "Technology",
+      "generated_at": "2026-11-14T00:36:57.845204"
+    },
+    {
+      "english": "The battery is low, charge it.",
+      "albanian": "Bateria është e ulët, karikoje.",
+      "transliteration": "Bateria eshte e ulet, karikoje.",
+      "category": "Technology",
+      "generated_at": "2026-11-14T00:36:57.845206"
+    },
+    {
+      "english": "Where is the download folder?",
+      "albanian": "Ku është dosja e shkarkimeve?",
+      "transliteration": "Ku eshte dosja e shkarkimeve?",
+      "category": "Technology",
+      "generated_at": "2026-11-14T00:36:57.845208"
+    },
+    {
+      "english": "I accidentally deleted that file.",
+      "albanian": "E fshiva gabimisht atë skedar.",
+      "transliteration": "E fshiva gabimisht ate skedar.",
+      "category": "Technology",
+      "generated_at": "2026-11-14T00:36:57.845209"
     }
   ],
-  "last_updated": "2026-11-13T22:24:57.068849"
+  "last_updated": "2026-11-14T00:36:57.845211"
 }
