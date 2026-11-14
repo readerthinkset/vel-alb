@@ -24569,7 +24569,42 @@
       "transliteration": "Le të prak-ti-ko-jmë fja-li të shkurt-ra.",
       "category": "Education",
       "generated_at": "2026-11-14T18:56:14.009639"
+    },
+    {
+      "english": "Go ahead, start from the beginning.",
+      "albanian": "Vazhdo, fillo nga fillimi.",
+      "transliteration": "va-zho, fii-llo nga fii-li-mi",
+      "category": "Directions",
+      "generated_at": "2026-11-14T21:08:30.931364"
+    },
+    {
+      "english": "Turn your head slightly, please.",
+      "albanian": "Ktheje kokën pak, të lutem.",
+      "transliteration": "k-te-he ko-kən pak, të lu-tem",
+      "category": "Directions",
+      "generated_at": "2026-11-14T21:08:30.931378"
+    },
+    {
+      "english": "Walk straight ahead for two minutes.",
+      "albanian": "Ec drejt për dy minuta.",
+      "transliteration": "ec dreh-t për dy mi-nu-ta",
+      "category": "Directions",
+      "generated_at": "2026-11-14T21:08:30.931380"
+    },
+    {
+      "english": "Stop here, then look around.",
+      "albanian": "Ndale këtu, pastaj shiko përreth.",
+      "transliteration": "n-da-le kë-tu, pas-taj shi-ko për-reth",
+      "category": "Directions",
+      "generated_at": "2026-11-14T21:08:30.931381"
+    },
+    {
+      "english": "Take a left at the corner.",
+      "albanian": "Bëj një kthesë majtas në cep.",
+      "transliteration": "bëj një kthje-së maj-tas në cep",
+      "category": "Directions",
+      "generated_at": "2026-11-14T21:08:30.931381"
     }
   ],
-  "last_updated": "2026-11-14T18:56:14.009641"
+  "last_updated": "2026-11-14T21:08:30.931383"
 }
