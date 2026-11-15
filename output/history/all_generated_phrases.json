@@ -24709,7 +24709,42 @@
       "transliteration": "Kërkoj ndihmë, dhe funksionon.",
       "category": "Confidence",
       "generated_at": "2026-11-15T18:44:13.030989"
+    },
+    {
+      "english": "Practice daily, small wins add up.",
+      "albanian": "Praktiko çdo ditë, fitoret shtohen.",
+      "transliteration": "prak-tiko co do dite, fi-to-ret shto-hen",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T19:31:53.184906"
+    },
+    {
+      "english": "Ask questions, people help you quickly.",
+      "albanian": "Bëj pyetje, njerëzit të ndihmojnë shpejt.",
+      "transliteration": "bej py-e-te, nje-rezit te ndi-ho-moj-ne shpejt",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T19:31:53.184917"
+    },
+    {
+      "english": "Say hello first, it matters a lot.",
+      "albanian": "Thuaj përshëndetje së pari, ka rëndësi.",
+      "transliteration": "thuaj per-shen-de-tje se pa-ri, ka ren-de-si",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T19:31:53.184920"
+    },
+    {
+      "english": "Use Albanian here, even if imperfect.",
+      "albanian": "Përdore shqipen këtu, edhe gabim.",
+      "transliteration": "pe-rdo-re shqipen ke-tu, e-di ga-bim",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T19:31:53.184921"
+    },
+    {
+      "english": "Be brave, mispronounce, and learn.",
+      "albanian": "Bëhu i guximshëm, gabon pak, mëso.",
+      "transliteration": "be-hu i gu-xim-shëm, ga-bon pak, me-so",
+      "category": "Purpose",
+      "generated_at": "2026-11-15T19:31:53.184923"
     }
   ],
-  "last_updated": "2026-11-15T18:44:13.030990"
+  "last_updated": "2026-11-15T19:31:53.184925"
 }
