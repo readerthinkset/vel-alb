@@ -24849,7 +24849,42 @@
       "transliteration": "Çfarë rekomandoni për sot?",
       "category": "Restaurant",
       "generated_at": "2026-11-16T05:34:50.222108"
+    },
+    {
+      "english": "I wake up, slowly, and smile.",
+      "albanian": "Zgjohem ngadalë, dhe buzëqesh.",
+      "transliteration": "zgjohem ngadalë, dhe buzëqesh",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-16T21:55:14.173273"
+    },
+    {
+      "english": "I reach for my phone, first.",
+      "albanian": "Kap telefonin, i pari.",
+      "transliteration": "kap telefonin, i pari",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-16T21:55:14.173297"
+    },
+    {
+      "english": "I sit up, and rub my eyes.",
+      "albanian": "Ulem, dhe fërkoj sytë.",
+      "transliteration": "ulem, dhe fërkoj sytë",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-16T21:55:14.173302"
+    },
+    {
+      "english": "I drink water, then brush my teeth.",
+      "albanian": "Pi ujë, pastaj laj dhëmbët.",
+      "transliteration": "pi ujë, pastaj laj dhëmbët",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-16T21:55:14.173304"
+    },
+    {
+      "english": "I rinse my mouth, quickly.",
+      "albanian": "Shpëlaj gojën, shpejt.",
+      "transliteration": "shpëlaj gojën, shpejt",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-16T21:55:14.173305"
     }
   ],
-  "last_updated": "2026-11-16T05:34:50.222111"
+  "last_updated": "2026-11-16T21:55:14.173307"
 }
