@@ -24814,7 +24814,42 @@
       "transliteration": "Ndodh diçka e mire, dhe e ve re.",
       "category": "Joy",
       "generated_at": "2026-11-15T23:40:56.665949"
+    },
+    {
+      "english": "I’ll start with the soup, please.",
+      "albanian": "Do ta nis me supën, ju lutem.",
+      "transliteration": "Do ta nis me supën, ju lutem.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T05:34:50.222088"
+    },
+    {
+      "english": "Can I have a menu, please?",
+      "albanian": "Mund të më sillni menunë, ju lutem?",
+      "transliteration": "Mund te me sillni menune, ju lutem?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T05:34:50.222102"
+    },
+    {
+      "english": "I’d like sparkling water, please.",
+      "albanian": "Do ujë të gazuar, ju lutem.",
+      "transliteration": "Do ujë të gazuar, ju lutem.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T05:34:50.222104"
+    },
+    {
+      "english": "Is the bread served warm here?",
+      "albanian": "A e shërbejnë bukën të ngrohtë këtu?",
+      "transliteration": "A e sherbejne buken te ngrohte kete?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T05:34:50.222106"
+    },
+    {
+      "english": "What do you recommend for today?",
+      "albanian": "Çfarë rekomandoni për sot?",
+      "transliteration": "Çfarë rekomandoni për sot?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T05:34:50.222108"
     }
   ],
-  "last_updated": "2026-11-15T23:40:56.665951"
+  "last_updated": "2026-11-16T05:34:50.222111"
 }
