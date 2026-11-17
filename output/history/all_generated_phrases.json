@@ -24954,7 +24954,42 @@
       "transliteration": "Perdor fjale te thjeshta, vazhdo.",
       "category": "Growth",
       "generated_at": "2026-11-17T00:41:00.914458"
+    },
+    {
+      "english": "Hello! How’s your day going?",
+      "albanian": "Përshëndetje! Si po të ecën dita?",
+      "transliteration": "Per-shendetje! Si po te ece dita?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T02:44:00.958777"
+    },
+    {
+      "english": "Good evening, do you have time?",
+      "albanian": "Mirëmbrëma, a ke pak kohë?",
+      "transliteration": "Mi-rem-bre-ma, a ke pak kohe?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T02:44:00.958790"
+    },
+    {
+      "english": "Excuse me, where is the bus stop?",
+      "albanian": "Më falni, ku është stacioni i autobusit?",
+      "transliteration": "Me falni, ku eshte stacioni i autobusit?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T02:44:00.958792"
+    },
+    {
+      "english": "Is this seat taken, please?",
+      "albanian": "A është ky vend i zënë?",
+      "transliteration": "A eshte ky vend i ze-ne?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T02:44:00.958793"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "albanian": "A mund të paguaj me kartë këtu?",
+      "transliteration": "A mund te paguaj me karte ketu?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T02:44:00.958794"
     }
   ],
-  "last_updated": "2026-11-17T00:41:00.914460"
+  "last_updated": "2026-11-17T02:44:00.958796"
 }
