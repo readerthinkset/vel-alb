@@ -25024,7 +25024,42 @@
       "transliteration": "Kemi pak kohe para darkës.",
       "category": "Time",
       "generated_at": "2026-11-17T07:12:56.506962"
+    },
+    {
+      "english": "Could I get a side salad, please?",
+      "albanian": "Mund të marr një sallatë anësore, ju lutem?",
+      "transliteration": "Mund te marr nje sallate anesore, ju lutem?",
+      "category": "Food",
+      "generated_at": "2026-11-17T20:46:14.719062"
+    },
+    {
+      "english": "Is this bread fresh, today?",
+      "albanian": "A është ky bukë i freskët, sot?",
+      "transliteration": "A eshte ky bukë i fresket, sot?",
+      "category": "Food",
+      "generated_at": "2026-11-17T20:46:14.719075"
+    },
+    {
+      "english": "Please bring ketchup for my fries.",
+      "albanian": "Ju lutem, sillni ketchup për patatet.",
+      "transliteration": "Ju lutem, sillni ketchup per patatet.",
+      "category": "Food",
+      "generated_at": "2026-11-17T20:46:14.719077"
+    },
+    {
+      "english": "I’ll take the grilled chicken, thanks.",
+      "albanian": "Do ta marr pulën e pjekur, faleminderit.",
+      "transliteration": "Do ta marr púlën e pjekur, faleminderit.",
+      "category": "Food",
+      "generated_at": "2026-11-17T20:46:14.719078"
+    },
+    {
+      "english": "Can I have extra napkins, please?",
+      "albanian": "Mund t’i marr peceta shtesë, ju lutem?",
+      "transliteration": "Mund t’i marr peceta shtese, ju lutem?",
+      "category": "Food",
+      "generated_at": "2026-11-17T20:46:14.719079"
     }
   ],
-  "last_updated": "2026-11-17T07:12:56.506964"
+  "last_updated": "2026-11-17T20:46:14.719081"
 }
