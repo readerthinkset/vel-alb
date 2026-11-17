@@ -24989,7 +24989,42 @@
       "transliteration": "A mund te paguaj me karte ketu?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-17T02:44:00.958794"
+    },
+    {
+      "english": "Hold on, I'll be right back.",
+      "albanian": "Më prit pak, kthehem menjëherë.",
+      "transliteration": "Me prit pak, kthehem menjëherë.",
+      "category": "Time",
+      "generated_at": "2026-11-17T07:12:56.506945"
+    },
+    {
+      "english": "Not long now, we'll start soon.",
+      "albanian": "S'ka shumë, do fillojmë shpejt.",
+      "transliteration": "S'ka shumë, do fillojmë shpejt.",
+      "category": "Time",
+      "generated_at": "2026-11-17T07:12:56.506958"
+    },
+    {
+      "english": "Take your time, there is no rush.",
+      "albanian": "Merre rehat, s'ka nxitim.",
+      "transliteration": "Merrre rehat, s'ka nxitim.",
+      "category": "Time",
+      "generated_at": "2026-11-17T07:12:56.506960"
+    },
+    {
+      "english": "Wait, let me check the time.",
+      "albanian": "Prit, ta shoh orën.",
+      "transliteration": "Prit, ta shoh oren.",
+      "category": "Time",
+      "generated_at": "2026-11-17T07:12:56.506961"
+    },
+    {
+      "english": "We have some time before dinner.",
+      "albanian": "Kemi pak kohë para darkës.",
+      "transliteration": "Kemi pak kohe para darkës.",
+      "category": "Time",
+      "generated_at": "2026-11-17T07:12:56.506962"
     }
   ],
-  "last_updated": "2026-11-17T02:44:00.958796"
+  "last_updated": "2026-11-17T07:12:56.506964"
 }
