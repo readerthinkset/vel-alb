@@ -25409,7 +25409,42 @@
       "transliteration": "Kalo nje dite te qete, zemer plot gezim.",
       "category": "Holidays",
       "generated_at": "2026-11-19T20:25:48.016253"
+    },
+    {
+      "english": "Turn up the volume, please, just a bit.",
+      "albanian": "Ngre pak volumin, të lutem.",
+      "transliteration": "ngre pak volumin, te lutem",
+      "category": "Music",
+      "generated_at": "2026-11-19T21:57:27.885303"
+    },
+    {
+      "english": "I love this chorus, it’s catchy.",
+      "albanian": "Më pëlqen ky refren, ka ritëm.",
+      "transliteration": "me pelqen ky refren, ka ritem",
+      "category": "Music",
+      "generated_at": "2026-11-19T21:57:27.885317"
+    },
+    {
+      "english": "Can you mute it, for now?",
+      "albanian": "A mund ta heshtësh, për tani?",
+      "transliteration": "a mund ta heshtesh, per tani",
+      "category": "Music",
+      "generated_at": "2026-11-19T21:57:27.885318"
+    },
+    {
+      "english": "Start the song, from the beginning.",
+      "albanian": "Fillo këngën nga fillimi.",
+      "transliteration": "fIllo kenGen nga fillimi",
+      "category": "Music",
+      "generated_at": "2026-11-19T21:57:27.885333"
+    },
+    {
+      "english": "We’ll dance together, when the beat drops.",
+      "albanian": "Do të kërcejmë bashkë, kur të bjerë ritmi.",
+      "transliteration": "do te kercejme bashke, kur te biere ritmi",
+      "category": "Music",
+      "generated_at": "2026-11-19T21:57:27.885334"
     }
   ],
-  "last_updated": "2026-11-19T20:25:48.016254"
+  "last_updated": "2026-11-19T21:57:27.885335"
 }
