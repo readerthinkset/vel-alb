@@ -25339,7 +25339,42 @@
       "transliteration": "Do ta paguaj tani, me kartë.",
       "category": "Travel",
       "generated_at": "2026-11-19T01:37:26.569305"
+    },
+    {
+      "english": "I have one number for you.",
+      "albanian": "Kam një numër për ty.",
+      "transliteration": "kam nje numer per ty",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:38:39.886497"
+    },
+    {
+      "english": "She counts two, then smiles.",
+      "albanian": "Ajo numëron dy, pastaj buzëqesh.",
+      "transliteration": "ajo numëron dy, pastaj buzeqesh",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:38:39.886511"
+    },
+    {
+      "english": "We need three more minutes.",
+      "albanian": "Na duhen edhe tre minuta.",
+      "transliteration": "na duhen edhe tre minuta",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:38:39.886512"
+    },
+    {
+      "english": "Please take four plates now.",
+      "albanian": "Të lutem, merr katër pjata tani.",
+      "transliteration": "te lutem merr kater pjata tani",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:38:39.886513"
+    },
+    {
+      "english": "I’m thinking of five today.",
+      "albanian": "Jam duke menduar për pesë sot.",
+      "transliteration": "jam duke menduar per pese sot",
+      "category": "Numbers",
+      "generated_at": "2026-11-19T06:38:39.886514"
     }
   ],
-  "last_updated": "2026-11-19T01:37:26.569307"
+  "last_updated": "2026-11-19T06:38:39.886515"
 }
