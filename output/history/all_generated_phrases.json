@@ -25304,7 +25304,42 @@
       "transliteration": "Fjalet e tua me vlejne shume.",
       "category": "Gratitude",
       "generated_at": "2026-11-18T23:17:32.112284"
+    },
+    {
+      "english": "Good morning, how much is breakfast?",
+      "albanian": "Mirëmëngjes, sa kushton mëngjesi?",
+      "transliteration": "Mirëmengjes, sa kushton mengjesi?",
+      "category": "Travel",
+      "generated_at": "2026-11-19T01:37:26.569288"
+    },
+    {
+      "english": "Where can I buy fresh bread?",
+      "albanian": "Ku mund të blej bukë të freskët?",
+      "transliteration": "Ku mund të blej bukë të freskët?",
+      "category": "Travel",
+      "generated_at": "2026-11-19T01:37:26.569300"
+    },
+    {
+      "english": "Is there a towel in the room?",
+      "albanian": "A ka peshqir në dhomë?",
+      "transliteration": "A ka peshqir në dhomë?",
+      "category": "Travel",
+      "generated_at": "2026-11-19T01:37:26.569302"
+    },
+    {
+      "english": "Could I have extra pillows, please?",
+      "albanian": "Mund të kem edhe dy jastëkë, ju lutem?",
+      "transliteration": "Mund të kem edhe dy jastëkë, ju lutem?",
+      "category": "Travel",
+      "generated_at": "2026-11-19T01:37:26.569303"
+    },
+    {
+      "english": "I’ll pay now, by card.",
+      "albanian": "Do ta paguaj tani, me kartë.",
+      "transliteration": "Do ta paguaj tani, me kartë.",
+      "category": "Travel",
+      "generated_at": "2026-11-19T01:37:26.569305"
     }
   ],
-  "last_updated": "2026-11-18T23:17:32.112287"
+  "last_updated": "2026-11-19T01:37:26.569307"
 }
