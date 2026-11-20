@@ -25479,7 +25479,42 @@
       "transliteration": "Ti je një mik i vërtetë, gjithmonë.",
       "category": "Friendship",
       "generated_at": "2026-11-19T23:25:46.638822"
+    },
+    {
+      "english": "Go straight, then turn right.",
+      "albanian": "Shko drejt, pastaj kthehu djathtas.",
+      "transliteration": "shko dret, pastaj kthehu djathtas",
+      "category": "Directions",
+      "generated_at": "2026-11-20T01:36:07.917165"
+    },
+    {
+      "english": "Walk two blocks, then stop.",
+      "albanian": "Ec dy blloqe, pastaj ndalo.",
+      "transliteration": "ec dy bloqe, pastaj ndalo",
+      "category": "Directions",
+      "generated_at": "2026-11-20T01:36:07.917178"
+    },
+    {
+      "english": "Please look at the sign.",
+      "albanian": "Ju lutem, shihni shenjën.",
+      "transliteration": "ju lutem, shihni shenjen",
+      "category": "Directions",
+      "generated_at": "2026-11-20T01:36:07.917180"
+    },
+    {
+      "english": "Check the street, it’s near.",
+      "albanian": "Shiko rrugën, është afër.",
+      "transliteration": "shiko rrugen, eshte afer",
+      "category": "Directions",
+      "generated_at": "2026-11-20T01:36:07.917181"
+    },
+    {
+      "english": "Cross the road carefully.",
+      "albanian": "Kalojeni rrugën me kujdes.",
+      "transliteration": "kalo-ye-ni rrugen me kujdes",
+      "category": "Directions",
+      "generated_at": "2026-11-20T01:36:07.917182"
     }
   ],
-  "last_updated": "2026-11-19T23:25:46.638823"
+  "last_updated": "2026-11-20T01:36:07.917184"
 }
