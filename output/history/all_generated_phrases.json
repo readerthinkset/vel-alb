@@ -25759,7 +25759,42 @@
       "transliteration": "Retë shpërndahen, dhe drita kthehet.",
       "category": "Weather",
       "generated_at": "2026-11-21T19:03:00.439930"
+    },
+    {
+      "english": "A sparrow chirps on the windowsill.",
+      "albanian": "Një harabel cicëron mbi pragun e dritares.",
+      "transliteration": "Një harabel tsitse-ron mbi pragun e dritares.",
+      "category": "Animals",
+      "generated_at": "2026-11-21T20:21:12.441923"
+    },
+    {
+      "english": "The seagull circles above the beach.",
+      "albanian": "Një pulëbardhë rrotullohet mbi plazh.",
+      "transliteration": "Një pulëbardhë rotull-ohet mbi plazh.",
+      "category": "Animals",
+      "generated_at": "2026-11-21T20:21:12.441936"
+    },
+    {
+      "english": "A rabbit hops through the garden path.",
+      "albanian": "Një lepur kërcen nëpër shtegun e kopshtit.",
+      "transliteration": "Një lepur kërcen nëpër shtegun e kopshtit.",
+      "category": "Animals",
+      "generated_at": "2026-11-21T20:21:12.441937"
+    },
+    {
+      "english": "A koala sleeps in a eucalyptus tree.",
+      "albanian": "Një koala fle në një pemë eukalipt.",
+      "transliteration": "Një koala fle në një pemë eukalipt.",
+      "category": "Animals",
+      "generated_at": "2026-11-21T20:21:12.441938"
+    },
+    {
+      "english": "The monkey swings, laughing loudly.",
+      "albanian": "Një majmun lëkundet, duke qeshur me zë të lartë.",
+      "transliteration": "Një majmun lëkundet, duke qeshur me zë të lartë.",
+      "category": "Animals",
+      "generated_at": "2026-11-21T20:21:12.441939"
     }
   ],
-  "last_updated": "2026-11-21T19:03:00.439932"
+  "last_updated": "2026-11-21T20:21:12.441940"
 }
