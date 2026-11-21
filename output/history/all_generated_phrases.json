@@ -25724,7 +25724,42 @@
       "transliteration": "A vjen në ngry-rën ti-me?",
       "category": "Shopping",
       "generated_at": "2026-11-21T06:17:27.290035"
+    },
+    {
+      "english": "It’s raining lightly, so bring a jacket.",
+      "albanian": "Po bie shi lehtë, merr një xhaketë.",
+      "transliteration": "Po bie shi lehtë, merr një xhaketë.",
+      "category": "Weather",
+      "generated_at": "2026-11-21T19:03:00.439893"
+    },
+    {
+      "english": "The sun is out, everything looks bright.",
+      "albanian": "Dielli ka dalë, gjithçka duket e ndritshme.",
+      "transliteration": "Dielli ka dalë, gjithçka duket e ndritshme.",
+      "category": "Weather",
+      "generated_at": "2026-11-21T19:03:00.439926"
+    },
+    {
+      "english": "A light breeze cools the afternoon.",
+      "albanian": "Një erë e lehtë e freskon pasditen.",
+      "transliteration": "Një erë e lehtë e freskon pasditen.",
+      "category": "Weather",
+      "generated_at": "2026-11-21T19:03:00.439927"
+    },
+    {
+      "english": "The sky is bright, no rain today.",
+      "albanian": "Qielli është i kthjellët, s’ka shi sot.",
+      "transliteration": "Qielli është i kthjellët, s’ka shi sot.",
+      "category": "Weather",
+      "generated_at": "2026-11-21T19:03:00.439929"
+    },
+    {
+      "english": "Clouds break apart, and the light returns.",
+      "albanian": "Retë shpërndahen, dhe drita kthehet.",
+      "transliteration": "Retë shpërndahen, dhe drita kthehet.",
+      "category": "Weather",
+      "generated_at": "2026-11-21T19:03:00.439930"
     }
   ],
-  "last_updated": "2026-11-21T06:17:27.290037"
+  "last_updated": "2026-11-21T19:03:00.439932"
 }
