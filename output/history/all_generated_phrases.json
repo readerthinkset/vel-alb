@@ -25689,7 +25689,42 @@
       "transliteration": "bË-j NË py-ET-je, dhe CHLOD-hu.",
       "category": "Motivation",
       "generated_at": "2026-11-21T01:01:06.483087"
+    },
+    {
+      "english": "How much does this cost?",
+      "albanian": "Sa kushton kjo?",
+      "transliteration": "Sa kush-ton kjo?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T06:17:27.290018"
+    },
+    {
+      "english": "Do you have it in black?",
+      "albanian": "E keni edhe në të zezë?",
+      "transliteration": "E ke-ni e dhe në të ze-zë?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T06:17:27.290030"
+    },
+    {
+      "english": "Is there a smaller size?",
+      "albanian": "Ka një madhësi më të vogël?",
+      "transliteration": "Ka një ma-dhi-si më të vo-gël?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T06:17:27.290032"
+    },
+    {
+      "english": "What sizes are available?",
+      "albanian": "Cilat madhësi keni?",
+      "transliteration": "Ci-lat ma-dhi-si ke-ni?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T06:17:27.290034"
+    },
+    {
+      "english": "Does it come in my color?",
+      "albanian": "A vjen në ngjyrën time?",
+      "transliteration": "A vjen në ngry-rën ti-me?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T06:17:27.290035"
     }
   ],
-  "last_updated": "2026-11-21T01:01:06.483089"
+  "last_updated": "2026-11-21T06:17:27.290037"
 }
