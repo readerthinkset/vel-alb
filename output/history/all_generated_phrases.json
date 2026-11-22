@@ -25829,7 +25829,42 @@
       "transliteration": "Shoj në ba-njo, men-jë-he-rë.",
       "category": "Daily Routine",
       "generated_at": "2026-11-21T22:03:04.402917"
+    },
+    {
+      "english": "Can you reset my phone, please?",
+      "albanian": "Mund ta ristartos telefonin, të lutem?",
+      "transliteration": "Mund ta ristartos telefonin, te lutem?",
+      "category": "Technology",
+      "generated_at": "2026-11-22T00:00:58.100197"
+    },
+    {
+      "english": "The app won’t open, what now?",
+      "albanian": "Aplikacioni s’po hapet, çfarë të bëj?",
+      "transliteration": "Aplikacioni s'po hapet, cfare te bej?",
+      "category": "Technology",
+      "generated_at": "2026-11-22T00:00:58.100211"
+    },
+    {
+      "english": "I’m low on storage, help!",
+      "albanian": "Kam pak hapësirë, më ndihmo!",
+      "transliteration": "Kam pak hapësire, me ndihmo!",
+      "category": "Technology",
+      "generated_at": "2026-11-22T00:00:58.100213"
+    },
+    {
+      "english": "Where can I change the language?",
+      "albanian": "Ku i ndryshoj gjuhën?",
+      "transliteration": "Ku i ndryshoj guhen?",
+      "category": "Technology",
+      "generated_at": "2026-11-22T00:00:58.100214"
+    },
+    {
+      "english": "Turn on Bluetooth, then search.",
+      "albanian": "Ndize Bluetooth-in, pastaj kërko.",
+      "transliteration": "Ndize Bluetooth-in, pastaj kerko.",
+      "category": "Technology",
+      "generated_at": "2026-11-22T00:00:58.100215"
     }
   ],
-  "last_updated": "2026-11-21T22:03:04.402920"
+  "last_updated": "2026-11-22T00:00:58.100217"
 }
