@@ -26004,7 +26004,42 @@
       "transliteration": "Fli-llo me pak, pas-taj ndër-to fja-li-të.",
       "category": "Purpose",
       "generated_at": "2026-11-22T22:19:51.062554"
+    },
+    {
+      "english": "How’s it going, my friend?",
+      "albanian": "Si po shkon, miku im?",
+      "transliteration": "Si po shkon, miku im?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-23T00:34:51.612201"
+    },
+    {
+      "english": "I’m on my way now.",
+      "albanian": "Po vij tani.",
+      "transliteration": "Po vij tani.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-23T00:34:51.612214"
+    },
+    {
+      "english": "Take your time, please.",
+      "albanian": "Merre kohën tënde, të lutem.",
+      "transliteration": "Merrе kohën tënde, të lutem.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-23T00:34:51.612216"
+    },
+    {
+      "english": "No worries, we’ll handle it.",
+      "albanian": "Mos u shqetëso, do e rregullojmë.",
+      "transliteration": "Mos u shqetëso, do e rregullojmë.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-23T00:34:51.612218"
+    },
+    {
+      "english": "What’s the plan for today?",
+      "albanian": "Cili është plani për sot?",
+      "transliteration": "Cili është plani për sot?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-23T00:34:51.612219"
     }
   ],
-  "last_updated": "2026-11-22T22:19:51.062556"
+  "last_updated": "2026-11-23T00:34:51.612220"
 }
