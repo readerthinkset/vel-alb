@@ -26074,7 +26074,42 @@
       "transliteration": "Mandibula jote te dhemb pak,",
       "category": "Body Parts",
       "generated_at": "2026-11-23T06:36:47.390261"
+    },
+    {
+      "english": "Hi! What’s your name?",
+      "albanian": "Përshëndetje! Si e ke emrin?",
+      "transliteration": "Përshëndetje! Si e ke emrin?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T23:55:05.709546"
+    },
+    {
+      "english": "I’d like a coffee, please.",
+      "albanian": "Dua një kafe, ju lutem.",
+      "transliteration": "Dua një kafe, ju lutem.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T23:55:05.709563"
+    },
+    {
+      "english": "Is there Wi‑Fi here, please?",
+      "albanian": "A ka Wi‑Fi këtu, ju lutem?",
+      "transliteration": "A ka Wi‑Fi këtu, ju lutem?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T23:55:05.709564"
+    },
+    {
+      "english": "Where is the bathroom, please?",
+      "albanian": "Ku është tualeti, ju lutem?",
+      "transliteration": "Ku është tualeti, ju lutem?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T23:55:05.709566"
+    },
+    {
+      "english": "How do I get to downtown?",
+      "albanian": "Si shkoj në qendër të qytetit?",
+      "transliteration": "Si shkoj në qendër të qytetit?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T23:55:05.709567"
     }
   ],
-  "last_updated": "2026-11-23T06:36:47.390263"
+  "last_updated": "2026-11-23T23:55:05.709569"
 }
