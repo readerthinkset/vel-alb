@@ -26179,7 +26179,42 @@
       "transliteration": "Zhvendosu bute, lëri ijet të qetësohen.",
       "category": "Balance",
       "generated_at": "2026-11-24T03:13:16.527755"
+    },
+    {
+      "english": "Can we get water, please?",
+      "albanian": "A mund të na sillni ujë, ju lutem?",
+      "transliteration": "A mund te na sillni uje, ju lutem?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T04:33:40.778893"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "albanian": "A keni opsione pa gluten?",
+      "transliteration": "A keni opsione pa gluten?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T04:33:40.778907"
+    },
+    {
+      "english": "I’d like it without onions, please.",
+      "albanian": "Do ta doja pa qepë, ju lutem.",
+      "transliteration": "Do ta doja pa qepë, ju lutem.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T04:33:40.778910"
+    },
+    {
+      "english": "How spicy is this, exactly?",
+      "albanian": "Sa pikant është kjo, tamam?",
+      "transliteration": "Sa pikant eshte kjo, tamam?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T04:33:40.778911"
+    },
+    {
+      "english": "What’s the seafood special tonight?",
+      "albanian": "Cila është pjata e veçantë me peshk sonte?",
+      "transliteration": "Cila eshte pjata e vecante me peshk sonte?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-24T04:33:40.778913"
     }
   ],
-  "last_updated": "2026-11-24T03:13:16.527757"
+  "last_updated": "2026-11-24T04:33:40.778915"
 }
