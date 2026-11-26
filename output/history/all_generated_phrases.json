@@ -26564,7 +26564,42 @@
       "transliteration": "Me vjen pak turp, kur me shohin.",
       "category": "Feelings",
       "generated_at": "2026-11-26T07:32:52.250920"
+    },
+    {
+      "english": "I have one question for you.",
+      "albanian": "Kam një pyetje për ty.",
+      "transliteration": "Kam një pyetje për ty.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T21:20:59.052378"
+    },
+    {
+      "english": "Please count two, then stop.",
+      "albanian": "Numëro dy, pastaj ndalo.",
+      "transliteration": "Numëro dy, pastaj ndalo.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T21:20:59.052395"
+    },
+    {
+      "english": "Let’s try three steps together.",
+      "albanian": "Le të provojmë tre hapa së bashku.",
+      "transliteration": "Le të provojmë tre hapa së bashku.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T21:20:59.052397"
+    },
+    {
+      "english": "We have four tickets left.",
+      "albanian": "Na kanë mbetur katër bileta.",
+      "transliteration": "Na kanë mbetur katër bileta.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T21:20:59.052398"
+    },
+    {
+      "english": "I bought five apples today.",
+      "albanian": "Sot bleva pesë mollë.",
+      "transliteration": "Sot bleva pesë mollë.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T21:20:59.052399"
     }
   ],
-  "last_updated": "2026-11-26T07:32:52.250922"
+  "last_updated": "2026-11-26T21:20:59.052402"
 }
