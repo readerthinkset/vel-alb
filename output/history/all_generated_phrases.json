@@ -26655,7 +26655,28 @@
       "transliteration": "Vazhdo, je afer.",
       "category": "Directions",
       "generated_at": "2026-11-27T11:43:15.914199"
+    },
+    {
+      "english": "The lion roars from the savanna.",
+      "albanian": "Luani ulërin nga savana.",
+      "transliteration": "Luani ulërin nga sava-na.",
+      "category": "Animals",
+      "generated_at": "2026-11-27T19:24:03.461115"
+    },
+    {
+      "english": "A camel sways as it walks.",
+      "albanian": "Deveja tundet teksa ecën.",
+      "transliteration": "Deveja tundet teksa ecën.",
+      "category": "Animals",
+      "generated_at": "2026-11-27T19:24:03.461127"
+    },
+    {
+      "english": "The elephant steps carefully, step by step.",
+      "albanian": "Elefanti shkel me kujdes, hap pas hapi.",
+      "transliteration": "Elefanti shkel me kujdes, hap pas hapi.",
+      "category": "Animals",
+      "generated_at": "2026-11-27T19:24:03.461129"
     }
   ],
-  "last_updated": "2026-11-27T11:43:15.914201"
+  "last_updated": "2026-11-27T19:24:03.461131"
 }
