@@ -26634,7 +26634,28 @@
       "transliteration": "Kërko ndihmë, ji i guximshëm.",
       "category": "Courage",
       "generated_at": "2026-11-26T22:45:55.584575"
+    },
+    {
+      "english": "Come with me, please.",
+      "albanian": "Eja me mua, të lutem.",
+      "transliteration": "Eya me mua, te lutem.",
+      "category": "Directions",
+      "generated_at": "2026-11-27T11:43:15.914186"
+    },
+    {
+      "english": "Head that way, slowly.",
+      "albanian": "Shko andej, ngadalë.",
+      "transliteration": "Shko andej, ngadalë.",
+      "category": "Directions",
+      "generated_at": "2026-11-27T11:43:15.914198"
+    },
+    {
+      "english": "Keep going, you’re close.",
+      "albanian": "Vazhdo, je afër.",
+      "transliteration": "Vazhdo, je afer.",
+      "category": "Directions",
+      "generated_at": "2026-11-27T11:43:15.914199"
     }
   ],
-  "last_updated": "2026-11-26T22:45:55.584577"
+  "last_updated": "2026-11-27T11:43:15.914201"
 }
