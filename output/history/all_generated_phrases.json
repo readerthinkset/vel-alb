@@ -26676,7 +26676,28 @@
       "transliteration": "Elefanti shkel me kujdes, hap pas hapi.",
       "category": "Animals",
       "generated_at": "2026-11-27T19:24:03.461129"
+    },
+    {
+      "english": "It’s almost time, just ahead.",
+      "albanian": "Është gati koha, pak para.",
+      "transliteration": "Eshtë gati koha, pak para",
+      "category": "Time",
+      "generated_at": "2026-11-28T03:40:32.869052"
+    },
+    {
+      "english": "Check the time, and tell me.",
+      "albanian": "Shiko orën, dhe më thuaj.",
+      "transliteration": "Shiko oren, dhe me thuaj",
+      "category": "Time",
+      "generated_at": "2026-11-28T03:40:32.869067"
+    },
+    {
+      "english": "Take a minute, I’m on my way.",
+      "albanian": "Më jep një minutë, jam duke ardhur.",
+      "transliteration": "Me jep nje minute, jam duke ardhur",
+      "category": "Time",
+      "generated_at": "2026-11-28T03:40:32.869069"
     }
   ],
-  "last_updated": "2026-11-27T19:24:03.461131"
+  "last_updated": "2026-11-28T03:40:32.869070"
 }
