@@ -26697,7 +26697,28 @@
       "transliteration": "Me jep nje minute, jam duke ardhur",
       "category": "Time",
       "generated_at": "2026-11-28T03:40:32.869069"
+    },
+    {
+      "english": "Hi there, I’m happy you’re here.",
+      "albanian": "Përshëndetje, jam i lumtur që erdhe.",
+      "transliteration": "Pershendetje, jam i lumtur qe erdhe.",
+      "category": "Greetings",
+      "generated_at": "2026-11-28T11:19:00.291181"
+    },
+    {
+      "english": "Hello, hope you’re doing well today.",
+      "albanian": "Tungjatjeta, shpresoj të jesh mirë sot.",
+      "transliteration": "Tungjatjeta, shpresoj te jesh mire sot.",
+      "category": "Greetings",
+      "generated_at": "2026-11-28T11:19:00.291191"
+    },
+    {
+      "english": "Good to see you again today.",
+      "albanian": "Sa mirë që të shoh përsëri sot.",
+      "transliteration": "Sa mire qe te shoh perseri sot.",
+      "category": "Greetings",
+      "generated_at": "2026-11-28T11:19:00.291193"
     }
   ],
-  "last_updated": "2026-11-28T03:40:32.869070"
+  "last_updated": "2026-11-28T11:19:00.291195"
 }
